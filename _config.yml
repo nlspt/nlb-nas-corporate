@@ -1,7 +1,6 @@
-title: Title
-title-abbreviated: Title
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
+title: National Archives of Singapore
+title-abbreviated: NAS
+description: NAS corporate website
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

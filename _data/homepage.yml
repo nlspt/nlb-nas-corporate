@@ -8,7 +8,7 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/naslogo.svg
 
 # Hero Banner
 hero-title: Hero title
@@ -19,17 +19,26 @@ hero-banner: /images/hero-banner.png
 button:
   - text: Learn More
     url: /who-we-are/
-    
+
 key-highlights:
-  - title: Highlight A
+  - title: Former Ford Factory
     description: Important highlight A is important
     url: https://google.com
     external: true
-  - title: Highlight B
+  - title: Citizen Archivist
     description: Important highlight B is equally important
     url: https://yahoo.com
     external: true
-  - title: Page A
+  - title: Archives Online
     description: Page A is important too
     url: /page-A/
 
+- title: Singapore Policy History Project
+  description: Important highlight B is equally important
+  url: https://yahoo.com
+  external: true
+
+- title: Off The Record
+  description: Important highlight B is equally important
+  url: https://yahoo.com
+  external: true

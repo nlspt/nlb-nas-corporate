@@ -22,23 +22,22 @@ button:
 
 key-highlights:
   - title: Former Ford Factory
-    description: Important highlight A is important
-    url: https://google.com
+    description: Former Ford Factory
+    url: http://www.nas.gov.sg/formerfordfactory
     external: true
   - title: Citizen Archivist
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+    description: Citizen Archivist
+    url: http://www.nas.gov.sg/citizenarchivist
     external: true
   - title: Archives Online
-    description: Page A is important too
-    url: /page-A/
-
+    description: Archives Online
+    url: http://www.nas.gov.sg/archivesonline/
+    external: true
 - title: Singapore Policy History Project
-  description: Important highlight B is equally important
-  url: https://yahoo.com
+  description: Singapore Policy History Project
+  url: http://www.nas.gov.sg/archivesonline/policy_history/
   external: true
-
 - title: Off The Record
-  description: Important highlight B is equally important
-  url: https://yahoo.com
+  description: Off The Record
+  url: http://www.nas.gov.sg/blogs/offtherecord/about/about-nas/
   external: true

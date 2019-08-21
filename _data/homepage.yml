@@ -19,3 +19,25 @@ hero-banner: /images/hero-banner.png
 button:
   - text: Learn More
     url: /who-we-are/
+
+key-highlights:
+  - title: Former Ford Factory
+    description: Former Ford Factory
+    url: http://www.nas.gov.sg/formerfordfactory
+    external: true
+  - title: Citizen Archivist
+    description: Citizen Archivist
+    url: http://www.nas.gov.sg/citizenarchivist
+    external: true
+  - title: Archives Online
+    description: Archives Online
+    url: http://www.nas.gov.sg/archivesonline/
+    external: true
+  - title: Singapore Policy History Project
+    description: Singapore Policy History Project
+    url: http://www.nas.gov.sg/archivesonline/policy_history/
+    external: true
+  - title: Off The Record
+    description: Off The Record
+    url: http://www.nas.gov.sg/blogs/offtherecord/about/about-nas/
+    external: true

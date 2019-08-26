@@ -12,8 +12,8 @@ agency-logo: /images/logo-nas.svg
 
 # Hero Banner
 hero-title: National Archives of Singapore
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.jpg
+hero-subtitle: 
+hero-banner: /images/nasbuilding.jpg
 
 #Call to Action Button
 button:

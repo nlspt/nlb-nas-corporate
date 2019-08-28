@@ -19,3 +19,15 @@ hero-banner: /images/nasbuilding.jpg
 button:
   - text: Learn More
     url: /who-we-are/
+
+#Highlights
+key-highlights:
+  - title: Former Ford Factory
+    description: Former Ford Factory
+    url: http://www.nas.gov.sg/formerfordfactory
+    external: true
+  - title: Citizen Archivist
+    description: Contribute to Archives
+    url: http://www.nas.gov.sg/citizenarchivist
+    external: true
+  

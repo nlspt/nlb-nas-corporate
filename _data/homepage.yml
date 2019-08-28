@@ -38,3 +38,20 @@ key-highlights:
     description: Off The Record
     url: http://www.nas.gov.sg/blogs/offtherecord/about/about-nas/
     external: true
+    
+# Info Sections
+info-sections:
+  - section-title: Features
+    section-subtitle: The Making of A Nation
+    section-more-button: Go to Singapore Policy History
+    section-description: On 3 June 1959, the 1.6 million people in Singapore awoke to a new beginning - as people of a fully internal self-governing city state under the British Crown. Many were immigrants and had no deep-rooted ties to Singapore. The new government thus needed to encourage them to establish roots in Singapore, and to foster a sense of pride, loyalty and national identity.
+    section-more-button-url: http://www.nas.gov.sg/archivesonline/policy_history/nation-building
+    section-image-path: /images/makingOfANation.jpg
+    section-image-alt: Making of A Nation
+  - section-title: Features
+    section-subtitle: Stories of Yesteryear
+    section-more-button: Go to Singapore Policy History
+    section-description: If a picture is worth a thousand words, then a map must be worth a million. Take a look at these story maps and be amazed by the stories they embed
+    section-more-button-url: https://tv.toggle.sg/en/shows/stories-of-yesteryear-moments-in-time/episodes.jpg     
+    section-image-path: /images/storiesOfYesteryear.jpg
+    section-image-alt: Stories of Yesteryear on Toggle

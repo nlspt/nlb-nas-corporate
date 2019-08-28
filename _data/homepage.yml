@@ -22,20 +22,16 @@ button:
 
 #Highlights
 key-highlights:
-  - title: Former Ford Factory
-    description: Former Ford Factory
-    url: http://www.nas.gov.sg/formerfordfactory
-    external: true
   - title: Citizen Archivist
-    description: Contribute to Archives
+    description: 
     url: http://www.nas.gov.sg/citizenarchivist
     external: true
   - title: Archives Online
-    description: Archives Online
+    description: 
     url: http://www.nas.gov.sg/archivesonline/
     external: true
   - title: Singapore Policy History Project
-    description: Singapore Policy History Project
+    description: 
     url: http://www.nas.gov.sg/archivesonline/policy_history/
     external: true
   - title: Off The Record

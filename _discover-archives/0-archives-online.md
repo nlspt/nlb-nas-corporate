@@ -1,7 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Archives Online
-permalink: /discover-archives/archives-online/
+permalink: http://www.nas.gov.sg/archivesonline/
 breadcrumb: Archives Online
 collection_name: discover-r-archives
 ---
+

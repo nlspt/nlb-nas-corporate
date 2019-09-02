@@ -6,25 +6,11 @@ breadcrumb: Exhibitions
 collection_name: outreach
 ---
 
-Exhibitions
 
- 
 
 **Law of the Land: Highlights of Singapore’s Constitutional Documents**
 
- 
-
-
-
- 
-
-
-
 ![Law of the Land Exhibition](http://www.nas.gov.sg/portals/1/images/Modified/v2%20(REVISED%20-%20No%20Free%20Admission)%20MSD227_NSD_POSTER_C3_R11_A3_for_print636517741496443568-resize540x763.jpg?ver=2018-01-17-163101-727)
-
-
-
-
 
 
 
@@ -40,33 +26,17 @@ Exhibitions
 
  
 
- 
-
 **About the Exhibition**
-
- 
 
 A constitution is a legal document that lays out the structure of government and the fundamental laws and principles governing a country and its people. In Singapore, the Constitution of the Republic of Singapore is the supreme law of the land that all other local laws must conform to. It prescribes the important distribution of authority between the three arms of the state: the legislature, the executive and the judiciary. It safeguards fundamental rights Singaporeans enjoy, such as equality before the law, equal protection of the law and the freedom of religion, among others. The sovereignty of Singapore is entrenched within the constitution. It has been called a “pragmatic document” that provides the framework for social, political and economic development that helps Singapore thrive.  
 
- 
-
 *Law of the Land: Highlights of Singapore’s Constitutional Documents* explores the history and development of Singapore’s constitution from Singapore’s founding as a British settlement in 1819 to its emergence as a sovereign republic in 1965.
-
- 
 
 The exhibition features rare constitutional documents from the collections of the National Archives of Singapore and National Library, Singapore. The documents capture key moments in Singapore’s constitutional history and also throw light on milestones in our island-nation’s history. 
 
- 
-
 The exhibition is held at the historic former Chief Justice’s Chamber and Office at the National Gallery Singapore.
 
- 
 
-[Back To Top](http://www.nas.gov.sg/Outreach/Exhibitions#top)
-
- 
-
- 
 
 **Visitor Information**
 
@@ -97,15 +67,7 @@ Tickets are required for admission into all exhibition galleries. Tickets are fr
 
  
 
-[Back To Top](http://www.nas.gov.sg/Outreach/Exhibitions#top)
-
- 
-
- 
-
 **Public Tours**
-
- 
 
 Join our curator-led Insights Tours and docent-led Highlights Tours to discover more about Singapore’s constitutional documents! All tours are free and conducted in English.
 
@@ -133,23 +95,13 @@ All tour participants must first go to B1 ticketing to get an admission sticker.
 
 
 
-[Back To Top](http://www.nas.gov.sg/Outreach/Exhibitions#top)
-
- 
-
- 
-
 **Exhibition Highlights**
-
- 
 
 ![Raffles' Regulations](http://www.nas.gov.sg/portals/1/Raffles-Regulations%20%28LR%29.jpg)
 
-**Raffles’ Regulations1823**
+**Raffles’ Regulations 1823**
 
 Raffles promulgated six regulations in 1823, forming the earliest administrative and legal code in Singapore after the arrival of the British. 
-
- 
 
 
 ![Third Charter of Justice](http://www.nas.gov.sg/portals/1/Third%20Charter%20%28LR%29.jpg)
@@ -186,7 +138,7 @@ This constitution marked a political milestone for Singapore, which ceased being
 
 ![Points of Merger Envelope](http://www.nas.gov.sg/portals/1/Points%20of%20Merger%20Envelope%20%28LR%29.jpg)
 
-**Points of Merger Envelope7 July 1965**
+**Points of Merger Envelope 7 July 1965**
 
 On the back of this government envelope are Prime Minister Lee Kuan Yew’s handwritten notes regarding certain aspects of merger discussed and agreed with Malaya’s Prime Minister Tunku Abdul Rahman.
 
@@ -194,7 +146,7 @@ On the back of this government envelope are Prime Minister Lee Kuan Yew’s hand
 
 ![Tunku Abdul Rahman’s Letter to Toh Chin Chye](http://www.nas.gov.sg/portals/1/Tunku%27s%20letter%20%28LR%29.jpg)
 
-**Tunku Abdul Rahman’s Letter to Toh Chin Chye7 August 1965**
+**Tunku Abdul Rahman’s Letter to Toh Chin Chye 7 August 1965**
 
 Malaysia’s Prime Minister Tunku Abdul Rahman wrote this letter to persuade Singapore Deputy Prime Minister Dr Toh Chin Chye of the necessity to separate.
 
@@ -202,17 +154,13 @@ Malaysia’s Prime Minister Tunku Abdul Rahman wrote this letter to persuade Sin
 
 ![Proclamation of the Republic of Singapore](http://www.nas.gov.sg/portals/1/Proclamation%20of%20Singapore%20%28LR%29_1.jpg)
 
-**Proclamation of the Republic of Singapore9 August 1965**
+**Proclamation of the Republic of Singapore 9 August 1965**
 
 This proclamation declared Singapore’s separation from Malaysia and its beginnings as an independent and sovereign republic. 
 
  
 
-[Back To Top](http://www.nas.gov.sg/Outreach/Exhibitions#top)
 
- 
-
- 
 
 **Chief Justice’s Chamber and Office**
 
@@ -224,18 +172,8 @@ This proclamation declared Singapore’s separation from Malaysia and its beginn
 
 *Law of the Land: Highlights of Singapore’s Constitutional Documents* is held at the historic former Chief Justice’s Chamber and Office at National Gallery Singapore’s former Supreme Court Wing.
 
- 
-
 The Supreme Court building and the Chief Justice’s Chamber and Office were designed by the government’s architect Frank Dorrington War and completed in 1939.
-
- 
 
 The original furniture in the Chief Justice’s Chamber and Office were designed by Mr WH Swaffield from the Municipal Architects’ Department in the Public Works Department. Swaffield designed the furniture in the Istana’s banquet halls and throne room.
 
- 
-
 Some original antique furniture in the Chief Justice’s Chamber and Office is integrated with the exhibition. These pieces were hand carved by Singaporean craftsmen trained in British workmanship. Teak wood was predominantly used along with top grade leather upholstery.
-
- 
-
-[Back To Top](http://www.nas.gov.sg/Outreach/Exhibitions#top)

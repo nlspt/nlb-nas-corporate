@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Off The Record
-permalink: /off-the-record/
+permalink: /off-the-record/overview
 breadcrumb: People & Personalities
 collection_name: people
 ---
@@ -19,3 +19,4 @@ collection_name: people
 		</div>
 	</div>
 </div>
+

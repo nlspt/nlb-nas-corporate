@@ -50,7 +50,11 @@ collections:
     output: true
   outreach:
     output: true
-off-the-record:
+  off-the-record:
     output: true
-off-the-record-people-overview:
+  off-the-record-people-overview:
+    output: true
+  asean-countries:
+    output: true
+  asean-countries-know-overview:
     output: true

@@ -50,3 +50,7 @@ collections:
     output: true
   outreach:
     output: true
+off-the-record:
+    output: true
+off-the-record-people-overview:
+    output: true

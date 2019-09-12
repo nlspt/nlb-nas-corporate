@@ -13,19 +13,3 @@ Records—regardless of their medium and format—are the lifeblood of NAS.  Col
 Categories assigned to the topics have remained intentionally broad to allow serendipity to flourish. Evergreen categories such as events, personalities, places, record-centric, records (or collection)-centric, and behind-the-scenes articles are accompanied by certain thematic series depending on our ongoing or past projects.
 
 ##### SO JOIN US ON OUR OFF THE RECORD JOURNEY, OF OUR RECORDS AND PEOPLE.
-
----
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries"><img src="/images/asean-countries/Know-Test-1.jpg" alt="Know ASEAN Countries"></a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/share/what-young-people-say/"><img src="/images/asean-countries/Share-Test-1.jpg" alt="Share ASEAN Countries"></a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/go/for-students/"><img src="/images/asean-countries/Go-Home-Icon.jpg" alt="Go ASEAN Countries"></a>
-		</div>
-	</div>
-</div>

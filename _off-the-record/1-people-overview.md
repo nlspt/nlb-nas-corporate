@@ -1,9 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Off The Record
+title: People
 permalink: /off-the-record/people/people-overview/
 collection_name: off-the-record
-second_nav_title: "People"
 ---
 Highlighting people of interest through our records
 

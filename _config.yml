@@ -54,7 +54,3 @@ collections:
     output: true
   off-the-record-people-overview:
     output: true
-  asean-countries:
-    output: true
-  asean-countries-know-overview:
-    output: true

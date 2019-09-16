@@ -1,3 +1,11 @@
+---
+layout: leftnav-page-content
+title: S. Rajaratnam on Singapore's State Symbols
+permalink: /off-the-record/people/people-overview/sraja/
+breadcrumb: People
+collection_name: off-the-record-people-overview
+---
+
 # S. RAJARATNAM ON SINGAPORE’S STATE SYMBOLS
 
 [Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago4 Min. Read

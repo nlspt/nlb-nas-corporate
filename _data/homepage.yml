@@ -15,13 +15,14 @@ hero-title: National Archives of Singapore
 hero-subtitle:
 hero-banner: /images/nasbuilding.jpg
 
-#Call to Action Button
+# Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+   url: /about-us/mandate/
 
 #Highlights
 key-highlights:
+
   - title: Citizen Archivist
     url: http://www.nas.gov.sg/citizenarchivist
     external: true
@@ -42,12 +43,12 @@ key-highlights:
 # Info Sections
 info-sections:
   - section-title: Features
-    section-subtitle: The Making of A Nation
-    section-more-button: View Post
-    section-description: On 3 June 1959, the 1.6 million people in Singapore awoke to a new beginning - as people of a fully internal self-governing city state under the British Crown. Many were immigrants and had no deep-rooted ties to Singapore. The new government thus needed to encourage them to establish roots in Singapore, and to foster a sense of pride, loyalty and national identity.
-    section-more-button-url: http://www.nas.gov.sg/archivesonline/policy_history/nation-building
-    section-image-path: /images/makingOfANation.jpg
-    section-image-alt: Making of A Nation
+    section-subtitle: NAS 50 Moments in Time
+    section-more-button: Explore Memories
+    section-description: The National Archives of Singapore presents a selection of audiovisual materials and oral history interviews that we have collected and judiciously preserved over the past 50 years for you and our future generations. They capture the times that Singaporeans celebrated, stood up proudly and even cried. Travel to scenes that have vanished and enjoy the treasured memories of Singaporeans from different walks of life.
+    section-more-button-url: http://www.nas.gov.sg/archivesonline/highlight?page=50moments     
+    section-image-path: /images/50moments.jpg
+    section-image-alt: NAS 50 Moments in Time
   - section-title: Features
     section-subtitle: Stories of Yesteryear
     section-more-button: Visit Stories of Yesteryear
@@ -56,9 +57,9 @@ info-sections:
     section-image-path: /images/storiesOfYesteryear.jpg
     section-image-alt: Stories of Yesteryear on Toggle
   - section-title: Features
-    section-subtitle: NAS 50 Moments in Time
-    section-more-button: Explore Memories
-    section-description: The National Archives of Singapore presents a selection of audiovisual materials and oral history interviews that we have collected and judiciously preserved over the past 50 years for you and our future generations. They capture the times that Singaporeans celebrated, stood up proudly and even cried. Travel to scenes that have vanished and enjoy the treasured memories of Singaporeans from different walks of life.
-    section-more-button-url: http://www.nas.gov.sg/archivesonline/highlight?page=50moments     
-    section-image-path: /images/50moments.jpg
-    section-image-alt: NAS 50 Moments in Time
+    section-subtitle: The Making of A Nation
+    section-more-button: View Post
+    section-description: On 3 June 1959, the 1.6 million people in Singapore awoke to a new beginning - as people of a fully internal self-governing city state under the British Crown. Many were immigrants and had no deep-rooted ties to Singapore. The new government thus needed to encourage them to establish roots in Singapore, and to foster a sense of pride, loyalty and national identity.
+    section-more-button-url: http://www.nas.gov.sg/archivesonline/policy_history/nation-building
+    section-image-path: /images/makingOfANation.jpg
+    section-image-alt: Making of A Nation

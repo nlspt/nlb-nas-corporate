@@ -15,14 +15,11 @@ hero-title: National Archives of Singapore
 hero-subtitle:
 hero-banner: /images/nasbuilding.jpg
 
-# Call to Action Button
+#Call to Action Button
 button:
-  - text: Learn More
-      url: /about-us/mandate/
 
 #Highlights
 key-highlights:
-
   - title: Citizen Archivist
     url: http://www.nas.gov.sg/citizenarchivist
     external: true

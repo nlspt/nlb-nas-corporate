@@ -25,15 +25,20 @@ key-highlights:
   - title: Citizen Archivist
     url: http://www.nas.gov.sg/citizenarchivist
     external: true
+    
   - title: Archives Online
     url: http://www.nas.gov.sg/archivesonline/
     external: true
+    
   - title: Singapore Policy History Project
     url: http://www.nas.gov.sg/archivesonline/policy_history/
     external: true
-  - title: Off The Record
+    
+  - title: E-Request
 
-    url: /off-the-record/overview/
+    url: https://www.nas.gov.sg/erequest/#/home
+    
+    external: true
 # Info Sections
 info-sections:
   - section-title: Features

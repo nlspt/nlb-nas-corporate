@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: WWII Comes to Singapore
-permalink: /off-the-record/events/overview/wwii/
+permalink: /off-the-record/events/events-overview/wwii/
 breadcrumb: WWII Comes to Singapore
 collection_name: off-the-record-events-overview
 ---

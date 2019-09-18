@@ -54,3 +54,8 @@ collections:
     output: true
   off-the-record-people-overview:
     output: true
+  off-the-record-events:
+    output: true
+  off-the-record-events-overview:
+    output: true
+  

@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Events
-permalink: /off-the-record/events/overview/memories-of-war/
-breadcrumb: Memories of War and Its Legacies
+permalink: /off-the-record/events/overview/
+breadcrumb: The National Day Parade Throughout the Years: 1966 - 2012
 collection_name: off-the-record-events-overview
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: People
+title: Our People
 permalink: /off-the-record/people/people-overview/
 collection_name: off-the-record
 ---

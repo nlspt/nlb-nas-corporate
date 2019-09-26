@@ -30,7 +30,7 @@ Posts focused on events and periods in Singapore history
 		</div>
 
 <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="/off-the-record/events/events-overview/ndpthroughtheyears/" class="project-link">
+<a href="/off-the-record/events/events-overview/ndp/" class="project-link">
 				<img src="/images/events/ndp.jpg" alt="The National Day Parade Throughout The Years: 1966 - 2012" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">

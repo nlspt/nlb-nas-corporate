@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: National Day Parade Throughout the Years
 permalink: /off-the-record/events/events-overview/ndpthroughtheyears/
-breadcrumb: The National Day Parade Throughout the Years: 1966 - 2012
+breadcrumb: The National Day Parade Throughout the Years
 collection_name: off-the-record-events-overview
 ---
 

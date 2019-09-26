@@ -8,7 +8,7 @@ collection_name: off-the-record
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/people/people-overview/gks-insights-on-golfing/" class="project-link">
+			<a href="/off-the-record/findingaids/findingaids-overview/bukit-brown-cemetery-burial-registers/" class="project-link">
 				<img src="/images/findingaids/bukitbrown.jpg" alt="Bukit Brown Cemetery Burial Registers" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -18,7 +18,7 @@ collection_name: off-the-record
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/people/people-overview/sraja/" class="project-link">
+			<a href="/off-the-record/findingaids/findingaids-overview/bukit-brown-cemetery-burial-registers-online/" class="project-link">
 				<img src="/images/findingaids/bukitbrown.jpg" alt="Bukit Brown Cemetery Burial Registers Online" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">

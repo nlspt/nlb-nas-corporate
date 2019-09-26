@@ -8,7 +8,7 @@ collection_name: off-the-record-people-overview
 
 # DAVID MARSHALL: SINGAPORE’S FIRST CHIEF MINISTER
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 Years Ago12 Min. Read
+[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)  3 Years Ago  12 Min. Read
 
 ![A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/01/dm_raisehandsx.gif)*A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: 19980002917 – 0096*
 

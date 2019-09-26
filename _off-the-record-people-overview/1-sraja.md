@@ -8,7 +8,7 @@ collection_name: off-the-record-people-overview
 
 # S. RAJARATNAM ON SINGAPORE’S STATE SYMBOLS
 
-[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago4 Min. Read
+[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago  4 Min. Read
 
 ![S Rajaratnam, Minister for Culture, in his office, 1950s Source: National Archives of Singapore](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/28-20080000050-img0094-WML-667x1000.jpg)*S Rajaratnam, Minister for Culture, in his office, 1950s*
 *Source: National Archives of Singapore, Ref: 20080000050-0094*

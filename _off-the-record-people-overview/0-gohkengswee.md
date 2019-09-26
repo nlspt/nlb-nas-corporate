@@ -8,7 +8,7 @@ collection_name: off-the-record-people-overview
 
 # DR GOH KENG SWEE’S INSIGHTS ON GOLFING
 
-[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 Years Ago 1 Min. Read
+[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/  3 Years Ago  1 Min. Read
 
 ![19980006752 - 0098 GKS colour wm](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/19980006752-0098-GKS-colour-wm-300x200.jpg)*A portrait of Dr Goh taken in 1984, when he was Singapore’s First Deputy Prime Minister and Minister for Education.* *MITA collection, courtesy of NAS. Ref: 19980006752 – 0098*
 

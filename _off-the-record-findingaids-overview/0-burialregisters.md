@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: The Bukit Brown Cemetery Burial Registers 1922 to 1972
+title: The Bukit Brown Cemetery Burial Registers
 permalink: /off-the-record/findingaids/findingaids-overview/burialregisters/
 breadcrumb: The Bukit Brown Cemetery Burial Registers
 collection_name: off-the-record-findingaids-overview
@@ -8,7 +8,7 @@ collection_name: off-the-record-findingaids-overview
 
 # THE BUKIT BROWN CEMETERY BURIAL REGISTERS 1922 – 1972
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 3 Years Ago 1 Min. Read
+[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/)  3 Years Ago  1 Min. Read
 
 *This is a post contributed by a private researcher, Ms Khoo Ee Hoon, who shares her knowledge about the Bukit Brown Burial Registers which she has been consulting for her private genealogical research.*
 

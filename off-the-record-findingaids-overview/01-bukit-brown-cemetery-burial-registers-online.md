@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Bukit Brown Cemetery Burial Registers Online
+title: Bukit Brown Cemetery Burial Registers Online: 1922 to 1972
 permalink: /off-the-record/findingaids/findingaids-overview/burial-registers-online/
-breadcrumb: The Bukit Brown Cemetery Burial Registers 1922 - 1972
+breadcrumb: Bukit Brown Cemetery Burial Registers Online: 1922 to 1972
 collection_name: off-the-record-findingaids-overview
 ---
 

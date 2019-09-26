@@ -9,7 +9,7 @@ Highlighting people of interest through our records
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/people/people-overview/gks-insights-on-golfing/" class="project-link">
+			<a href="/off-the-record/people/people-overview/gohkengswee/" class="project-link">
 				<img src="/images/people/gks-golfing.jpg" alt="Dr Goh Keng Swee Insights on Golfing" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -29,7 +29,7 @@ Highlighting people of interest through our records
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/people/people-overview/davidmarshall-first-chief-min/" class="project-link">
+			<a href="/off-the-record/people/people-overview/davidmarshall/" class="project-link">
 				<img src="/images/people/dm-firstchiefmin.jpg" alt="David Marshall: Singapore's First Chief Minister" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">

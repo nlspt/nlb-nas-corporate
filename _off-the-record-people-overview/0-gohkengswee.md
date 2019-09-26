@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Dr Goh Keng Swee's Insights on Golfing
-permalink: /off-the-record/people/people-overview/gks-insights-on-golfing/
-breadcrumb: People
+permalink: /off-the-record/people/people-overview/gohkengswee/
+breadcrumb: Dr Goh Keng Swee's Insights on Golfing
 collection_name: off-the-record-people-overview
 ---
 

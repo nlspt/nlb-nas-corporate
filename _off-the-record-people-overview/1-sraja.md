@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: People
-permalink: /off-the-record/people/people-overview/davidmarshall-first-chief-min/
-breadcrumb: People
+title: S Rajaratnam on Singapore's State Symbols
+permalink: /off-the-record/people/people-overview/sraja/
+breadcrumb: S Rajaratnam on Singapore's State Symbols
 collection_name: off-the-record-people-overview
 ---
 

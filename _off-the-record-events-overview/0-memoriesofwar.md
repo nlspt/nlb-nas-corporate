@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Memories Of War and Its Legacies
-permalink: /off-the-record/events/events-overview/memories-of-war/
+permalink: /off-the-record/events/events-overview/memoriesofwar/
 breadcrumb: Memories of War and Its Legacies
 collection_name: off-the-record-events-overview
 ---

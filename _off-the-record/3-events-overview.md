@@ -9,7 +9,7 @@ Posts focused on events and periods in Singapore history
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/events/events-overview/memories-of-war/" class="project-link">
+			<a href="/off-the-record/events/events-overview/memoriesofwar/" class="project-link">
 				<img src="/images/events/memoriesofwar.png" alt="Memories of War and Its Legacies" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -30,7 +30,7 @@ Posts focused on events and periods in Singapore history
 		</div>
 
 <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="/off-the-record/events/events-overview/ndp-throughout-the-years/" class="project-link">
+<a href="/off-the-record/events/events-overview/ndpthroughtheyears/" class="project-link">
 				<img src="/images/events/ndp.jpg" alt="The National Day Parade Throughout The Years: 1966 - 2012" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -40,4 +40,5 @@ Posts focused on events and periods in Singapore history
 			</a>
 		</div>
 	</div>
+
 </div>

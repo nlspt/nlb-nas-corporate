@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Bukit Brown Cemetery Burial Registers Online
-permalink: /off-the-record/findingaids/findingaids-overview/burial-registers-online/
+permalink: /off-the-record/findingaids/findingaids-overview/burialregistersonline/
 breadcrumb: The Bukit Brown Cemetery Burial Registers online
 collection_name: off-the-record-findingaids-overview
 ---

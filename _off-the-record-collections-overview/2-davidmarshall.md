@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: David Marshall Singapore's First Chief Minister
-permalink: /off-the-record/people/people-overview/davidmarshall/
+permalink: /off-the-record/collections/collections-overview/davidmarshall/
 breadcrumb: David Marshall Singapore's First Chief Minister
-collection_name: off-the-record-people-overview
+collection_name: off-the-record-collections-overview
 ---
 
 # DAVID MARSHALL: SINGAPORE’S FIRST CHIEF MINISTER

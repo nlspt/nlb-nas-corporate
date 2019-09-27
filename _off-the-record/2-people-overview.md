@@ -19,21 +19,21 @@ Highlighting people of interest through our records
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/people/people-overview/sraja/" class="project-link">
-				<img src="/images/people/sraja-state-symbol.jpg" alt="S Rajaratnam on Singapore State Symbols" class="project-image">
+			<a href="/off-the-record/people/people-overview/mandylee/" class="project-link">
+				<img src="/images/people/internmandy.jpg" alt="Interns Reflections Mandy Lee" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>S. Rajaratnam on Singapore's State Symbols</b></h5>
+					<h5><b>Interns Reflections Mandy Lee</b></h5>
 				</div>
 			</div>
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/people/people-overview/davidmarshall/" class="project-link">
-				<img src="/images/people/dm-firstchiefmin.jpg" alt="David Marshall: Singapore's First Chief Minister" class="project-image">
+			<a href="/off-the-record/people/people-overview/hx/" class="project-link">
+				<img src="/images/people/internhx.jpg" alt="Interns Reflections Lim Hui Xiang" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>David Marshall: Singapore's First Chief Min</b></h5>
+					<h5><b>Interns Reflections Lim Hui Xiang</b></h5>
 				</div>
 			</div>
 			</a>

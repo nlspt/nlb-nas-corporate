@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: S Rajaratnam on Singapore's State Symbols
-permalink: /off-the-record/people/people-overview/sraja/
+permalink: /off-the-record/collections/collections-overview/sraja/
 breadcrumb: S Rajaratnam on Singapore's State Symbols
-collection_name: off-the-record-people-overview
+collection_name: off-the-record-collections-overview
 ---
 
 # S. RAJARATNAM ON SINGAPORE’S STATE SYMBOLS

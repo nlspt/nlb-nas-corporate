@@ -20,7 +20,7 @@ Highlighting people of interest through our records
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/off-the-record/people/people-overview/mandylee/" class="project-link">
-				<img src="/images/people/internmandy.jpg" alt="Interns Reflections Mandy Lee" class="project-image">
+				<img src="/images/people/internmandy.png" alt="Interns Reflections Mandy Lee" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Interns Reflections Mandy Lee</b></h5>
@@ -30,7 +30,7 @@ Highlighting people of interest through our records
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href="/off-the-record/people/people-overview/hx/" class="project-link">
-				<img src="/images/people/internhx.jpg" alt="Interns Reflections Lim Hui Xiang" class="project-image">
+				<img src="/images/people/internhx.png" alt="Interns Reflections Lim Hui Xiang" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
 					<h5><b>Interns Reflections Lim Hui Xiang</b></h5>

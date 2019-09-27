@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Events
-permalink: /off-the-record/events/events-overview/
+title: Collections
+permalink: /off-the-record/collections/collections-overview/
 collection_name: off-the-record
 ---
-Posts focused on events and periods in Singapore history
+Posts on the collections deposited at the National Archives of Singapore
 
 <div>
 	<div class="row is-multiline">

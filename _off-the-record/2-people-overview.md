@@ -9,11 +9,11 @@ Highlighting people of interest through our records
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/people/people-overview/gohkengswee/" class="project-link">
-				<img src="/images/people/gks-golfing.jpg" alt="Dr Goh Keng Swee Insights on Golfing" class="project-image">
+			<a href="/off-the-record/people/people-overview/behindscenes/" class="project-link">
+				<img src="/images/people/behindscenes.jpg" alt="Behind The Scenes With Abigail Huang Reference Archivist" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
-					<h5><b>Dr Goh Keng Swee's Insights on Golfing</b></h5>
+					<h5><b>Behind The Scenes With Abigail Huang Reference Archivist</b></h5>
 				</div>
 			</div>
 			</a>

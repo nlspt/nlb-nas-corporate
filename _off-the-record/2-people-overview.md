@@ -8,7 +8,7 @@ Highlighting people of interest through our records
 
 <div>
 	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-one-quarter-desktop is-one-quarter-tablet">
 			<a href="/off-the-record/people/people-overview/behindscenes/" class="project-link">
 				<img src="/images/people/behindscenes.jpg" alt="Behind The Scenes With Abigail Huang Reference Archivist" class="project-image">
 			<div class="project-card">
@@ -18,7 +18,7 @@ Highlighting people of interest through our records
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-one-quarter-desktop is-quarter-third-tablet">
 			<a href="/off-the-record/people/people-overview/mandylee/" class="project-link">
 				<img src="/images/people/internmandy.png" alt="Interns Reflections Mandy Lee" class="project-image">
 			<div class="project-card">
@@ -28,7 +28,17 @@ Highlighting people of interest through our records
 			</div>
 			</a>
 		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
+		<div class="col is-one-quarter-desktop is-one-quarter-tablet">
+			<a href="/off-the-record/people/people-overview/behindscenes/" class="project-link">
+				<img src="/images/people/behindscenes.jpg" alt="Behind The Scenes With Abigail Huang Reference Archivist" class="project-image">
+			<div class="project-card">
+				<div class="project-title margin--bottom--xs">
+					<h5><b>Behind The Scenes With Abigail Huang Reference Archivist</b></h5>
+				</div>
+				</div>
+			</a>
+		</div>
+		<div class="col is-one-quarter-desktop is-one-quarter-tablet">
 			<a href="/off-the-record/people/people-overview/hx/" class="project-link">
 				<img src="/images/people/internhx.png" alt="Interns Reflections Lim Hui Xiang" class="project-image">
 			<div class="project-card">

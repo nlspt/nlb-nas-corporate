@@ -11,8 +11,8 @@ favicon: /images/favicon-nas.ico
 agency-logo: /images/logo-nas.svg
 
 # Hero Banner
-hero-title: 
-hero-subtitle:
+hero-title:                                                                 
+hero-subtitle:                                             
 hero-banner: /images/nas-animated-banner.gif
 
 #Call to Action Button

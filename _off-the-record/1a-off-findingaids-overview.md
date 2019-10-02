@@ -1,8 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Finding Aids
-permalink: /off-the-record/findingaids/findingaids-overview/
+permalink: /off-the-record/off/findingaids-overview/
+breadcrumb: Finding Aids
 collection_name: off-the-record
+second_nav_title: "Off The Record"
 ---
 
 <div>

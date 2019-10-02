@@ -1,8 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Our People
-permalink: /off-the-record/people/people-overview/
+permalink: /off-the-record/off/people-overview/
+breadcrumb: Our People
 collection_name: off-the-record
+second_nav_title: "Off The Record"
 ---
 Highlighting people of interest through our records
 

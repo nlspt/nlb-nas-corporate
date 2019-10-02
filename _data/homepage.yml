@@ -17,7 +17,7 @@ hero-banner: /images/nas-animated-banner.gif
 
 #Call to Action Button
 button:  
-- text: Learn More
+- text:
 
 #Highlights
 key-highlights:

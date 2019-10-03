@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Collections
 permalink: /off-the-record/collections/collections-overview/
 collection_name: off-the-record
+second_nav_title: "Off The Record"
 ---
 Posts on the collections deposited at the National Archives of Singapore
 

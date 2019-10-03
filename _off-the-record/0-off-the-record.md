@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Off The Record
+title: About Off The Record
 permalink: /off-the-record/overview/
-breadcrumb: Off The Record
+breadcrumb: About Off The Record
 collection_name: off-the-record
 ---
 

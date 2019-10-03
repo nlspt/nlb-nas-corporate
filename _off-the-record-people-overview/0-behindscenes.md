@@ -4,7 +4,6 @@ title: Behind The Scenes With Abigail Huang Reference Archivist
 permalink: /off-the-record/people/people-overview/behindscenes/
 breadcrumb: Behind The Scenes With Abigail Huang Reference Archivist
 collection_name: off-the-record-people-overview
-second_nav_title: "Off The Record"
 ---
 
 # BEHIND-THE-SCENES WITH ABIGAIL HUANG REFERENCE ARCHIVIST!

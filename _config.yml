@@ -60,3 +60,5 @@ collections:
     output: true
 off-the-record-off-overview:
     output: true
+off-the-record-off-findingaids
+	output: true

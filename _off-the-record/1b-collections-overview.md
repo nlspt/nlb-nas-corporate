@@ -1,7 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Collections
-permalink: /off-the-record/collections/collections-overview/
+permalink: /off-the-record/off/collections-overview/
+breadcrumb: Collections
 collection_name: off-the-record
 second_nav_title: "Off The Record"
 ---

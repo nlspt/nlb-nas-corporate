@@ -4,7 +4,6 @@ title: Interns Reflections By Mandy Lee
 permalink: /off-the-record/people/people-overview/mandylee/
 breadcrumb: Interns Reflections By Mandy Lee
 collection_name: off-the-record-people-overview
-second_nav_title: "Our People"
 ---
 
 # INTERNS REFLECTIONS – MANDY LEE

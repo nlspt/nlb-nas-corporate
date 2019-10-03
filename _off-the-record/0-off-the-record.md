@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: About Off The Record
-permalink: /off-the-record/
+permalink: /off-the-record/overview/
 breadcrumb: About Off The Record
 collection_name: off-the-record
 ---

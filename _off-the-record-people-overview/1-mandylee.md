@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Interns Reflections Mandy Lee
+title: Interns Reflections By Mandy Lee
 permalink: /off-the-record/people/people-overview/mandylee/
-breadcrumb: Interns Reflections Mandy Lee
+breadcrumb: Interns Reflections By Mandy Lee
 collection_name: off-the-record-people-overview
 ---
 

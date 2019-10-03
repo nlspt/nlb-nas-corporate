@@ -1,9 +1,9 @@
 ---
 
 layout: leftnav-page-content
-title: Interns Reflections Lim Hui Xiang
+title: Interns Reflections By Lim Hui Xiang
 permalink: /off-the-record/people/people-overview/hx/
-breadcrumb: Interns Reflections Lim Hui Xiang
+breadcrumb: Interns Reflections By Lim Hui Xiang
 collection_name: off-the-record-people-overview
 ---
 

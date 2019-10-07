@@ -11,7 +11,7 @@ Posts on the collections deposited at the National Archives of Singapore
 <div>
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/events/events-overview/memoriesofwar/" class="project-link">
+			<a href="/off-the-record/collections/collections-overview/memoriesofwar/" class="project-link">
 				<img src="/images/collections/events/memoriesofwar.png" alt="Memories of War and Its Legacies" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -21,7 +21,7 @@ Posts on the collections deposited at the National Archives of Singapore
 			</a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/off-the-record/events/events-overview/wwii/" class="project-link">
+			<a href="/off-the-record/collections/collections-overview/wwii/" class="project-link">
 				<img src="/images/collections/events/wwii.jpg" alt="WWII Comes to Singapore" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">
@@ -32,7 +32,7 @@ Posts on the collections deposited at the National Archives of Singapore
 		</div>
 
 <div class="col is-one-third-desktop is-one-third-tablet">
-<a href="/off-the-record/events/events-overview/ndp/" class="project-link">
+<a href="/off-the-record/collections/collections-overview/ndp/" class="project-link">
 				<img src="/images/collections/events/ndp.jpg" alt="The National Day Parade Throughout The Years: 1966 - 2012" class="project-image">
 			<div class="project-card">
 				<div class="project-title margin--bottom--xs">

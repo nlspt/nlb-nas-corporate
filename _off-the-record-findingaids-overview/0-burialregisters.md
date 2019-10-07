@@ -4,6 +4,7 @@ title: The Bukit Brown Cemetery Burial Registers
 permalink: /off-the-record/findingaids/findingaids-overview/burialregisters/
 breadcrumb: The Bukit Brown Cemetery Burial Registers
 collection_name: off-the-record-findingaids-overview
+third_nav_title: "Finding Aids"
 ---
 
 # THE BUKIT BROWN CEMETERY BURIAL REGISTERS 1922 – 1972

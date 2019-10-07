@@ -14,7 +14,9 @@ In 1992, the Singapore Heritage Society, with the support of partners including 
 
  
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/09/img_59aa3a3293cc5-500x473.png)Facade of the Former Ford Factory, 2017. Courtesy of National Archives of Singapore.
+![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/09/img_59aa3a3293cc5-500x473.png)
+
+Facade of the Former Ford Factory, 2017. Courtesy of National Archives of Singapore.
 
 In 2003, the National Archives of Singapore (NAS) was offered the Former Ford Factory site (the historic location where Lieutenant-General Arthur Ernest Percival, the British General Officer Commanding Malaya, surrendered to Lieutenant-General Yamashita Tomoyuki, the Japanese Commander of the 25th Army on 15 February 1942) for its new archives repository, and to develop a permanent exhibition to showcase the events and the lives of people surrounding the Japanese Occupation. This became Memories at Old Ford Factory (MOFF),  which housed a World War Two Interpretative Gallery which  presented oral history accounts collected by NAS together with photographs, documents and archival materials from NAS’ collection and overseas archives institutions.
 

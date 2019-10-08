@@ -17,7 +17,7 @@ The National Archives of Singapore (NAS) is an institution of the National Libra
 5. Make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities 
 
 <script type="text/javascript" src="https://eservice-stg.nlb.gov.sg/assets/js/jquery.js"></script>
-<script type="text/javascript" src="https://eservice-stg.nlb.gov.sg/components/js/bundle.js?key=w3ItUCwpcR9N"></script>
+<script type="text/javascript" src="https://eservice-stg.nlb.gov.sg/components/js/bundle.js?key=w3ItUCwpcR9N&bypass=1"></script>
 <cms-player class="ui-theme-indigo"
 data-filename="ABC/ABC_Test201612201502F1.mp4"
 data-filetype="video">

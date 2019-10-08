@@ -16,7 +16,9 @@ hero-subtitle:
 hero-banner: /images/nas-animated-banner.gif
 
 #Call to Action Button
-button: 
+button:
+- text: Learn more 
+url: /about-us/mandate/
 
 #Highlights
 key-highlights:

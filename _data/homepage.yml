@@ -11,14 +11,14 @@ favicon: /images/favicon-nas.ico
 agency-logo: /images/logo-nas.svg
 
 # Hero Banner
-hero-title:                                                                 
-hero-subtitle:                                             
+hero-title:                                                                                                                                                                                                                                                         
+hero-subtitle:                                                                                                                                                                  
 hero-banner: /images/nas-animated-banner.gif
 
 #Call to Action Button
 button:
-- text: Learn more 
-url: /about-us/mandate/
+  - text: Learn More
+    url: /about-us/mandate
 
 #Highlights
 key-highlights:

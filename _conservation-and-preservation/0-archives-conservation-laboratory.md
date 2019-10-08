@@ -6,14 +6,10 @@ breadcrumb: Archives Conservation Laboratory
 collection_name: conservation-and-preservation
 ---
 
-From a paper record repair workroom in early 1969 with 2 binders, the Archives Conservation Laboratory (ACL) has expanded to 7 permanent staff today. This small team is devoted to conserving our substantial holding of Straits Settlements Records which dates back to 1800s. This is a laborious and painstaking process given their age and condition
+From a paper record repair workroom in early 1969 with 2 binders, the Archives Conservation Laboratory (ACL) has expanded to 7 permanent staff today. This small team is devoted to conserving paper-based archival records which dates back to 1800s, covering materials such as manuscripts, bound volumes, maps, architectural drawings, photographs, to posters. 
 
-The machines and equipment that ACL uses have also evolved from simple tools to more sophisticated ones. Some of these have been designed in-house e.g. the leaf casting machine, encapsulation machine, hydraulic press machine and pulping machine. Computer aided software is also used to enhance precision and effectiveness in the conservation processes.
+Conservation is a laborious and painstaking process given their age and condition, requiring meticulousness and an eye for details. Conservation covers not only the physical repairs, but also include appropriate housing, handling, transport, and preventive measures such as environmental control and monitoring, integrated pest management, and emergency preparedness. 
 
- 
-
-In advancing conservation practices, ACL has been working closely with experts from overseas conservation and archival bodies.
-
- 
+ACL strives to upkeep professional standards by adhering to international conservation code of ethics and principles, and maintains continuous professional development. 
 
 ![Archives Conservation Laboratory](http://www.nas.gov.sg/portals/1/conservition_lab.jpg)

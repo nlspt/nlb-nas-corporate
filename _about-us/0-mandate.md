@@ -16,7 +16,8 @@ The National Archives of Singapore (NAS) is an institution of the National Libra
 4. Acquire, by purchase, bequest, donations or otherwise, any document, book or other material which is or is likely to be of national or historical significance
 5. Make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities 
 
-<script type="text/javascript">
- console.log("test");
- 
- </script>
+<script type="text/javascript" src="//eservice-stg.nlb.gov.sg/components/js/bundle.js?key=qeySlSF3ArtJ&debug=1"></script>
+<cms-player class="ui-theme-indigo"
+data-filename="ABC/ABC_Test201612201502F1.mp4"
+data-filetype="video">
+</cms-player>

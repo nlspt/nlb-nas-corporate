@@ -12,6 +12,6 @@ Conservation is a laborious and painstaking process given their age and conditio
 
 ACL strives to upkeep professional standards by adhering to international conservation code of ethics and principles, and maintains continuous professional development. 
 
-<img src="/images/conserve/AqueousTreatment.jpg" alt="Conservator performing aqueous treatment on archival record" style="width:400px;" />
+<img src="/images/conserve/AqueousTreatment.jpg" alt="Conservator performing aqueous treatment on archival record" style="width:700px;" />
 
-<img src="/images/conserve/AssessmentOnArchival.jpg" alt="Conservators conducting condition assessment and conservation treatment on archival records " style="width:400px;" />
+<img src="/images/conserve/AssessmentOnArchival.jpg" alt="Conservators conducting condition assessment and conservation treatment on archival records " style="width:700px;" />

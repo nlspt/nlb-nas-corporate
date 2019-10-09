@@ -7,7 +7,6 @@ collection_name: about-us
 ---
 
 The National Archives of Singapore (NAS) is an institution of the National Library Board (NLB). NAS is guided by the National Library Act to:
- <h1>title</h1>
  
 
 1. Advise public agencies on recordkeeping standard practices, take custody of records transferred from public agencies and act as the Official Keeper
@@ -16,7 +15,10 @@ The National Archives of Singapore (NAS) is an institution of the National Libra
 4. Acquire, by purchase, bequest, donations or otherwise, any document, book or other material which is or is likely to be of national or historical significance
 5. Make known information concerning archives by any means, including publications, exhibitions and heritage promotional activities 
 
+ <h1>Test Video</h1>
+
 <script type="text/javascript" src="https://eservice-stg.nlb.gov.sg/assets/js/jquery.js"></script>
+<script type="text/javascript" src="https://eservice-stg.nlb.gov.sg/components/content/js/jquery-ui.min.js"></script>
 <script type="text/javascript" src="https://eservice-stg.nlb.gov.sg/components/js/bundle.js?key=w3ItUCwpcR9N&debug=1"></script>
 <cms-player class="ui-theme-indigo"
 data-filename="ABC/ABC_Test201612201502F1.mp4"

@@ -6,7 +6,7 @@ breadcrumb: Behind The Scenes With Abigail Huang Reference Archivist
 collection_name: off-the-record-people-overview
 ---
 
-# BEHIND-THE-SCENES WITH ABIGAIL HUANG REFERENCE ARCHIVIST!
+# BEHIND-THE-SCENES WITH ABIGAIL HUANG
 
 [Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)  3 Years Ago  4 Min. Read
 

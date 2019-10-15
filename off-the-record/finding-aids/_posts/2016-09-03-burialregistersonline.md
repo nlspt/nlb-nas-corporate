@@ -2,7 +2,7 @@
 layout: post
 title: "Bukit Brown Cemetery Burial Registers Online"
 date: 2016-09-03
-permalink: "/media/finding-aids/burialregistersonline/"
+permalink: "/off-the-record/finding-aids/burialregistersonline/"
 ---
 
 # BUKIT BROWN CEMETERY BURIAL REGISTERS ONLINE : 1922 TO 1972

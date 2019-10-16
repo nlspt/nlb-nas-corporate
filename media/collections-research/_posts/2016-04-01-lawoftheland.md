@@ -7,7 +7,7 @@ permalink: "/media/collections-research/lawoftheland"
 
 # LAW OF THE LAND: CONSTITUTIONAL DOCUMENTS
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 Years Ago13 Min. Read
+[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 13 Min. Read
 
 *Law of the Land: Highlights of Singapore’s Constitutional Documents* is an exhibition on Singapore’s constitutional history – from its founding in 1819 to independence in 1965 – organised by the National Archives of Singapore and National Library Board, and hosted at the National Gallery Singapore. **Kevin Khoo**, an archivist from the National Archives and one of the exhibition’s curators details some of its highlights. This essay was originally published in the National Library Board’s BiblioAsia magazine, Jul-Sept 2016 issue.
 
@@ -23,7 +23,7 @@ These provisional regulations were in force at least up to 1826[[3\]](http://www
 
 
 
-*Raffles’ regulations reaffirmed Singapore’s position as a free port and created a basic set of laws for matters such as registering the transfer of land and prohibiting slavery and gambling. He also provided for the appointment of magistrates to hear civil and criminal cases. Raffles penned an accompanying ‘Minute’ in 1823 where he discussed the principles underlying his regulations. The minute has provided historians with the clearest exposition of the ideas guiding Singapore’s early legal development. This document is a contemporary copy, transcribed in 1823, of the first page of Raffles’ ‘Minute’.* *Source: National Archives of Singapore* 
+*Raffles’ regulations reaffirmed Singapore’s position as a free port and created a basic set of laws for matters such as registering the transfer of land and prohibiting slavery and gambling. He also provided for the appointment of magistrates to hear civil and criminal cases. Raffles penned an accompanying ‘Minute’ in 1823 where he discussed the principles underlying his regulations. The minute has provided historians with the clearest exposition of the ideas guiding Singapore’s early legal development. This document is a contemporary copy, transcribed in 1823, of the first page of Raffles’ ‘Minute’.* *Source: National Archives of Singapore*
 
 ###  **RECEPTION OF ENGLISH LAW**
 
@@ -31,7 +31,8 @@ English law was legitimately received into Singapore through a royal charter dat
 
 The problem with the Second Charter was that there was only one Recorder (as Judges were then known) who had to travel to all three territories. This issue was resolved when a Third Charter of Justice was proclaimed on 10 August 1855. It reaffirmed the reception of English law and provided for a second Recorder to be based in Singapore, in keeping with the increase in trade and population in the colony.[[4\]](http://www.nas.gov.sg/blogs/offtherecord/law-of-the-land-highlights-of-singapores-constitutional-documents/#_ftn4)
 
-![This document with elaborate decorative borders is the original Third Charter of Justice, issued in 1855. Together with the Second Charter of Justice (1826), it marked the formal introduction of English law into Singapore. The Third Charter also marked the first appointment of a professional judge based in Singapore. Courtesy of National Archives of Singapore. Source: National Archives of Singapore ](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/2.-Third-Charter-NAS-1000x750.jpg)*This document with elaborate decorative borders is the original Third Charter of Justice, issued in 1855. Together with the Second Charter of Justice (1826), it marked the formal introduction of English law into Singapore. The Third Charter also marked the first appointment of a professional judge based in Singapore. Courtesy of National Archives of Singapore.*Source: National Archives of Singapore*
+![This document with elaborate decorative borders is the original Third Charter of Justice, issued in 1855. Together with the Second Charter of Justice (1826), it marked the formal introduction of English law into Singapore. The Third Charter also marked the first appointment of a professional judge based in Singapore. Courtesy of National Archives of Singapore. Source: National Archives of Singapore ](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/2.-Third-Charter-NAS-1000x750.jpg)*This document with elaborate decorative borders is the original Third Charter of Justice, issued in 1855. Together with the Second Charter of Justice (1826), it marked the formal introduction of English law into Singapore. The Third Charter also marked the first appointment of a professional judge based in Singapore. Courtesy of National Archives of Singapore.*
+*Source: National Archives of Singapore*
 
 ### **THE CROWN COLONY CONSTITUTION**
 
@@ -49,7 +50,7 @@ In April 1949, the British also permitted an election for members of the Municip
 
 
 
-*This royal warrant was received in 1948 from the Garter King of Arms, the most senior officer of the British College of Arms, after an application by the Singapore Municipal Commission for a coat of arms. Its reception was a momentous occasion, demonstrating how Singapore’s constitutional identity at the time was firmly entrenched in traditional British ideas.* *Source: National Archives of Singapore
+*This royal warrant was received in 1948 from the Garter King of Arms, the most senior officer of the British College of Arms, after an application by the Singapore Municipal Commission for a coat of arms. Its reception was a momentous occasion, demonstrating how Singapore’s constitutional identity at the time was firmly entrenched in traditional British ideas.* *Source: National Archives of Singapore.* 
 
 The 1950s saw a political awakening in Singapore as well as major constitutional changes that finally brought an end to British colonial rule. The first major development was a review of the constitution by the Rendel Commission appointed in 1953 (the Rendel Constitution came into effect on 8 February 1955). Among the key changes recommended and implemented was a system of automatic registration of voters and the formation of a 32-member Legislative Assembly where, for the first time, a majority of 25 representatives were elected by the people. In the ensuing election held on 2 2 April 1955, the Labour Front emerged as the dominant party by winning 10 of the 17 seats it contested. Its leader David Marshall was appointed as the first Chief Minister of Singapore.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WWII Comes to Singapore"
-date: 2017-02-01
+date: 2016-02-01
 permalink: "/media/collections-research/ww2comestosingapore"
 ---
 

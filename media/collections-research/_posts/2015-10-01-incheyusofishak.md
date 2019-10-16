@@ -27,7 +27,7 @@ Close to 9,000 photographs belonging to Inche Yusof bin Ishak were donated to th
 
 ### COLLECTION HIGHLIGHTS
 
-\1. Photograph of Yang di-Pertuan Yusof bin Ishak and his wife Puan Noor Aishah at the Istana, early 1960s. The Yusof Ishak collection includes rare high quality colour photographs of President Yusof Ishak from as early as 1957.
+1. Photograph of Yang di-Pertuan Yusof bin Ishak and his wife Puan Noor Aishah at the Istana, early 1960s. The Yusof Ishak collection includes rare high quality colour photographs of President Yusof Ishak from as early as 1957.
 
 ![09_PuanNoorAishah_02x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/09_PuanNoorAishah_02x.gif)
 

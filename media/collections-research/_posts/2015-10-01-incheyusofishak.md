@@ -19,7 +19,7 @@ Inche Yusof bin Ishak was the first President of the Republic of Singapore and b
 
 A distinguished journalist who founded the Utusan Melayu in 1939, Inche Yusof bin Ishak (1910 -1970) became Chairman of the Public Service Commission of Singapore in 1959 at the invitation of Mr Lee Kuan Yew, then Prime Minister. After the PAP won the 1959 election and Singapore achieved self-government, he was appointed the Yang di-Pertuan Negara of Singapore, or Head of State, and when Singapore gained independence on 9 August 1965, he became the first President of the Republic of Singapore.
 
-Inche Yusof bin Ishak was President during one of the most tumultuous periods in Singapore’s history, when the young Singapore nation struggled for economic survival and was divided by racial conflicts. Yusof bin Ishak contributed significantly to containing the latter challenge by steadfastly promoting multi-racialism in Singapore. He made special efforts to interact with people of all races to help restore trust and confidence among the different ethnic groups during the 1964 race riots. His appointment as President also convinced Singaporeans of different races that citizenship did not depend on their ethnicity, but on their contributions to their shared homeland and their merit as individuals. President Ishak passed away in November 1970 and was buried at the Kranji State Cemetary.
+Inche Yusof bin Ishak was President during one of the most tumultuous periods in Singapore’s history, when the young Singapore nation struggled for economic survival and was divided by racial conflicts. Yusof bin Ishak contributed significantly to containing the latter challenge by steadfastly promoting multi-racialism in Singapore. He made special efforts to interact with people of all races to help restore trust and confidence among the different ethnic groups during the 1964 race riots. His appointment as President also convinced Singaporeans of different races that citizenship did not depend on their ethnicity, but on their contributions to their shared homeland and their merit as individuals. President Ishak passed away in November 1970 and was buried at the Kranji State Cemetery.
 
 ### WHY IS THIS COLLECTION VALUABLE?
 
@@ -27,25 +27,25 @@ Close to 9,000 photographs belonging to Inche Yusof bin Ishak were donated to th
 
 ### COLLECTION HIGHLIGHTS
 
-1. Photograph of Yang di-Pertuan Yusof bin Ishak and his wife Puan Noor Aishah at the Istana, early 1960s. The Yusof Ishak collection includes rare high quality colour photographs of President Yusof Ishak from as early as 1957.
+Photograph of Yang di-Pertuan Yusof bin Ishak and his wife Puan Noor Aishah at the Istana, early 1960s. The Yusof Ishak collection includes rare high quality colour photographs of President Yusof Ishak from as early as 1957.
 
 ![09_PuanNoorAishah_02x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/09_PuanNoorAishah_02x.gif)
 
 Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001795 – 0002](http://www.nas.gov.sg/archivesonline/photographs/record-details/a77937a8-1162-11e3-83d5-0050568939ad)*
 
-2. Yang di-Pertuan Negara Yusof Ishak inspecting the guard of honor at the opening of the Legislative Assembly, November 1963.
+Yang di-Pertuan Negara Yusof Ishak inspecting the guard of honor at the opening of the Legislative Assembly, November 1963.
 
 ![20060001795-0092-Yusof-Ishak-Inspection-WM-300x200](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/20060001795-0092-Yusof-Ishak-Inspection-WM-300x2001.jpg)
 
 Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001795 – 0092](http://www.nas.gov.sg/archivesonline/photographs/record-details/a6a96dd1-1162-11e3-83d5-0050568939ad)*
 
-3. This picture was taken during a visit by President Yusof Ishak to the Jurong Industrial Estate in the 1960s, and reflects the President’s avid interest in photography.
+This picture was taken during a visit by President Yusof Ishak to the Jurong Industrial Estate in the 1960s, and reflects the President’s avid interest in photography.
 
 ![09_PuanNoorAishah_03x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/09_PuanNoorAishah_03x.gif)
 
 Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001790 – 0039](http://www.nas.gov.sg/archivesonline/photographs/record-details/a69d3a3e-1162-11e3-83d5-0050568939ad)*
 
-4. Pictures that were personally taken by President Yusof Ishak during his pilgrimage to Mecca in 1963. The Yusof Ishak collection contains many photographs that the President shot himself.
+Pictures that were personally taken by President Yusof Ishak during his pilgrimage to Mecca in 1963. The Yusof Ishak collection contains many photographs that the President shot himself.
 
 ![Source:Courtesy of Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: 20060001785 - 0015](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/Yusof-Ishak.gif)*Source: Courtesy of Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001785 – 0015](http://www.nas.gov.sg/archivesonline/photographs/record-details/a875808a-1162-11e3-83d5-0050568939ad)*
 

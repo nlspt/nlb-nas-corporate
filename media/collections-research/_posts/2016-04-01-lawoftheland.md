@@ -7,7 +7,7 @@ permalink: "/media/collections-research/lawoftheland"
 
 # LAW OF THE LAND: CONSTITUTIONAL DOCUMENTS
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 13 Min. Read
+[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 Years Ago13 Min. Read
 
 *Law of the Land: Highlights of Singapore’s Constitutional Documents* is an exhibition on Singapore’s constitutional history – from its founding in 1819 to independence in 1965 – organised by the National Archives of Singapore and National Library Board, and hosted at the National Gallery Singapore. **Kevin Khoo**, an archivist from the National Archives and one of the exhibition’s curators details some of its highlights. This essay was originally published in the National Library Board’s BiblioAsia magazine, Jul-Sept 2016 issue.
 
@@ -56,7 +56,7 @@ The Constitution of 1958 outlined three key objectives: it provided for a fully-
 
 By this time the People’s Action Party (PAP) had risen to the political forefront. Following the victory of the PAP in the election held in May 1959, Lee Kuan Yew was sworn in as Singapore’s first Prime Minister on 5 June. In December that same year, Yusof bin Ishak became Singapore’s first local-born head of state, or Yang di-Pertuan Negara.
 
-![The 1958 Singapore (Constitution) Order-in-Council. These pages featured show the creation of the post of Yang Di-Pertuan Negara, the Head of State of self-governing Singapore, which would replace the British Governor. The last British Governor of Singapore, Sir William Goode, became Singapore’s first Yang Di-Pertuan Negara, to assist a smooth transition to the new constitution. Yusof bin Ishak was installed as Singapore’s first local Yang di-Pertuan Negara on 3 December 1959. On this historical date and momentous occasion, the Singapore flag was unveiled and the Majulah Singapura was launched as the national anthem. Source: National Library ](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/4.-1958-State-of-SG-Constitution-NAS.jpg)*The 1958 Singapore (Constitution) Order-in-Council. These pages featured show the creation of the post of Yang Di-Pertuan Negara, the Head of State of self-governing Singapore, which would replace the British Governor. The last British Governor of Singapore, Sir William Goode, became Singapore’s first Yang Di-Pertuan Negara, to assist a smooth transition to the new constitution. Yusof bin Ishak was installed as Singapore’s first local Yang di-Pertuan Negara on 3 December 1959. On this historical date and momentous occasion, the Singapore flag was unveiled and the Majulah Singapura was launched as the national anthem. Source: National Library*
+
 
 ###  **MERGER AND SEPARATION**
 

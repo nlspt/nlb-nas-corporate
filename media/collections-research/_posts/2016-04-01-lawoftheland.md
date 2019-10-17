@@ -21,7 +21,7 @@ The legal ideas in this nascent set of laws were based on English law, adapted t
 
 These provisional regulations were in force at least up to 1826[[3\]](http://www.nas.gov.sg/blogs/offtherecord/law-of-the-land-highlights-of-singapores-constitutional-documents/#_ftn3) – the year Singapore became part of the Straits Settlements together with Malacca and Penang – and although they provided for a basic legal system applicable to all in the Singapore settlement, in practice most disputes for non-Europeans were handled by indigenous chiefs who settled cases according to local customs and social mores. Europeans came under the direct jurisdiction of the British Resident’s Court.
 
-
+<img src="/images/collections/collections/raffles-regulations.jpg" alt="Raffles Regulations" style="width:450px;" />
 
 *Raffles’ regulations reaffirmed Singapore’s position as a free port and created a basic set of laws for matters such as registering the transfer of land and prohibiting slavery and gambling. He also provided for the appointment of magistrates to hear civil and criminal cases. Raffles penned an accompanying ‘Minute’ in 1823 where he discussed the principles underlying his regulations. The minute has provided historians with the clearest exposition of the ideas guiding Singapore’s early legal development. This document is a contemporary copy, transcribed in 1823, of the first page of Raffles’ ‘Minute’.* *Source: National Archives of Singapore*
 

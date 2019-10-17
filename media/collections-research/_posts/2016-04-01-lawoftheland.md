@@ -48,7 +48,7 @@ When the British returned to Singapore after the Japanese Occupation (1942–45)
 
 In April 1949, the British also permitted an election for members of the Municipal Commission (renamed the City Council in 1951), a government body in charge of municipal services such as sanitation, health, water and roads. The Commission became the first public institution to be installed with a popularly elected majority — 18 out of its 27 members were elected, taking local political participation another step towards self-governance. The remaining nine commissioners were nominated and appointed by the British colonial government.
 
-
+<img src="/images/collections/collections/armorial-ensigns.jpg" alt="Royal Warrant" style="width:500px;" />
 
 *This royal warrant was received in 1948 from the Garter King of Arms, the most senior officer of the British College of Arms, after an application by the Singapore Municipal Commission for a coat of arms. Its reception was a momentous occasion, demonstrating how Singapore’s constitutional identity at the time was firmly entrenched in traditional British ideas.* *Source: National Archives of Singapore.* 
 
@@ -60,7 +60,7 @@ The Constitution of 1958 outlined three key objectives: it provided for a fully-
 
 By this time the People’s Action Party (PAP) had risen to the political forefront. Following the victory of the PAP in the election held in May 1959, Lee Kuan Yew was sworn in as Singapore’s first Prime Minister on 5 June. In December that same year, Yusof bin Ishak became Singapore’s first local-born head of state, or Yang di-Pertuan Negara.
 
-
+<img src="/images/collections/collections/sg-constitution.jpg" alt="Singapore Constitution" style="width:500px;" />
 
 *The 1958 Singapore (Constitution) Order-in-Council. These pages featured show the creation of the post of Yang Di-Pertuan Negara, the Head of State of self-governing Singapore, which would replace the British Governor. The last British Governor of Singapore, Sir William Goode, became Singapore’s first Yang Di-Pertuan Negara, to assist a smooth transition to the new constitution. Yusof bin Ishak was installed as Singapore’s first local Yang di-Pertuan Negara on 3 December 1959. On this historical date and momentous occasion, the Singapore flag was unveiled and the Majulah Singapura was launched as the national anthem. Source: National Library*
 
@@ -70,7 +70,7 @@ Singapore’s size and the lack of natural resources or hinterland had long unde
 
 However, Lee was similarly rebuffed as the Tunku was concerned with the rise of pro-communist radicalism in Singapore and the question of how Singapore’s large Chinese population would impact Malaya’s racial balance. But in May 1961, the Tunku acknowledged the possibility of merger when speaking to foreign correspondents who were holding a meeting in Singapore. By then, the Malayan leader was convinced that it was easier to control the rising communist threat from Singapore through a merger. Merger was also made more palatable with British support for a new federation that would include the Borneo Territories — North Borneo (Sabah), Sarawak and Brunei. On 16 September 1963, the Federation of Malaysia, consisting of the former states of Malaya, Singapore, Sarawak and North Borneo (Sabah), was born, with Brunei opting out of merger. Singapore was now constitutionally independent from Britain.[[8\]](http://www.nas.gov.sg/blogs/offtherecord/law-of-the-land-highlights-of-singapores-constitutional-documents/#_ftn8)
 
-
+<img src="/images/collections/collections/proclamation-of-msia.jpg" alt="Proclamation of Malaysia" style="width:500px;" />
 
 *The Proclamation of Malaysia document declared the merger of the Federation of Malaya with the British Crown Colonies of Singapore, Sarawak and North Borneo (Sabah) into a new Federation of Malaysia. It was a formal declaration of the change of Singapore’s constitutional status to a state of Malaysia. The Malaysian version is shown here. Source: National Archives of Singapore.* 
 
@@ -90,9 +90,7 @@ Although the basic framework of the Constitution has remained to this day, it ha
 
 These amendments highlight how Singapore’s Constitution continues to evolve in the years to come as it strives to remain an effective guardian of the nation’s aspirations outlined in the 1965 Proclamation.
 
-
-
- 
+<img src="/images/collections/collections/proclamation-of-sg.jpg" alt="Proclamation of Malaysia" style="width:500px;" />
 
 [[1\]](http://www.nas.gov.sg/blogs/offtherecord/law-of-the-land-highlights-of-singapores-constitutional-documents/#_ftnref1) Tan, K. Y. L. (2015). *Constitution: Singapore Chronicles*, Institute of Policy Studies, Straits Times Press, Singapore (2015), pp:110-111
 

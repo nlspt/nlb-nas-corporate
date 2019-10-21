@@ -1,14 +1,13 @@
 ---
-layout: leftnav-page-content
-title: WWII Comes to Singapore
-permalink: /off-the-record/collections/collections-overview/wwii/
-breadcrumb: WWII Comes to Singapore
-collection_name: off-the-record-collections-overview
+layout: post
+title: "WWII Comes to Singapore"
+date: 2016-02-01
+permalink: "/media/collections-research/ww2comestosingapore"
 ---
 
 # WWII COMES TO SINGAPORE
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/)3 Years Ago4 Min. Read
+[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 3 Years Ago 4 Min. Read
 
 75 years ago on this date, shortly after 4am, people living in Singapore had their first experience of aerial bombings. Japanese naval bombers and Zero fighter planes bombed the town area, hitting Chinatown and Raffles Place, as well as the airfields at Seletar and Tengah. This was the first time that civilians living in Singapore experienced war right at their doorsteps.
 
@@ -25,7 +24,9 @@ Initially, the British colonial administrators did not wish to cause panic and b
 Donated by Victor Tan, National Archives collection
 [18/2](http://www.nas.gov.sg/archivesonline/private_records/record-details/dca6e0fc-115b-11e3-83d5-0050568939ad)
 
-![Civil Defence Corps recruitment booklet, 1940 Donated by Chan Chon Hoe, National Archives collection 19/1992 (1)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/Acc-19-1992-1-1-659x1000.jpg)Civil Defence Corps recruitment booklet, 1940
+![Civil Defence Corps recruitment booklet, 1940 Donated by Chan Chon Hoe, National Archives collection 19/1992 (1)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/Acc-19-1992-1-1-659x1000.jpg)
+
+Civil Defence Corps recruitment booklet, 1940
 Donated by Chan Chon Hoe, National Archives collection
 [19/1992 (1)](http://www.nas.gov.sg/archivesonline/private_records/record-details/e0bf7ac7-115b-11e3-83d5-0050568939ad)
 
@@ -45,5 +46,3 @@ However, with the continued air raids and defeat after defeat of the British for
 > Oral history interview with Arshak Catchatoor Galstaun (1982), Accession Number [000170/7](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1bbfb294-1160-11e3-83d5-0050568939ad?)
 
 This short selection of oral history interviews and private records in the holdings of the National Archives of Singapore gives us a multi-faceted perspective of civilian life at the start of the conflict in Singapore.
-
-### STAY TUNED FOR THE OPENING OF THE EXHIBITION AT THE REVAMPED MEMORIES AT OLD FORD FACTORY FOR MORE RECORDS THAT HIGHLIGHT THESE DIVERSE EXPERIENCES OF WAR, OCCUPATION AND ITS LEGACIES

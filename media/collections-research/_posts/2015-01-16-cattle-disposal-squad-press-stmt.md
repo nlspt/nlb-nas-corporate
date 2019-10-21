@@ -18,5 +18,3 @@ A cattle disposal squad from the Ministry of Health went into action on 8 Februa
 As Singapore has become more developed, instead of setting out areas where cattle cannot be kept, it has been easier to set out the limited number of areas where cattle may be kept. The Cattle (Unrestricted Areas) Notification of 1989 sets out 7 areas – the Lim Chu Kang Agrotechnology Park, the Primary Production Department’s Sembawang Field Experimental Station, the Jurong Abattoir, the small island of Terumbu Pesek (off Jurong Industrial Estate), the Kim Chuan Abattoir at Paya Lebar, Tech Park Crescent at Tuas and at the Singapore Zoological Gardens.
 
 To view more details of this image and other records, click [here](http://www.nas.gov.sg/archivesonline/speeches/record-details/7c621190-115d-11e3-83d5-0050568939ad).
-
-*Posted on 16 January 2015*

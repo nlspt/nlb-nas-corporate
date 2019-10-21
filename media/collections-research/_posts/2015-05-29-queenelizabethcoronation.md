@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "QUEEN ELIZABETH II’S CORONATION CELEBRATIONS, 1953"
+title: "Queen Elizabeth II’s Coronation Celebrations, 1953"
 date: 2015-05-29
 permalink: "/media/collections-research/queenelizabethcoronation"
 ---

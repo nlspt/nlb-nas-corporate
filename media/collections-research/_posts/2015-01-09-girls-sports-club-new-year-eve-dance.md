@@ -22,5 +22,3 @@ Over the years, they also competed in tournaments such as at World War I Remembr
 The Girls’ Sports Club New Year’s eve dance was an annual fund-raising event held by the club for members and friends.
 
 To view more details of this image and other records, click [here](http://www.nas.gov.sg/archivesonline/photographs/record-details/b868fa91-1161-11e3-83d5-0050568939ad).
-
-*Posted on 9 January 2015*

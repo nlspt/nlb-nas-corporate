@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post Office Savings Bank Poster, 1977"
+title: "POSB Office Savings Bank Poster, 1977"
 date: 2015-01-30
 permalink: "/media/collections-research/post-office-savings-bank-poster"
 ---

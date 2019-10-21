@@ -22,5 +22,3 @@ The National Archives of Singapore has a collection of over 10,000 maps and over
 To view more details of this photomap and other records, click [here](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f7cf0696-115c-11e3-83d5-0050568939ad).
 
 To listen to the full interview of Mr Al Taylor online, click [here](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/ecc91e7c-1161-11e3-83d5-0050568939ad?keywords=allison+taylor&keywords-type=all).
-
-*Posted on 30 January 2015*

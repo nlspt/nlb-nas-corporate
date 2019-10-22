@@ -16,9 +16,10 @@ hero-subtitle:
 hero-banner: /images/stillbanner.gif
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /about-us/mandate
+#button:
+
+#text: Learn More
+#url: /about-us/mandate
 
 #Highlights
 key-highlights:

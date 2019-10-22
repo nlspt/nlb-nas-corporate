@@ -13,12 +13,13 @@ agency-logo: /images/logo-nas.svg
 # Hero Banner
 hero-title:                                                                                                                                                                                                                                                         
 hero-subtitle:                                                                                                                                                                  
-hero-banner: /images/shortbanner.gif
+hero-banner: /images/stillbanner.gif
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /about-us/mandate
+#button:
+
+#text: Learn More
+#url: /about-us/mandate
 
 #Highlights
 key-highlights:

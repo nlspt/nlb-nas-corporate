@@ -75,7 +75,7 @@ Registration exercise of first batch of National Service recruits – 29 March t
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d8ed24a96e.png)
 
-Minister of The Interior and Defence Dr Goh Keng Swee Inspecting Contingents at Singapore Armed Forces Training Institute (Safti) Commissioning Parade at Pasir Laba, Jurong, 16 July 1967. *Ministry of Information and the Arts, courtesy of NAS.* [Ref.: 19980005381-0009.](http://www.nas.gov.sg/archivesonline/photographs/record-details/caaa3115-1161-11e3-83d5-0050568939a)
+Minister of The Interior and Defence Dr Goh Keng Swee Inspecting Contingents at Singapore Armed Forces Training Institute (Safti) Commissioning Parade at Pasir Laba, Jurong, 16 July 1967. *Ministry of Information and the Arts, courtesy of NAS.* [Ref.: 19980005381-0009.](http://www.nas.gov.sg/archivesonline/photographs/record-details/caaa3115-1161-11e3-83d5-0050568939ad)
 
 Singapore Armed Forces Training Institute (SAFTI), the first training institute to train officer cadets, was set up as part of Dr Goh’s strategy to have a lean but high quality armed forces. After the opening of SAFTI, other military training schools set up in swift succession, like the School of Basic Military Training, School of Artillery, and the School of Signals, to provide Singapore’s soldiers with advanced training in the methods, weapons, craft, and philosophies of war needed to achieve military dominance in battle.[[6\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn6)
 

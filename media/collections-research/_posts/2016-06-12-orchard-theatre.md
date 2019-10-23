@@ -23,8 +23,6 @@ Orchard Theatre was home to Singapore’s first commercial bowling alley, meshin
 
 In 1997, Cathay upped the ante by launching Cineleisure on the site of the old Orchard Theatre. The new nine-storey $160 million entertainment centre consisted of a six-screen multiplex, retail outlets, a food court, a night entertainment spot, an indoor amusement theme park and a themed restaurant.[[3\]](http://www.nas.gov.sg/blogs/offtherecord/orchard-theatre/#_ftn4)
 
-*This is a series of [posts](http://www.nas.gov.sg/blogs/offtherecord/tag/irememberorchard/)on Orchard Road, part of the NAS’ exhibition irememberOrchard, which was on display at library@Orchard from 23 October 2014 to 26 April 2015*
-
 ### REFERENCES
 
 [[1\]](http://www.nas.gov.sg/blogs/offtherecord/orchard-theatre/#_ftnref2) King cables ‘sincere condolences’, The Straits Times, 22 June 1964, Page 1
@@ -32,3 +30,4 @@ In 1997, Cathay upped the ante by launching Cineleisure on the site of the old O
 [[2\]](http://www.nas.gov.sg/blogs/offtherecord/orchard-theatre/#_ftnref3) Cathay organisation’s $6mil. entertainment centre opens, The Straits Times, 7 January 1965, Page 9
 
 [[3\]](http://www.nas.gov.sg/blogs/offtherecord/orchard-theatre/#_ftnref4) Cathay to open $160m leisure centre by year-end, The Straits Times, 28 January 1997, Page 38
+

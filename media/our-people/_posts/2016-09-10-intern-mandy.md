@@ -11,7 +11,7 @@ permalink: "/media/finding-aids/intern-mandy"
 
 Interns Reflections is a series of posts by our interns, recounting their experience with National Archives of Singapore. From deciphering manuscript handwriting, to poring over listings and records, to heading out into the field to conduct oral history interviews, our interns have the chance to go behind the scenes to see the multi-varied nature of archival work. Interested in joining us? Email us at nas@nlb.gov.sg!
 
-Kickstarting our Interns Reflections series are our summer interns for 2017, Mandy Lee and [Lim Hui Xiang](http://www.nas.gov.sg/blogs/offtherecord/interns-reflections-lim-hui-xiang/).
+Kickstarting our Interns Reflections series are our summer interns for 2017, Mandy Lee and [Lim Hui Xiang](/media/finding-aids/intern-limhuixiang).
 
 # INTERNS REFLECTIONS
 
@@ -29,7 +29,7 @@ Figure 1 shows how a municipal’s burial register would look like. In particula
 
 ​                                                                                    Figure 2
 
-Figure 2 shows the various handwritten letters written during British administration of the Straits Settlements from 1826 to 1946. Reading through the extensive collection of documents was yet another difficult task. Firstly, the cursive handwriting and poor condition of the documents made it hard for me to make sense of the documents. Secondly, there were many materials and I did not know where to start reading. Fortunately, the [help guide](http://www.nas.gov.sg/blogs/offtherecord/citizen-archivist-project-guide-to-transcribing-the-straits-settlements-records-by-nas-interns/) created by the previous NAS interns taught me how to identify certain words and provided me with many already transcribed letters that I could use in writing the articles.
+Figure 2 shows the various handwritten letters written during British administration of the Straits Settlements from 1826 to 1946. Reading through the extensive collection of documents was yet another difficult task. Firstly, the cursive handwriting and poor condition of the documents made it hard for me to make sense of the documents. Secondly, there were many materials and I did not know where to start reading. Fortunately, the [help guide]( https://nas-corporate-staging.netlify.com/media/collections-research/transcribing-ssr ) created by the previous NAS interns taught me how to identify certain words and provided me with many already transcribed letters that I could use in writing the articles.
 
  
 

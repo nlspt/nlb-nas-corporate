@@ -13,7 +13,7 @@ In conjunction with the upcoming revamp of Memories at Old Ford Factory, which h
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/03/img_56d54773d03cc.gif)
 
-> **[T]he Japanese Occupation lacked documentation***…*Thus in 1981, we embarked on a project to collect oral recordings and to look for documents, photographs and all kinds of paraphernalia related to the war and the occupation…We appeal to all Singaporeans to come forward if they have stories to tell, photographs, documents or articles to add to our collection.
+> **The Japanese Occupation lacked documentation***…*Thus in 1981, we embarked on a project to collect oral recordings and to look for documents, photographs and all kinds of paraphernalia related to the war and the occupation…We appeal to all Singaporeans to come forward if they have stories to tell, photographs, documents or articles to add to our collection.
 >
 > *– Mrs Lily Tan (Director, National Archives of Singapore from 1978-2001), in 1985*
 
@@ -48,20 +48,6 @@ Syonan Post Office Savings Bank passbook. *Acc No.: [25 / 1992](http://www.nas.g
 Harsh living conditions and serious shortages of basic food items were among the reasons why the death rate in 1945 was double that of the pre-war period.[[4\]](http://www.nas.gov.sg/blogs/offtherecord/personal-records-of-war-and-occupation/#_ftn4) Census-taking lists, like the one shown below, reflected these difficult living conditions. These documents were also a record of a new system introduced by the Japanese administrators to keep track of the population under their control, as each household had to register their family members with the administration. Changes to the household composition were registered and recorded. Despite the mundane nature of such administrative documents, upon closer examination, some of them reveal heartwrenching stories. This particular one of the family of Mr Tay Yew Hoon shows how Tay Soh Eng, was born (“Birth” under “Reason of increase”) on 4 September 1943 and but by the next census check on 6 May 1944, had been recorded as a decrease (“die” under “Reason of Decrease”). She was only two months old.
 
 ![hh](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/03/Acc-20-2.jpg)Census-Taking List. *Acc No.: 20/2. Microfilm No.: [NA 1135](http://www.nas.gov.sg/archivesonline/private_records/record-details/dfb545b6-115b-11e3-83d5-0050568939ad). Tay Yen Hoon collection, courtesy of NAS.*
-
- 
-
-# **PUBLIC CALL FOR ARCHIVES**
-
-Do you or your family have items which reflect such personal experiences of life under the Japanese Occupation? Would you like to ensure such archival materials are well-preserved and documented for the sake of posterity and so future researchers have a chance of drawing out relatable narratives from these personal threads? The National Archives of Singapore is organising a public call for archives on 12 March, 10am to 4pm, at Level 10 of the National Library Building, where we will be collecting such materials. More details can be found here:
-
-[![NAS Call for Archives Poster (Final)(Low-res)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/03/NAS-Call-for-Archives-Poster-FinalLow-res-707x1000.jpg)](http://www.nas.gov.sg/nas/Outreach/What’sNew!.aspx)
-
-We look forward to seeing you there!
-
-Have more questions? Please refer to the FAQs [here](http://www.nas.gov.sg/nas/Portals/0/FAQ for Public Call for Archives - For Public.pdf), or email us at NAS_Outreach@nlb.gov.sg.
-
- 
 
 ------
 

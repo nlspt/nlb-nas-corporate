@@ -43,13 +43,13 @@ The bustling urban metropolis it is today is almost unrecognisable from its prev
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/03-19980005492-IMG0079-Source-NAS-R-1000x608.jpg)By the 1930s, motor cars had replaced carriages as the dominant form of transport. More shophouses continued to dotted the built landscape of Orchard Road.
 Courtesy of NAS
-Ref: 19980005492 – 0079
+Ref: [19980005492 – 0079](http://www.nas.gov.sg/archivesonline/photographs/record-details/218cea7e-1162-11e3-83d5-0050568939ad)
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/04-19980000767-IMG0090-Source-MITA.jpg)By the late 1980s, most low-rises had disappeared, replaced with tall hotels and malls. Orchard Road was now the undisputed shopping district of Singapore.
 Ministry of Information and the Arts collection, courtesy of NAS
 Ref: [19980000767 – 0090](http://www.nas.gov.sg/archivesonline/photographs/record-details/4581d651-1162-11e3-83d5-0050568939ad)
 
-## 
+
 
 ## FROM EMPORIUMS TO MEGAMALLS
 
@@ -97,9 +97,7 @@ Similarly, for the complete shopping experience, whether a window shopper or dis
 
 Orchard Road’s entertainment facilities continue to evolve with time, maintaining its edge as the recreational centre of Singapore.
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/09-19980005032-IMG0007-Source-NAS-R-1000x367.jpg)Colonial recreation was exclusive, as in the Ladies Lawn Tennis Club (left) and Teutonia Club (right), which previously offered exclusive recreation for the German community until it was turned into Goodwood Park Hotel in 1929.
-Courtesy of National Archives of Singapore
-Ref: [19980005112 – 0088](http://www.nas.gov.sg/archivesonline/photographs/record-details/d5465180-1161-11e3-83d5-0050568939ad)and [19980005032 – 0007](http://www.nas.gov.sg/archivesonline/photographs/record-details/adaffa4a-1161-11e3-83d5-0050568939ad)
+![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/09-19980005032-IMG0007-Source-NAS-R-1000x367.jpg)Colonial recreation was exclusive, as in the Ladies Lawn Tennis Club (left) and Teutonia Club (right), which previously offered exclusive recreation for the German community until it was turned into Goodwood Park Hotel in 1929. Courtesy of National Archives of Singapore Ref: [19980005112 – 0088](http://www.nas.gov.sg/archivesonline/photographs/record-details/d5465180-1161-11e3-83d5-0050568939ad) and [19980005032 – 0007](http://www.nas.gov.sg/archivesonline/photographs/record-details/adaffa4a-1161-11e3-83d5-0050568939ad)
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/10-19990003455-IMG0074-Source-NAS.jpg)
 

@@ -63,9 +63,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
- 
 
-### 
 
 ### ![Picture6x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture6x.jpg)
 

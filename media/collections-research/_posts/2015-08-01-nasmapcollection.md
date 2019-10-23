@@ -31,9 +31,7 @@ The maps in the NAS collection fall into these broad categories.
 
 ![20080000021_0014_Acc.-No](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/20080000021_0014_Acc.-No.png)
 
-*A section from the 1924 topographic map of Singapore covering the area around the Macritchie Reservoir (then known as the ‘impounding reservoir’). Source: Singapore Land Authority, Survey Department, Courtesy of National Archives of Singapore Ref: 
-
-[TM000747]: http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f989c0b3-115c-11e3-83d5-0050568939ad*
+*A section from the 1924 topographic map of Singapore covering the area around the Macritchie Reservoir (then known as the ‘impounding reservoir’). Source: Singapore Land Authority, Survey Department, Courtesy of National Archives of Singapore Ref: [TM000747](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f989c0b3-115c-11e3-83d5-0050568939ad)*
 
 **Cadastral Maps:** Cadastral maps are drawn up by state land-use authorities to document and demarcate parcels of physical property claimed by different property owners. These maps are used to establish property boundaries and legal claim over property, in estimating land values and also to assess property tax. As cadastral maps were used by government in tax collection, they were also sometimes referred to as ‘revenue maps’. Historically, cadastral maps are one of the earliest forms of official maps, with origins tracing back thousands of years to the first human civilizations in ancient Mesopotamia and Egypt.[[7\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftn7) Traditionally, cadastral maps were kept in a ‘cadastre’ or a comprehensive official list of property owners and their property holdings, which are typically kept today in computerised databases. There are presently about 3,300 cadastral maps in the NAS collection.
 

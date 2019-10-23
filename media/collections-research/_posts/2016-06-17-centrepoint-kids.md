@@ -20,8 +20,6 @@ Centrepoint, a shopping centre along Orchard Road, used to worry parents of angs
 
 Breakdancing was the rage in 1980s and Orchard Road was the central of the fad. The fifth-storey corridor at Centrepoint, with its mirrors, was a hotspot for those seeking to practice their moves, until chased away by security guards. [[4\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftn4) However, one breakdance session on 23 June 1984 led to police task forces dispersing over 3000 people crowding pedestrian malls along Orchard Road. They had gathered to watch a breakdancing session organised by the owner of a record shop in Far East Plaza. Despite a prior cancellation of the event due to complaints from shopkeepers, some youths had brought along their own portable cassette players, intending to dance anyway. [[5\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftn5)
 
-*This is a series of [posts](http://www.nas.gov.sg/blogs/offtherecord/tag/irememberorchard/)on Orchard Road, part of the NAS’ exhibition irememberOrchard, which was on display at library@Orchard from 23 October 2014 to 26 April 2015*
-
 ### REFERENCES
 
 [[1\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref1) [Centrepoint Kids gone](http://newspapers.nl.sg/Digitised/Article/straitstimes19860223-1.2.7.1.6.aspx), The Straits Times, 23 February 1986, Page 2

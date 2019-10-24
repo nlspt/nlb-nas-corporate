@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post Office Savings Bank Poster, 1977"
-date: 2015-01-30
+date: 2015-01-02
 permalink: "/media/collections-and-research/post-office-savings-bank-poster"
 ---
 

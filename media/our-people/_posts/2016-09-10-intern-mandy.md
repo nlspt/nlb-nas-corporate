@@ -29,7 +29,7 @@ Figure 1 shows how a municipal’s burial register would look like. In particula
 
 ​                                                                                    Figure 2
 
-Figure 2 shows the various handwritten letters written during British administration of the Straits Settlements from 1826 to 1946. Reading through the extensive collection of documents was yet another difficult task. Firstly, the cursive handwriting and poor condition of the documents made it hard for me to make sense of the documents. Secondly, there were many materials and I did not know where to start reading. Fortunately, the [help guide]( /media/collections-research/transcribing-ssr ) created by the previous NAS interns taught me how to identify certain words and provided me with many already transcribed letters that I could use in writing the articles.
+Figure 2 shows the various handwritten letters written during British administration of the Straits Settlements from 1826 to 1946. Reading through the extensive collection of documents was yet another difficult task. Firstly, the cursive handwriting and poor condition of the documents made it hard for me to make sense of the documents. Secondly, there were many materials and I did not know where to start reading. Fortunately, the [help guide]( /media/collections-and-research/transcribing-ssr) created by the previous NAS interns taught me how to identify certain words and provided me with many already transcribed letters that I could use in writing the articles.
 
  
 

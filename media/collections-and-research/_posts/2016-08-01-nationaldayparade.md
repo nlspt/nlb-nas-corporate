@@ -71,9 +71,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### THE HEAVY DOWNPOUR ON 9 AUGUST DID NOT DAMPEN THE SPIRITS OF THE 25,000 PARADE PARTICIPANTS AND THE THOUSANDS OF SPECTATORS.
 
-------
 
-### 
 
 ### ![Picture7x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture7x.jpg)
 
@@ -93,7 +91,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture9x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture9x.jpg)
 
@@ -103,7 +101,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture10x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture10x.jpg)
 
@@ -113,7 +111,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture11x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture11x-1000x667.jpg)
 
@@ -123,7 +121,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture12x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture12x.jpg)
 
@@ -133,7 +131,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+ 
 
 ### ![Picture13x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture13x.jpg)
 
@@ -143,7 +141,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture14x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture14x.jpg)
 
@@ -153,7 +151,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture15x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture15x-1000x664.jpg)
 
@@ -163,7 +161,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture16x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture16x.jpg)
 
@@ -173,7 +171,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture17x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture17x.jpg)
 
@@ -183,7 +181,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture18x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture18x.jpg)
 
@@ -193,7 +191,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture19x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture19x-1000x664.jpg)
 
@@ -203,7 +201,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture20x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture20x.jpg)
 
@@ -213,7 +211,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture21x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture21x.jpg)
 
@@ -223,7 +221,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture22x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture22x.jpg)
 
@@ -233,7 +231,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture23x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture23x.jpg)
 
@@ -243,7 +241,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture24x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture24x.jpg)
 
@@ -253,7 +251,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture25x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture25x.jpg)
 
@@ -263,7 +261,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture26x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture26x.jpg)
 
@@ -273,7 +271,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture27x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture27x.jpg)
 
@@ -283,7 +281,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture28x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture28x.jpg)
 
@@ -293,7 +291,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture29x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture29x.jpg)
 
@@ -303,7 +301,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture30x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture30x-1000x667.jpg)
 
@@ -313,7 +311,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-### 
+
 
 ### ![Picture31x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture31x.jpg)
 

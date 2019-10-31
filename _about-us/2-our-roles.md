@@ -46,7 +46,7 @@ The Records Management Department of the NAS plays a regulatory role for the Gov
 
 The Oral History Centre (OHC) was set up in 1979. Using life stories and eye witness accounts of individuals across the spectrum of society, we record, document, preserve and disseminate oral history interviews of national and historical significance. We also acquire oral history interviews from other institutions or individuals, preserving and disseminating them for the benefit of our patrons. These recordings serve as valuable research resources on Singapore.
 
-Our projects are both broad and deep in scope, covering aspects of the social, economic and political history of Singapore.
+Our projects are both broad and deep in scope, covering aspects of the social, economic and political history of Singapore. 
 
 ![Oral History Centre](http://www.nas.gov.sg/portals/1/userfiles/nlsyrs/images/roles_ohc.jpg)
 

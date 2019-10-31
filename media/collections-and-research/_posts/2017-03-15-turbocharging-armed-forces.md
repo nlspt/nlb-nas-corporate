@@ -2,7 +2,7 @@
 layout: post
 title: "Turbo-charging the Armed Forces"
 date: 2017-03-15
-permalink: "/media/collections-and-research/fit-to-fight"
+permalink: "/media/collections-and-research/turbocharging-armed-forces"
 ---
 
 # TURBO-CHARGING THE ARMED FORCES

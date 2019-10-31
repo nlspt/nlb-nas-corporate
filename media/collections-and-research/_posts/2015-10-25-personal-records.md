@@ -11,8 +11,6 @@ permalink: "/media/collections-and-research/personal-records"
 
 In conjunction with the upcoming revamp of Memories at Old Ford Factory, which houses an exhibition gallery examining life under the Japanese Occupation, the National Archives of Singapore (NAS) is conducting a public call for archives. This post takes a look at a selection of our private records from the Japanese Occupation period.
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/03/img_56d54773d03cc.gif)
-
 > **The Japanese Occupation lacked documentation***…*Thus in 1981, we embarked on a project to collect oral recordings and to look for documents, photographs and all kinds of paraphernalia related to the war and the occupation…We appeal to all Singaporeans to come forward if they have stories to tell, photographs, documents or articles to add to our collection.
 >
 > *– Mrs Lily Tan (Director, National Archives of Singapore from 1978-2001), in 1985*

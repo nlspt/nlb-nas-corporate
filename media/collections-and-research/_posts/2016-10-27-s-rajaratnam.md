@@ -11,7 +11,7 @@ permalink: "/media/collections-and-research/s-rajaratnam"
 
 ![S Rajaratnam, Minister for Culture, in his office, 1950s Source: National Archives of Singapore](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/28-20080000050-img0094-WML-667x1000.jpg)
 
-S Rajaratnam, Minister for Culture, in his office, 1950s*
+*S Rajaratnam, Minister for Culture, in his office, 1950s*
 *Source: National Archives of Singapore, Ref: [20080000050-0094](http://www.nas.gov.sg/archivesonline/photographs/record-details/afc13761-1161-11e3-83d5-0050568939ad)*
 
 One of the Singapore government’s first aims after attaining full internal self-government from the British  in 1959, was to cultivate a common identity. Our state symbols which were unveiled in 1959 became an important way to rally Singaporeans from different backgrounds and communities to a common purpose.

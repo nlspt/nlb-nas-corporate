@@ -5,7 +5,9 @@ date: 2016-10-21
 permalink: "/media/collections-and-research/Foreign-policy-outline"
 ---
 
-# A FOREIGN POLICY OUTLINED: S RAJARATNAM SPEAKS AT SINGAPORE’S ADMISSION TO THE U.N.
+# A FOREIGN POLICY OUTLINED: 
+
+# S RAJARATNAM SPEAKS AT SINGAPORE’S ADMISSION TO THE U.N.
 
 [Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 3 Min. Read
 

@@ -85,11 +85,11 @@ Marshall was a vocal critic of Singapore yet he remained a loyal Singaporean. Hi
 
 ![ David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore ](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/01/dm_lastpic.jpg)
 
-*David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref:[20060000508 – 0073](http://www.nas.gov.sg/archivesonline/photographs/record-details/9a891852-1162-11e3-83d5-0050568939ad)*
+*David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: [20060000508 – 0073](http://www.nas.gov.sg/archivesonline/photographs/record-details/9a891852-1162-11e3-83d5-0050568939ad)*
 
 **Note**
 
-To view the full transcript of this oral history interview and listen to some selected segments within it, visit our online website[http://www.nas.gov.sg/archivesonline/](https://href.li/?http://www.nas.gov.sg/archivesonline/) and key in “David Marshall”.
+To view the full transcript of this oral history interview and listen to some selected segments within it, visit our online website [http://www.nas.gov.sg/archivesonline/](https://href.li/?http://www.nas.gov.sg/archivesonline/) and key in “David Marshall”.
 
 1   Professor Tommy Koh, “*The Rich Legacy of Singapore’s First Nationalist*“, Keynote address at the Symposium in Commemoration of the 100th Birthday of Mr David Marshall, 12 March 2008
 

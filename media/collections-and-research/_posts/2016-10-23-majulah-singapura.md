@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Majulah Singapura- Composing a National Anthem"
+title: "Majulah Singapura - Composing a National Anthem"
 date: 2016-10-23
 permalink: "/media/collections-and-research/majulah-singapura"
 ---

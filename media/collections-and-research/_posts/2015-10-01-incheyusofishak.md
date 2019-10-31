@@ -11,9 +11,9 @@ permalink: "/media/collections-and-research/incheyusofishak"
 
 ![Portrait photograph of President Yusof Ishak, late 1960s](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/20060001779-0030-Yusof-Ishak-Portrait-wm-243x300.jpg)
 
-Portrait photograph of President Yusof Ishak, late 1960s 
+*Portrait photograph of President Yusof Ishak, late 1960s* 
 
-Yusof Ishak collection, courtesy of NAS Ref: [20060001779 – 0030](http://www.nas.gov.sg/archivesonline/photographs/record-details/a5e6ac83-1162-11e3-83d5-0050568939ad)*
+*Yusof Ishak collection, courtesy of NAS Ref: [20060001779 – 0030](http://www.nas.gov.sg/archivesonline/photographs/record-details/a5e6ac83-1162-11e3-83d5-0050568939ad)*
 
 Inche Yusof bin Ishak was the first President of the Republic of Singapore and between 1965 and 1970 headed the nation during its tumultuous early history. His widow, Puan Noor Aishah Bte Md Salim donated an valuable collection of photographs belonging to the late President to the National Archives of Singapore in 2008, and was honored as a patron of heritage by the National Heritage Board.
 
@@ -31,19 +31,19 @@ Photograph of Yang di-Pertuan Yusof bin Ishak and his wife Puan Noor Aishah at t
 
 ![09_PuanNoorAishah_02x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/09_PuanNoorAishah_02x.gif)
 
-Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001795 – 0002](http://www.nas.gov.sg/archivesonline/photographs/record-details/a77937a8-1162-11e3-83d5-0050568939ad)*
+*Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001795 – 0002](http://www.nas.gov.sg/archivesonline/photographs/record-details/a77937a8-1162-11e3-83d5-0050568939ad)*
 
 Yang di-Pertuan Negara Yusof Ishak inspecting the guard of honor at the opening of the Legislative Assembly, November 1963.
 
 ![20060001795-0092-Yusof-Ishak-Inspection-WM-300x200](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/20060001795-0092-Yusof-Ishak-Inspection-WM-300x2001.jpg)
 
-Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001795 – 0092](http://www.nas.gov.sg/archivesonline/photographs/record-details/a6a96dd1-1162-11e3-83d5-0050568939ad)*
+*Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001795 – 0092](http://www.nas.gov.sg/archivesonline/photographs/record-details/a6a96dd1-1162-11e3-83d5-0050568939ad)*
 
 This picture was taken during a visit by President Yusof Ishak to the Jurong Industrial Estate in the 1960s, and reflects the President’s avid interest in photography.
 
 ![09_PuanNoorAishah_03x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/09_PuanNoorAishah_03x.gif)
 
-Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001790 – 0039](http://www.nas.gov.sg/archivesonline/photographs/record-details/a69d3a3e-1162-11e3-83d5-0050568939ad)*
+*Source: Yusof Ishak Collection, Courtesy of National Archives of Singapore Ref: [20060001790 – 0039](http://www.nas.gov.sg/archivesonline/photographs/record-details/a69d3a3e-1162-11e3-83d5-0050568939ad)*
 
 Pictures that were personally taken by President Yusof Ishak during his pilgrimage to Mecca in 1963. The Yusof Ishak collection contains many photographs that the President shot himself.
 

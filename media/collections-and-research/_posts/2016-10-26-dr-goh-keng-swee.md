@@ -11,7 +11,7 @@ permalink: "/media/collections-and-research/dr-goh-keng-swee"
 
 ![19980006752 - 0098 GKS colour wm](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/19980006752-0098-GKS-colour-wm-300x200.jpg)
 
-A portrait of Dr Goh taken in 1984, when he was Singapore’s First Deputy Prime Minister and Minister for Education.* *MITA collection, courtesy of NAS. Ref: [19980006752 – 0098](http://www.nas.gov.sg/archivesonline/photographs/record-details/eecf18c5-1161-11e3-83d5-0050568939ad)*
+*A portrait of Dr Goh taken in 1984, when he was Singapore’s First Deputy Prime Minister and Minister for Education.* *MITA collection, courtesy of NAS. Ref: [19980006752 – 0098](http://www.nas.gov.sg/archivesonline/photographs/record-details/eecf18c5-1161-11e3-83d5-0050568939ad)*
 
 In this extract from a humorous & insightful speech he gave at the opening of the Tanah Merah Golf Club in 1984, Dr Goh Keng Swee, our former Deputy Prime Minister and first cabinet member, shared with guests why, in his view, many take to the game of golf:
 
@@ -25,9 +25,10 @@ You can read the rest of the speech online at the National Archive’s database 
 
 ![Dr Goh taking a swing shot at Bukit Club, Sime Road, 1965. Ref: 19980000605 - 0030](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/19980000605-0030-GKS-golf-wm.jpg) 
 
-Dr Goh taking a swing shot at Bukit Club, Sime Road, 1965.
+*Dr Goh taking a swing shot at Bukit Club, Sime Road, 1965.*
 *Ministry of Information and the Arts collection, courtesy of NAS.* Ref: [19980000605 – 0030](http://www.nas.gov.sg/archivesonline/photographs/record-details/c3336aed-1161-11e3-83d5-0050568939ad)
 
  
 
  
+

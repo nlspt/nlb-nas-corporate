@@ -15,7 +15,7 @@ In 1992, the Singapore Heritage Society, with the support of partners including 
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/09/img_59aa3a3293cc5-500x473.png)
 
-Facade of the Former Ford Factory, 2017. Courtesy of National Archives of Singapore.
+*Facade of the Former Ford Factory, 2017. Courtesy of National Archives of Singapore.*
 
 In 2003, the National Archives of Singapore (NAS) was offered the Former Ford Factory site (the historic location where Lieutenant-General Arthur Ernest Percival, the British General Officer Commanding Malaya, surrendered to Lieutenant-General Yamashita Tomoyuki, the Japanese Commander of the 25th Army on 15 February 1942) for its new archives repository, and to develop a permanent exhibition to showcase the events and the lives of people surrounding the Japanese Occupation. This became Memories at Old Ford Factory (MOFF), which housed a World War Two Interpretative Gallery which presented oral history accounts collected by NAS together with photographs, documents and archival materials from NAS’ collection and overseas archives institutions.
 
@@ -23,13 +23,13 @@ More than 300,000 visitors passed through MOFF since its opening by then- Defenc
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/09/img_59aa3a69cc189-500x388.png)
 
-Interior shot of the revamped exhibiton in 2017. Courtesy of National Archives of Singapore.
+*Interior shot of the revamped exhibiton in 2017. Courtesy of National Archives of Singapore.*
 
 The government felt that a revamp of MOFF was timely to refresh the exhibits and storyline. The revamp was also occasioned, in part, by key changes in our society and consciousness – not least, the awakening of interest in aspects of our past. This was most noticeable during the celebrations for the 50th year of Singapore’s independence in 2015. But there has been renewed interest, too, on account of the growing realization that those who lived through the Japanese Occupation are few, and those who remember its privations, ever fewer. More has to be done to commemorate this part of our history. Within a short span of time, these recollections will pass out of living remembrance. The revamp is therefore not just timely but important.
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/09/img_59aa3b155df70.png)
 
-Courtesy of Landmark Books.
+*Courtesy of Landmark Books.*
 
 The revision of the 1992 book (long out of print) is therefore very timely. The new edition, in an attractive hardback compact form, is a visual and narrative treat. It has been updated based on the revamped gallery’s storyline : *Surviving the Japanese Occupation : War and its Legacies*. This new edition (as well as the gallery’s new storyline) highlight both short and long-term post-war legacies, including wartime remembrances and the impact of the War and Occupation on post-war developments, and the ways in which these developments continue to reverberate in Singapore today. In both the gallery and book, emphasis has been placed on allowing voices to speak for themselves. Both make use of work which has been done since 1985 on oral history collection.
 
@@ -43,4 +43,4 @@ They and numerous others who helped to make the book and the revamped Gallery po
 
 ------
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/memories-of-war-and-its-legacies/#_ftnref1) The original Japanese Occupation project continued on an ad-hoc basis, up to 2014, to make up a total of 360 interviews (1,104 hours). The additional interviews were collected both locally and overseas (the latter group includes interviews with former Prisoners-of-War , and even Japanese who fought in the war).
+[[1\]](http://www.nas.gov.sg/blogs/offtherecord/memories-of-war-and-its-legacies/#_ftnref1) The original Japanese Occupation project continued on an ad-hoc basis, up to 2014, to make up a total of 360 interviews (1,104 hours). The additional interviews were collected both locally and overseas (the latter group includes interviews with former Prisoners-of-War, and even Japanese who fought in the war).

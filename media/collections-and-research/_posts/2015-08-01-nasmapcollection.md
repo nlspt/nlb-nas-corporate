@@ -9,7 +9,7 @@ permalink: "/media/collections-and-research/nasmapcollection"
 
 [Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 4 Years Ago 19 Min. Read
 
-This essay, originally published in ***‘Visualising Space: Maps of Singapore and the Region – Collections from the National Library and National Archives of Singapore’\*** (National Library Board, 2014) provides an overview of the National Archives of Singapore’s map collection which is presently the largest available public  collection of Singapore maps.
+This essay, originally published in ***‘Visualising Space: Maps of Singapore and the Region – Collections from the National Library and National Archives of Singapore’\**** (National Library Board, 2014) provides an overview of the National Archives of Singapore’s map collection which is presently the largest available public  collection of Singapore maps.
 
 An introduction to a collection of maps should perhaps begin with this most basic question: What are maps? There has been a substantial broadening of the definition of the map by scholars in the past few decades.[[1\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftn1) The traditional geographer defined maps as visual representations of objects in space, graphics that objectively corresponded with reality.[[2\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftn2) Newer definitions are more embracing, covering as J.B. Harley defines, all ‘graphic representations that facilitate a spatial understanding of things, concepts, conditions, processes, or events in the human world’.[[3\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftn3) This could include religious diagrams, drawings of mythic or imagined landscapes and even mind-maps.[[4\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftn4)
 
@@ -115,11 +115,11 @@ Looking to the future where maps are increasingly created using digital techniqu
 *Source: Singapore Land Authority, Courtesy of National Archives of Singapore*
 *Ref: [TM000987](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fabc9bbe-115c-11e3-83d5-0050568939ad)*
 
-***The National Archives of Singapore Map Collection can be viewed and accessed on our public database Archives Online at this link:\***
+***The National Archives of Singapore Map Collection can be viewed and accessed on our public database Archives Online at this link:\****
 
-***http://www.nas.gov.sg/archivesonline/maps_building_plans/\***
+***http://www.nas.gov.sg/archivesonline/maps_building_plans/\****
 
-***With around 10,000 maps, the National Archives of Singapore holds possibly the largest collection of Singapore maps publicly available, including an extensive collection of survey and topographic maps produced from the British colonial era into modern times.\***
+***With around 10,000 maps, the National Archives of Singapore holds possibly the largest collection of Singapore maps publicly available, including an extensive collection of survey and topographic maps produced from the British colonial era into modern times.\****
 
 ## **BIBLIOGRAPHY**
 

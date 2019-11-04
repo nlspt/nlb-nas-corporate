@@ -11,8 +11,8 @@ favicon: /images/favicon-nas.ico
 agency-logo: /images/logo-nas.svg
 
 # Hero Banner
-hero-title:                                                                                                                                                                                                                                                         
-hero-subtitle:                                                                                                                                                                  
+hero-title:             
+hero-subtitle:
 hero-banner: /images/stillbanner.gif
 
 #Call to Action Button
@@ -23,24 +23,19 @@ hero-banner: /images/stillbanner.gif
 
 #Highlights
 key-highlights:
-
   - title: Citizen Archivist
     url: http://www.nas.gov.sg/citizenarchivist
     external: true
-    
   - title: Archives Online
     url: http://www.nas.gov.sg/archivesonline/
     external: true
-    
   - title: Singapore Policy History Project
     url: http://www.nas.gov.sg/archivesonline/policy_history/
     external: true
-    
   - title: E-Request
-
     url: https://www.nas.gov.sg/erequest/#/home
-    
     external: true
+
 # Info Sections
 info-sections:
   - section-title: Features

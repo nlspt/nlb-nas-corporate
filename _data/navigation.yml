@@ -65,14 +65,3 @@
     url: /outreach/calendar-of-events/
   - title: Whats New
     url: /outreach/whats-new/
-  - title: <div id="vouch-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "https://widget.vouch.sg/widget/widget.min.js";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'vouch-jswidget'));</script>
- 
-<div id="vouch-chat" merchant="5bbd97c5f157a72cb7c592da"></div>
-    url: 

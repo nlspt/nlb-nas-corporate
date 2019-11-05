@@ -26,7 +26,7 @@ Please visit [Archives Online](www.nas.gov.sg/archivesonline/) to search for the
 
 2) Reproductions of archival records
 
-Please visit [Archives Online](http://www.nas.gov.sg/archivesonline/) to search for the records and submit an [e-Request](https://www.nas.gov.sg/erequest/#/home) by clicking on the “Request a Copy” button.
+Please visit [Archives Online](www.nas.gov.sg/archivesonline/) to search for the records and submit an [e-Request](https://www.nas.gov.sg/erequest/#/home) by clicking on the “Request a Copy” button.
 
 
 

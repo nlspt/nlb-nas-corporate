@@ -20,13 +20,13 @@ Services facilitated by Archives Reading Room include:
 
 ·    Oral history interviews and audiovisual recordings
 
-Please visit [Archives Online](www.nas.gov.sg/archivesonline/) to search for the records and submit an [e-Request](https://www.nas.gov.sg/erequest/#/home) by clicking on the “Request to View” button if the records are not available for viewing from home 
+Please visit [Archives Online](http://www.nas.gov.sg/archivesonline/) to search for the records and submit an [e-Request](https://www.nas.gov.sg/erequest/#/home) by clicking on the “Request to View” button if the records are not available for viewing from home 
 
 
 
 2) Reproductions of archival records
 
-Please visit [Archives Online](www.nas.gov.sg/archivesonline/) to search for the records and submit an [e-Request](https://www.nas.gov.sg/erequest/#/home) by clicking on the “Request a Copy” button.
+Please visit [Archives Online](http://www.nas.gov.sg/archivesonline/) to search for the records and submit an [e-Request](https://www.nas.gov.sg/erequest/#/home) by clicking on the “Request a Copy” button.
 
 
 

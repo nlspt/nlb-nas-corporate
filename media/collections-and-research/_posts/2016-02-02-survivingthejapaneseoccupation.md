@@ -9,7 +9,7 @@ permalink: "/media/collections-and-research/survivingthejapaneseoccupation"
 
 [Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 1 Min. Read
 
-***Surviving the Japanese Occupation: War and its Legacies\*** is a permanent World War Two exhibition presented by the National Archives of Singapore at the historic Former Ford Factory. This was the place where the British forces surrendered unconditionally to the Imperial Japanese Army on 15 February 1942. The exhibition presents the events and memories surrounding the British surrender, the Japanese occupation of Singapore, and outlines the legacies of the war. Through oral history accounts, archival records and published material, the exhibition highlights the diverse experiences of people in Singapore during this crucial time of in our history.
+***Surviving the Japanese Occupation: War and its Legacies\**** is a permanent World War Two exhibition presented by the National Archives of Singapore at the historic Former Ford Factory. This was the place where the British forces surrendered unconditionally to the Imperial Japanese Army on 15 February 1942. The exhibition presents the events and memories surrounding the British surrender, the Japanese occupation of Singapore, and outlines the legacies of the war. Through oral history accounts, archival records and published material, the exhibition highlights the diverse experiences of people in Singapore during this crucial time of in our history.
 
 [![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/02/090A2272A-1000x667.jpg)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/02/090A2272A.jpg)
 

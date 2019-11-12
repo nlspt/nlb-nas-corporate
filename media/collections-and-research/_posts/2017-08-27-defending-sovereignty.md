@@ -163,5 +163,5 @@ FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore
 
 [10] *Ministry of Defence Singapore Website*, http://www.mindef.gov.sg/imindef/news_and_events/nr/2006/jun/05jun06_nr.html
 
-[11]Parliamentary Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.  *Ministry of Culture, courtesy of NAS. [Ref.: PressR19670313b.](http://www.nas.gov.sg/archivesonline/speeches/record-details/79b11d3f-115d-11e3-83d5-0050568939ad)*
+[11] Parliamentary Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.  *Ministry of Culture, courtesy of NAS. [Ref.: PressR19670313b.](http://www.nas.gov.sg/archivesonline/speeches/record-details/79b11d3f-115d-11e3-83d5-0050568939ad)*
 

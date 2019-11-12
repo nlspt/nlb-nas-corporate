@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/lawoftheland"
 
 # LAW OF THE LAND: CONSTITUTIONAL DOCUMENTS
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 13 Min. Read
+Grace Ho 3 Years Ago 13 Min. Read
 
 *Law of the Land: Highlights of Singapore’s Constitutional Documents* is an exhibition on Singapore’s constitutional history – from its founding in 1819 to independence in 1965 – organised by the National Archives of Singapore and National Library Board, and hosted at the National Gallery Singapore. **Kevin Khoo**, an archivist from the National Archives and one of the exhibition’s curators details some of its highlights. This essay was originally published in the National Library Board’s BiblioAsia magazine, Jul-Sept 2016 issue.
 

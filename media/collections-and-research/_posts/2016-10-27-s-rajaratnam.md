@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/s-rajaratnam"
 
 # S. RAJARATNAM ON SINGAPORE’S STATE SYMBOLS
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 4 Min. Read
+Grace Ho 3 Years Ago 4 Min. Read
 
 ![S Rajaratnam, Minister for Culture, in his office, 1950s Source: National Archives of Singapore](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/28-20080000050-img0094-WML-667x1000.jpg)
 
@@ -16,7 +16,7 @@ permalink: "/media/collections-and-research/s-rajaratnam"
 
 One of the Singapore government’s first aims after attaining full internal self-government from the British  in 1959, was to cultivate a common identity. Our state symbols which were unveiled in 1959 became an important way to rally Singaporeans from different backgrounds and communities to a common purpose.
 
-In 1959, a new Ministry of Culture, headed by Mr S. Rajaratnam, was established with responsibility for instilling in Singaporeans of different races, creeds and classes ‘the will to be a nation’, striving towards creating a Malayan nation through a merger between the Federation of Malaya and Singapore.[[1\]](http://www.nas.gov.sg/blogs/offtherecord/singapores-state-symbols-their-meaning/#_ftn1)
+In 1959, a new Ministry of Culture, headed by Mr S. Rajaratnam, was established with responsibility for instilling in Singaporeans of different races, creeds and classes ‘the will to be a nation’, striving towards creating a Malayan nation through a merger between the Federation of Malaya and Singapore.[1]
 
 Although Singapore became a republic only in 1965, our state symbols – the flag, anthem and crest – were first unveiled in 1959 when Singapore obtained self-government from Britain. Presenting the motion to establish state symbols to the Legislative Assembly on 11 November 1959, Minister for Culture Mr S. Rajaratnam explained their significance:
 
@@ -24,7 +24,7 @@ Although Singapore became a republic only in 1965, our state symbols – the fla
 >
 > *The symbols we have had so far were symbols that emphasised our subjection to the will of others. They were symbols of dominance, of authority imposed from the outside. Now that Singapore is a self-governing State, it is right and proper that it should have its own symbols of authority and loyalty. Only through these new symbols can we express the spirit that today moves our people.* 
 >
-> *Therefore, in designing the new symbols, the Government has worked in close co-operation with Opposition Parties because we want these symbols to express the sentiments and aspirations, not of any particular group, Party or section, but of the people of Singapore as a whole.[**[2\]**](http://www.nas.gov.sg/blogs/offtherecord/singapores-state-symbols-their-meaning/#_ftn2)*
+> *Therefore, in designing the new symbols, the Government has worked in close co-operation with Opposition Parties because we want these symbols to express the sentiments and aspirations, not of any particular group, Party or section, but of the people of Singapore as a whole.[**2**]
 
 The proposed state symbols were unanimously accepted by the Legislative Council. At the same Legislative Assembly session on 11 November 1959, Minister Rajaratnam  explained in detail the symbolism of Singapore’s state symbols. We reproduce his discussion at length here:
 
@@ -58,6 +58,6 @@ The proposed state symbols were unanimously accepted by the Legislative Council.
 
  
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/singapores-state-symbols-their-meaning/#_ftnref1) *State of Singapore Annual Report*, 1959, p.12-13
+[1] *State of Singapore Annual Report*, 1959, p.12-13
 
-[[2\]](http://www.nas.gov.sg/blogs/offtherecord/singapores-state-symbols-their-meaning/#_ftnref2) Address by Minister for Culture S Rajaratnam, “State Arms & Flag & State National Anthem”, Singapore Parliament Reports, 11 November 1959
+[2]Address by Minister for Culture S Rajaratnam, “State Arms & Flag & State National Anthem”, Singapore Parliament Reports, 11 November 1959

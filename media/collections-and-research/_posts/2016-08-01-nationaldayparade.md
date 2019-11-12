@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/nationaldayparade"
 
 # THE NATIONAL DAY PARADE THROUGH THE YEARS, 1966-2012
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 2 Min. Read
+Grace Ho 3 Years Ago 2 Min. Read
 
 We look at how the National Day parade evolved over the years through the archives of our the Ministry of Communication and Information’s Photography Unit. This selection of images was curated by Ms Janelle Chua, our Outreach manager !
 

@@ -1,5 +1,5 @@
 ---
-layout: nas-homepage
+layout: homepage
 title: Isomer Pages Demo
 permalink: /
 ---

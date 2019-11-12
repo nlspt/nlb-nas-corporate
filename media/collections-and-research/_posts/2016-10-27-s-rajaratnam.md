@@ -24,17 +24,17 @@ Although Singapore became a republic only in 1965, our state symbols – the fla
 >
 > *The symbols we have had so far were symbols that emphasised our subjection to the will of others. They were symbols of dominance, of authority imposed from the outside. Now that Singapore is a self-governing State, it is right and proper that it should have its own symbols of authority and loyalty. Only through these new symbols can we express the spirit that today moves our people.* 
 >
-> *Therefore, in designing the new symbols, the Government has worked in close co-operation with Opposition Parties because we want these symbols to express the sentiments and aspirations, not of any particular group, Party or section, but of the people of Singapore as a whole.[**2**]
+> *Therefore, in designing the new symbols, the Government has worked in close co-operation with Opposition Parties because we want these symbols to express the sentiments and aspirations, not of any particular group, Party or section, but of the people of Singapore as a whole.*[**2**]
 
 The proposed state symbols were unanimously accepted by the Legislative Council. At the same Legislative Assembly session on 11 November 1959, Minister Rajaratnam  explained in detail the symbolism of Singapore’s state symbols. We reproduce his discussion at length here:
 
 >  *“Of course, Mr Speaker, symbols are a very tricky business. They can mean whatever a person wants them to mean … It is in order to prevent any too free a translation of the new symbols that we have taken the precaution of providing, as it were, an authorised translation of the symbols which our flag and State arms carry.*
 >
-> ***The colour red*** stands for universal brotherhood and equality of man. Whatever the colour of our skin, the shape of our nose and eyes, the blood that gives us life is of one colour – even among those who claim to have blue blood.*
+> ***The colour red*** stands for universal brotherhood and equality of man. Whatever the colour of our skin, the shape of our nose and eyes, the blood that gives us life is of one colour – even among those who claim to have blue blood.
 >
-> ***The colour white*** signifies purity and virtue. So the two colours combined signify that we hope to achieve brotherhood and equality through purity and virtue.* 
+> ***The colour white*** signifies purity and virtue. So the two colours combined signify that we hope to achieve brotherhood and equality through purity and virtue.
 >
-> ***The crescent moon*** signifies a country eternally young. This is expressive of one of the essential qualities of our people, for not only are our people physically young but they are also young in spirit and outlook. This refutes the traditional picture which depicts Asian countries … as countries burdened with ancient and meaningless traditions. This picture is not true of Asia today. It is a youthful, restless Asia. The new Singapore, like the new Asia, therefore, finds its inspirations in what it hopes to do in the future rather than what it has done in the past. Only the old, grown weak and complacent, hark nostalgically back to the past. It is only the youthful who are more conscious of the future waiting to unfold before them.* 
+> ***The crescent moon*** signifies a country eternally young. This is expressive of one of the essential qualities of our people, for not only are our people physically young but they are also young in spirit and outlook. This refutes the traditional picture which depicts Asian countries … as countries burdened with ancient and meaningless traditions. This picture is not true of Asia today. It is a youthful, restless Asia. The new Singapore, like the new Asia, therefore, finds its inspirations in what it hopes to do in the future rather than what it has done in the past. Only the old, grown weak and complacent, hark nostalgically back to the past. It is only the youthful who are more conscious of the future waiting to unfold before them.
 >
 > *Sir, **the five stars** represent the ideals on which the new State of Singapore is founded – democracy, peace, progress, justice and equality. Those who would destroy these are our enemies. Those who would repudiate them are false prophets.* 
 >

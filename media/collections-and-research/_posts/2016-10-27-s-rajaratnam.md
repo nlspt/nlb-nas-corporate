@@ -30,17 +30,17 @@ The proposed state symbols were unanimously accepted by the Legislative Council.
 
 >  *“Of course, Mr Speaker, symbols are a very tricky business. They can mean whatever a person wants them to mean … It is in order to prevent any too free a translation of the new symbols that we have taken the precaution of providing, as it were, an authorised translation of the symbols which our flag and State arms carry.*
 >
-> ***The colour red\*** *stands for universal brotherhood and equality of man. Whatever the colour of our skin, the shape of our nose and eyes, the blood that gives us life is of one colour – even among those who claim to have blue blood.*
+> ***The colour red*** stands for universal brotherhood and equality of man. Whatever the colour of our skin, the shape of our nose and eyes, the blood that gives us life is of one colour – even among those who claim to have blue blood.*
 >
-> ***The colour white\*** *signifies purity and virtue. So the two colours combined signify that we hope to achieve brotherhood and equality through purity and virtue.* 
+> ***The colour white*** signifies purity and virtue. So the two colours combined signify that we hope to achieve brotherhood and equality through purity and virtue.* 
 >
-> ***The crescent moon\*** *signifies a country eternally young. This is expressive of one of the essential qualities of our people, for not only are our people physically young but they are also young in spirit and outlook. This refutes the traditional picture which depicts Asian countries … as countries burdened with ancient and meaningless traditions. This picture is not true of Asia today. It is a youthful, restless Asia. The new Singapore, like the new Asia, therefore, finds its inspirations in what it hopes to do in the future rather than what it has done in the past. Only the old, grown weak and complacent, hark nostalgically back to the past. It is only the youthful who are more conscious of the future waiting to unfold before them.* 
+> ***The crescent moon*** signifies a country eternally young. This is expressive of one of the essential qualities of our people, for not only are our people physically young but they are also young in spirit and outlook. This refutes the traditional picture which depicts Asian countries … as countries burdened with ancient and meaningless traditions. This picture is not true of Asia today. It is a youthful, restless Asia. The new Singapore, like the new Asia, therefore, finds its inspirations in what it hopes to do in the future rather than what it has done in the past. Only the old, grown weak and complacent, hark nostalgically back to the past. It is only the youthful who are more conscious of the future waiting to unfold before them.* 
 >
 > *Sir, **the five stars** represent the ideals on which the new State of Singapore is founded – democracy, peace, progress, justice and equality. Those who would destroy these are our enemies. Those who would repudiate them are false prophets.* 
 >
 > *These symbols are also incorporated in the State arms, which also has a lion and a tiger. **The lion** represents Singapore and **the tiger** our links with the people of the Federation.* 
 >
-> *As for **the*** ***state national anthem\*** *“Majulah Singapura”, it has already been tacitly accepted by the people as their song. It has been sung and played as Singapore’s anthem unofficially on many occasions.* 
+> As for the ***state national anthem*** *“Majulah Singapura”, it has already been tacitly accepted by the people as their song. It has been sung and played as Singapore’s anthem unofficially on many occasions.* 
 >
 > *Mr Speaker, Sir … The flag, the State arms and the anthem are new symbols of national pride. They are expressive of the new spirit of self-reliance and dedication which inspires our people today.* 
 >
@@ -60,4 +60,4 @@ The proposed state symbols were unanimously accepted by the Legislative Council.
 
 [1] *State of Singapore Annual Report*, 1959, p.12-13
 
-[2]Address by Minister for Culture S Rajaratnam, “State Arms & Flag & State National Anthem”, Singapore Parliament Reports, 11 November 1959
+[2] Address by Minister for Culture S Rajaratnam, “State Arms & Flag & State National Anthem”, Singapore Parliament Reports, 11 November 1959

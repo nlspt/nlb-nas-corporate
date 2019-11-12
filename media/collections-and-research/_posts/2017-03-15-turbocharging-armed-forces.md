@@ -7,9 +7,9 @@ permalink: "/media/collections-and-research/turbocharging-armed-forces"
 
 # TURBO-CHARGING THE ARMED FORCES
 
-[Fiona Tan ](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 2 Years Ago 5 Min. Read
+Fiona Tan 2 Years Ago 5 Min. Read
 
-###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN \*THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985 PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).** 
+###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985 PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).** 
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 
@@ -18,7 +18,7 @@ The decade saw the SAF develop a substantially stronger navy and air force and m
 Home grown companies like Chartered Industries of Singapore, the Singapore Shipbuilding and Engineering Company, and the Singapore Aerospace Maintenance Company developed the capability to design new weapons, like assault rifles, and manufacture and upgrade complex military hardware, including small modern warships.
 
 > *The new equipment made fuller use of Singapore’s increasingly well-educated soldiers who were able to quickly absorb the more complex training required to handle them. They also enabled the SAF to be leaner but more deadly, making up for the gradual decline in national serviceman intakes from the late 1970s due to falling birth rates. As Minister of Defence Dr Goh Keng Swee related in Parliament in August 1977:*
-> *“It is necessary to economise the use of manpower. As a result of successful family planning in past years, the number of young men available for national service in future years will show a steady but relentless decline. In 10 years time, the number available will be nearly 30 per cent less than what it is now…”[[1\]](http://www.nas.gov.sg/blogs/offtherecord/turbo-charging-the-armed-forces/#_ftn1)*
+> *“It is necessary to economise the use of manpower. As a result of successful family planning in past years, the number of young men available for national service in future years will show a steady but relentless decline. In 10 years time, the number available will be nearly 30 per cent less than what it is now…”[1]*
 >
 > Addendum to Presidential Address by Minister of Defence Dr Goh Keng Swee at the Opening of the First Session of the Fourth Parliament on Tuesday, 8th February 1977- *Ministry of Defence. Ministry of Culture, courtesy of NAS. [Ref.: bhs19770208cs](http://www.nas.gov.sg/archivesonline/speeches/record-details/735f9183-115d-11e3-83d5-0050568939ad).*
 
@@ -30,13 +30,13 @@ German-designed and technologically advanced, the Republic of Singapore’s miss
 
 > *“We have had National Service for 15 years now. I believe, however, that we have not yet built up a close and natural relationship between the SAF and the* *people. There is still an inadequate appreciation of the importance of SAF officers.*
 >
-> *For example, our society as a whole does not accord SAF officers the esteem they deserve. A Colonel commanding a division of 15,000 men does not carry the same prestige as a doctor in social circles. Yet, the doctor’s survival, indeed, the whole country’s survival, in times of war, may depend on that Colonel and his 15,000 men.”* [[2\]](http://www.nas.gov.sg/blogs/offtherecord/turbo-charging-the-armed-forces/#_ftn2)
+> *For example, our society as a whole does not accord SAF officers the esteem they deserve. A Colonel commanding a division of 15,000 men does not carry the same prestige as a doctor in social circles. Yet, the doctor’s survival, indeed, the whole country’s survival, in times of war, may depend on that Colonel and his 15,000 men.”* [2]
 >
 > Speech by Goh Chok Tong, Minister for Defence at the Promotion Ceremony for Reservist Officers, at Beach Road Camp on Tuesday, 29 June 1982. *Ministry of culture, courtesy of NAS. [Ref.:gct19820629s](http://www.nas.gov.sg/archivesonline/speeches/record-details/714759fb-115d-11e3-83d5-0050568939ad)*
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d97253bf7c.png)
 
-The handy and accurate Ultimax 100 light machine gun was developed by Chartered Industries of Singapore with guidance from Jim Sullivan, a renowned firearms designer who co-designed the M-16 rifle. Introduced to the SAF in 1983, it remains the lightest 5.56mm calibre machine gun in the world. *Fighting Fit-The Singapore Armed Forces*, 1990, courtesy of NAS.
+The handy and accurate Ultimax 100 light machine gun was developed by Chartered Industries of Singapore with guidance from Jim Sullivan, a renowned firearms designer who co-designed the M-16 rifle. Introduced to the SAF in 1983, it remains the lightest 5.56mm calibre machine gun in the world. *Fighting Fit-The Singapore Armed Forces*, *1990, courtesy of NAS.*
 
  
 
@@ -60,7 +60,7 @@ The SAF enhanced its air defences considerably in the second decade. High-tech a
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d98889f425.png)
 
-​                                                                      MINDEF, courtesy of NAS
+​                                                                      *MINDEF, courtesy of NAS*
 
  
 
@@ -92,7 +92,7 @@ Join the professionals, SAF, it’s a great life. *Singapore Armed Forces, court
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d97ae94f4d.png)
 
-The SAF helped groom many of Singapore’s present generation of leaders. Several of our current Cabinet Ministers were SAF scholars, such as BG George Yeo (far left), RADM Teo Chee Hian (standing), and Mr Lim Hng Kiang (centre). SPH, courtesy of NAS.
+The SAF helped groom many of Singapore’s present generation of leaders. Several of our current Cabinet Ministers were SAF scholars, such as BG George Yeo (far left), RADM Teo Chee Hian (standing), and Mr Lim Hng Kiang (centre). *SPH, courtesy of NAS.*
 
  
 
@@ -106,7 +106,7 @@ SAF Display ’83, in celebration of Armed Forces Day at West Coast Park. *Minis
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d97cd9739c.png)
 
-SAF Display ’83, in celebration of Armed Forces Day, at West Coast Park. Ministry of Information, Communications and the Arts, courtesy of NAS. [*Ref.: 19980006807*](http://www.nas.gov.sg/archivesonline/photographs/record-details/ebff7afd-1161-11e3-83d5-0050568939ad)
+SAF Display ’83, in celebration of Armed Forces Day, at West Coast Park. *Ministry of Information, Communications and the Arts, courtesy of NAS. [Ref.: 19980006807](http://www.nas.gov.sg/archivesonline/photographs/record-details/ebff7afd-1161-11e3-83d5-0050568939ad)*
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d97d8e0c8d.png)
 
@@ -114,6 +114,6 @@ Scenes from the SAF Display, 1983. Simulated assault on enemy positions by SAF a
 
 ------
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/turbo-charging-the-armed-forces/#_ftnref1) Addendum to Presidential Address by Minister of Defence Dr Goh Keng Swee at the Opening of the First Session of the Fourth Parliament on Tuesday, 8th February 1977- *Ministry of Defence. Ministry of Culture, courtesy of NAS. Ref.: [bhs19770208cs](http://www.nas.gov.sg/archivesonline/speeches/record-details/735f9183-115d-11e3-83d5-0050568939ad)*
+[1] Addendum to Presidential Address by Minister of Defence Dr Goh Keng Swee at the Opening of the First Session of the Fourth Parliament on Tuesday, 8th February 1977- *Ministry of Defence. Ministry of Culture, courtesy of NAS. Ref.: [bhs19770208cs](http://www.nas.gov.sg/archivesonline/speeches/record-details/735f9183-115d-11e3-83d5-0050568939ad)*
 
-[[2\]](http://www.nas.gov.sg/blogs/offtherecord/turbo-charging-the-armed-forces/#_ftnref2) Speech by Goh Chok Tong, Minister for Defence at the Promotion Ceremony for Reservist Officers, at Beach Road Camp on Tuesday, 29 June 1982*. Ministry of culture, courtesy of NAS. Ref.:* [*gct19820629s*](http://www.nas.gov.sg/archivesonline/speeches/record-details/714759fb-115d-11e3-83d5-0050568939ad)
+[2] Speech by Goh Chok Tong, Minister for Defence at the Promotion Ceremony for Reservist Officers, at Beach Road Camp on Tuesday, 29 June 1982*. Ministry of culture, courtesy of NAS. Ref.:* [*gct19820629s*](http://www.nas.gov.sg/archivesonline/speeches/record-details/714759fb-115d-11e3-83d5-0050568939ad)

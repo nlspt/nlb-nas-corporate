@@ -7,9 +7,9 @@ permalink: "/media/collections-and-research/total-defence"
 
 # TOTAL DEFENCE
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 2 Years Ago 2 Min. Read
+Fiona Tan 2 Years Ago 2 Min. Read
 
-###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN \*THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985\* PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).**
+###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985 PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).**
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 
@@ -17,7 +17,7 @@ permalink: "/media/collections-and-research/total-defence"
 
 ​                                                            *MINDEF, courtesy of NAS.*
 
-> *“Defence cannot just be the responsibility of the government or the armed forces. It is the responsibility of the whole nation….National will is thus an essential political recondition of any convincing military posture of deterrence. Singaporeans must be psychologically prepared to defend our homeland. Thus even if a hostile ship from a big power comes steaming in with a huge banner across its bow saying, ‘Singapore here we come”, we must* *still try and be prepared to blow it up. At least, we must extract a high price from our aggressors.”[**[1\]**](http://www.nas.gov.sg/blogs/offtherecord/total-defence/#_ftn1)*
+> *“Defence cannot just be the responsibility of the government or the armed forces. It is the responsibility of the whole nation….National will is thus an essential political recondition of any convincing military posture of deterrence. Singaporeans must be psychologically prepared to defend our homeland. Thus even if a hostile ship from a big power comes steaming in with a huge banner across its bow saying, ‘Singapore here we come”, we must* *still try and be prepared to blow it up. At least, we must extract a high price from our aggressors.”**[1\]**
 >
 > Extract of by Minister of Defence and Second Minister Goh Chok Tong at the graduation ceremony of SAF non-commissioned officers at Pasir Laba Camp, 1984. *Ministry of Culture, courtesy of NAS. [Ref.: gct19840327s](http://www.nas.gov.sg/archivesonline/speeches/record-details/71a726b8-115d-11e3-83d5-0050568939ad)*
 
@@ -37,7 +37,7 @@ Total defence, it begins with the SAF, but there’s part for everyone. *MINDEF,
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d9c5f1ce6b.png)
 
-​                                                                         MINDEF, courtesy of NAS
+​                                                                         *MINDEF, courtesy of NAS*
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d9c8ca7311.png)
 
@@ -45,16 +45,13 @@ Total defence, it begins with the SAF, but there’s part for everyone. *MINDEF,
 
 > *“National preparedness is the most effective way of deterring threats and maintaining peace. Should deterrence fail, our preparedness will enable us to respond effectively and decisively. Our way of life will only be guaranteed by our will to safeguard it, coupled with the ability to do so.”*
 >
-> Speech by Second Minister of Defence Dr Yeo Ning Hong at the Tri-service Graduation Ceremony at Pasir Laba Camp, 9 March 1985.[[2\]](http://www.nas.gov.sg/blogs/offtherecord/total-defence/#_ftn2)
+> Speech by Second Minister of Defence Dr Yeo Ning Hong at the Tri-service Graduation Ceremony at Pasir Laba Camp, 9 March 1985.[2]
 
  
 
 ------
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/total-defence/#_ftnref1) Speech by Mr Goh Chok Tong, Minister of Defence and Second Minister for Health at the graduation ceremony at Pasir Laba Camp on Tuesday 27 March 1984. *Ministry of Culture, courtesy of*
+[1] Speech by Mr Goh Chok Tong, Minister of Defence and Second Minister for Health at the graduation ceremony at Pasir Laba Camp on Tuesday 27 March 1984. *Ministry of Culture, courtesy of NAS. [Ref.: gct19840327s](http://www.nas.gov.sg/archivesonline/speeches/record-details/71a726b8-115d-11e3-83d5-0050568939ad)*
 
-*NAS. Ref.: gct19840327s*
+[2] *The 2nd decade: nation building in progress 1975-1985*. (Singapore: National Archives of Singapore, 2010), p. 63.
 
-http://www.nas.gov.sg/archivesonline/speeches/record-details/71a726b8-115d-11e3-83d5-0050568939ad
-
-[[2\]](http://www.nas.gov.sg/blogs/offtherecord/total-defence/#_ftnref2) *The 2nd decade: nation building in progress 1975-1985*. (Singapore: National Archives of Singapore, 2010), p. 63.

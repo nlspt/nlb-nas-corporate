@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/incheyusofishak"
 
 # THE INCHE YUSOF ISHAK COLLECTION
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 4 Years Ago 2 Min. Read
+Grace Ho 4 Years Ago 2 Min. Read
 
 ![Portrait photograph of President Yusof Ishak, late 1960s](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/20060001779-0030-Yusof-Ishak-Portrait-wm-243x300.jpg)
 

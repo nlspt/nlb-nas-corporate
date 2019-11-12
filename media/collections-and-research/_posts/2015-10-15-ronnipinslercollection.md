@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/ronnipinsler"
 
 # THE RONNI PINSLER COLLECTION
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 4 Years Ago 4 Min. Read
+Grace Ho 4 Years Ago 4 Min. Read
 
 Mr Ronni Pinsler is an independent photographer who has made invaluable contributions to Singapore heritage by documenting the nation’s changing landscape between the 1970s and 1990s. He is best known for his extraordinary efforts recording the multifaceted practices of local Taoism and has captured many valuable images of Singapore, focusing on vanishing local street scenes and people portraits. He received the prestigious Supporter of Heritage award from the National Heritage Board in April 2010 in honour of his generous permanent loan of a comprehensive collection of his work to the National Archives of Singapore.
 

@@ -7,9 +7,9 @@ permalink: "/media/collections-and-research/external-threats"
 
 # EXTERNAL THREATS: STORM CLOUDS OVER INDOCHINA
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 2 Years Ago 1 Min. Read
+Fiona Tan 2 Years Ago 1 Min. Read
 
-###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN \*THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985\* PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).**
+###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985 PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).**
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 

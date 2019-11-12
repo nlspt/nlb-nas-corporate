@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/i-rem-orchard"
 
 # I REMEMBER ORCHARD
 
-[Fiona Tan  ](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/)3 Years Ago 7 Min. Read
+Fiona Tan 3 Years Ago 7 Min. Read
 
 ***This was published as part of a series of posts based on irememberOrchard, an exhibition organised by the National Archives of Singapore at library@Orchard from 23 October 2014 to 26 April 2015.***
 

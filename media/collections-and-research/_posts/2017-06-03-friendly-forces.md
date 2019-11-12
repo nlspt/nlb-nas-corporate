@@ -7,9 +7,9 @@ permalink: "/media/collections-and-research/friendly-forces"
 
 # FRIENDLY FORCES: STRENGTHENING REGIONAL DEFENCE
 
-[Fiona Tan ](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/)2 Years Ago 4 Min. Read
+Fiona Tan 2 Years Ago 4 Min. Read
 
-###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN \*THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985\* PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).**
+###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985 PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).**
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 
@@ -23,13 +23,13 @@ The frequency of bilateral military exercises with friendly neighbouring countri
 
 Singapore warships participating in Exercise Starfish, a FPDA joint-exercise, 1982. *Pioneer, courtesy of NAS.*
 
-> *“Our problem of adjusting to this world is to learn how we can anticipate shifts in the power balance…..This is our dilemma – a dilemma which will concern us in more and more parts of the world. A multi-polar world theoretically means a diffusion of power centres. In reality it makes for greater anxiety because nobody is in total control…..A stalemate is best for us – a stalemate which leaves us more years in which to consolidate our security, increase our cooperation and widen our options to choose our partners in economic development and progress.”[**[1\]**](http://www.nas.gov.sg/blogs/offtherecord/friendly-forces-strengthening-regional-defence/#_ftn1)*
+> *“Our problem of adjusting to this world is to learn how we can anticipate shifts in the power balance…..This is our dilemma – a dilemma which will concern us in more and more parts of the world. A multi-polar world theoretically means a diffusion of power centres. In reality it makes for greater anxiety because nobody is in total control…..A stalemate is best for us – a stalemate which leaves us more years in which to consolidate our security, increase our cooperation and widen our options to choose our partners in economic development and progress.”**[1]**
 >
 > Extract of keynote speech by PM Lee on the agenda item “World Political Scene” at the Commonwealth Heads of Government meeting in Lusaka, 1 August 1979. *Ministry of Culture, courtesy of NAS. [Ref.: lky19790801](http://www.nas.gov.sg/archivesonline/speeches/record-details/732a11b8-115d-11e3-83d5-0050568939ad)*
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d95330711d.png)
 
-​                                                                     Pioneer, *courtesy of NAS*
+​                                                                     *Pioneer, courtesy of NAS*
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d953f7cc90.png)
 
@@ -67,6 +67,4 @@ Deputy Prime Minister and Minister of Defence Dr Goh Keng Swee (centre-right) me
 
 ------
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/friendly-forces-strengthening-regional-defence/#_ftnref1) Extract of keynote speech by PM Lee on the agenda item “World Political Scene” at the Commonwealth Heads of Government meeting in Lusaka, 1 August 1979. *Ministry of Culture, courtesy of NAS. Ref.: lky19790801*
-
-http://www.nas.gov.sg/archivesonline/speeches/record-details/732a11b8-115d-11e3-83d5-0050568939ad
+[1] Extract of keynote speech by PM Lee on the agenda item “World Political Scene” at the Commonwealth Heads of Government meeting in Lusaka, 1 August 1979. *Ministry of Culture, courtesy of NAS. [Ref.: lky19790801](http://www.nas.gov.sg/archivesonline/speeches/record-details/732a11b8-115d-11e3-83d5-0050568939ad)*

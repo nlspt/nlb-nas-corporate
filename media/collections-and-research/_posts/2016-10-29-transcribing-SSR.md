@@ -9,7 +9,7 @@ permalink: "/media/collections-and-research/transcribing-SSR"
 
 # GUIDE TO TRANSCRIBING STRAITS SETTLEMENTS RECORDS
 
-[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)  3 Years Ago 2 Min. Read
+Grace Ho 3 Years Ago 2 Min. Read
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/img_587dc52829328.png)
 

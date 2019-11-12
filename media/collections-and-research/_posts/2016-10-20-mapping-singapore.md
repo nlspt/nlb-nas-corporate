@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mapping Singapore 1819 - 2014"
+title: "Mapping Singapore: 1819 - 2014"
 date: 2016-10-20
 permalink: "/media/collections-and-research/mapping-singapore"
 ---

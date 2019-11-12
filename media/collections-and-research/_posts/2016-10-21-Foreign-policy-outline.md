@@ -9,7 +9,7 @@ permalink: "/media/collections-and-research/Foreign-policy-outline"
 
 # S RAJARATNAM SPEAKS AT SINGAPORE’S ADMISSION TO THE U.N.
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 Years Ago 3 Min. Read
+Grace Ho 3 Years Ago 3 Min. Read
 
 This legendary speech, given by S Rajaratnam to the United Nations (U.N.) General Assembly in 21 September 1965 on the occasion of Singapore’s admission into the U.N., was recently cited by Professor Kishore Mahbubani, Dean of the Lee Kuan Yew School of Public Policy, as a classic outlining the enduring principles of Singapore’s foreign policy. (“Can Singaporeans Read?”, The Straits Times, 14 Jan 2017)
 

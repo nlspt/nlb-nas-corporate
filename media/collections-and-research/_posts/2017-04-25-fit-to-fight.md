@@ -7,9 +7,9 @@ permalink: "/media/collections-and-research/fit-to-fight"
 
 # FIT TO FIGHT: RESERVISTS ON THE FRONTLINE
 
-[Fiona Tan ](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/)2 Years Ago 4 Min. Read
+Fiona Tan 2 Years Ago 4 Min. Read
 
-###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN \*THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985\* PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).** 
+###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985 PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).** 
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 
@@ -29,7 +29,7 @@ Second Minister for Defence Howe Yoon Chong swearing in before President Benjami
 
 > *“The fate of the nation depends on every soldier playing his part* *and bearing his responsibility as a citizen. National defence is a* *heavy responsibility. We have been given the duty to defend our country. If members of the SAF, both in active and in reserve units, take their training and tasks seriously, others will have second* *thoughts about threatening Singapore, and peace will be preserved.* *If we do not take our training and tasks seriously, we will be inviting others to take our possessions away by force…*
 >
-> *Singaporeans must be made aware of the improvements in quality continually being made in the SAF. In order to win the respect of the public, in particular, of those who are national servicemen or reservists, our regular corps of soldiers must impress them with a sense of commitment to their profession and to the country.”[**[1\]**](http://www.nas.gov.sg/blogs/offtherecord/fit-to-fight-reservists-on-the-frontline/#_ftn1)*
+> *Singaporeans must be made aware of the improvements in quality continually being made in the SAF. In order to win the respect of the public, in particular, of those who are national servicemen or reservists, our regular corps of soldiers must impress them with a sense of commitment to their profession and to the country.”**[1]***
 > Extract from message by Minister of Defence Goh Chok Tong on SAF Day, 1 July 1982. *Ministry of Culture, courtesy of NAS. [Ref.: gct19820701s](http://www.nas.gov.sg/archivesonline/speeches/record-details/7167f179-115d-11e3-83d5-0050568939ad)*.
 
 ![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d9a102182e.png)
@@ -68,4 +68,5 @@ The Republic’s third Minister for Defence Goh Chok Tong took over the defence 
 
 ------
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/fit-to-fight-reservists-on-the-frontline/#_ftnref1)Extract from message by Minister of Defence Goh Chok Tong on SAF Day, 1 July 1982. *Ministry of Culture, courtesy of NAS.  Ref.: gct19820701s*.
+[1] Extract from message by Minister of Defence Goh Chok Tong on SAF Day, 1 July 1982. *Ministry of Culture, courtesy of NAS. [Ref.: gct19820701s](http://www.nas.gov.sg/archivesonline/speeches/record-details/7167f179-115d-11e3-83d5-0050568939ad)*  
+

@@ -31,7 +31,7 @@ View [Kunnuck’s Original Appeal Letter](http://www.nas.gov.sg/blogs/offthereco
 
 
 
-Who was Kunnuck Mistree?**                     
+**Who was Kunnuck Mistree?**                  
 
 The story begins in January of 1818. A young man named Kunnuck was tried by the Supreme Court located at Fort William (present day Kolkata). His crime, larceny. On his conviction he was sentenced to deportation for life to Fort Marlborough in Bencoolen, a British possession in Sumatra – a place he had probably never heard of before.
 

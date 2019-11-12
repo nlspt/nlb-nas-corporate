@@ -133,7 +133,7 @@ FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore
 
  
 
-> *“Where a small state is strategically situated, as Singapore is, it is important that it should maintain adequate defence forces. It goes without saying that the real security, which we want, can be found not by our unaided efforts alone, but in alliance with others. In the long term, Singapore should work towards the establishment of some kind of regional defence arrangement, possibly within a larger international framework.” **[11]**
+> *“Where a small state is strategically situated, as Singapore is, it is important that it should maintain adequate defence forces. It goes without saying that the real security, which we want, can be found not by our unaided efforts alone, but in alliance with others. In the long term, Singapore should work towards the establishment of some kind of regional defence arrangement, possibly within a larger international framework.”* **[11]**
 >
 > Extract of a Parliamentary Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.
 >

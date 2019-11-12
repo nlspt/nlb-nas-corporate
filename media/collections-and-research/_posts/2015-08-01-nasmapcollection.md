@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/nasmapcollection"
 
 # INTRODUCING THE NAS MAP COLLECTION
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 4 Years Ago 19 Min. Read
+Grace Ho 4 Years Ago 19 Min. Read
 
 This essay, originally published in ***‘Visualising Space: Maps of Singapore and the Region – Collections from the National Library and National Archives of Singapore’\**** (National Library Board, 2014) provides an overview of the National Archives of Singapore’s map collection which is presently the largest available public  collection of Singapore maps.
 

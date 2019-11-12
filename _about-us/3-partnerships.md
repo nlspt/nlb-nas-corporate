@@ -7,7 +7,7 @@ collection_name: about-us
 ---
 
 (1)    International Council of Archives (ICA)
- 
+
 <img src="/images/ica.gif" alt="International Council on Archives" style="width:280px;" />
 
 The International Council of Archives is the professional organisation for the world archival community, dedicated to promoting the preservation, development, and use of the world’s archival heritage. It brings together national archive administrations, professional associations of archivists, regional and local archives of other organisations as well as individual archivists, from more than 180 countries and territories. The National Archives of Singapore has benefited for the conferences organised by ICA where staff can share ideas and exchange expertise with other countries.

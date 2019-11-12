@@ -115,11 +115,9 @@ Looking to the future where maps are increasingly created using digital techniqu
 *Source: Singapore Land Authority, Courtesy of National Archives of Singapore*
 *Ref: [TM000987](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fabc9bbe-115c-11e3-83d5-0050568939ad)*
 
-***The National Archives of Singapore Map Collection can be viewed and accessed on our public database Archives Online at this link:\****
+***The National Archives of Singapore Map Collection can be viewed and accessed on our public database Archives Online at this link: http://www.nas.gov.sg/archivesonline/maps_building_plans/***
 
-***http://www.nas.gov.sg/archivesonline/maps_building_plans/\****
-
-***With around 10,000 maps, the National Archives of Singapore holds possibly the largest collection of Singapore maps publicly available, including an extensive collection of survey and topographic maps produced from the British colonial era into modern times.\****
+***With around 10,000 maps, the National Archives of Singapore holds possibly the largest collection of Singapore maps publicly available, including an extensive collection of survey and topographic maps produced from the British colonial era into modern times.***
 
 ## **BIBLIOGRAPHY**
 

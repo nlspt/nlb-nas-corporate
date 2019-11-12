@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/personal-records"
 
 # PERSONAL RECORDS OF WAR AND OCCUPATION
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 4 Years Ago 4 Min. Read
+Fiona Tan 4 Years Ago 4 Min. Read
 
 In conjunction with the upcoming revamp of Memories at Old Ford Factory, which houses an exhibition gallery examining life under the Japanese Occupation, the National Archives of Singapore (NAS) is conducting a public call for archives. This post takes a look at a selection of our private records from the Japanese Occupation period.
 

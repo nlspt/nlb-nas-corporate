@@ -7,9 +7,9 @@ permalink: "/media/collections-and-research/memoriesofwarandlegacies"
 
 # MEMORIES OF WAR AND ITS LEGACIES
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 2 Years Ago 4 Min. Read
+Fiona Tan 2 Years Ago 4 Min. Read
 
-In 1992, the Singapore Heritage Society, with the support of partners including the National Archives, Oral History Department (now the Oral History Centre) and the National Museum, published *Syonan : Singapore Under the Japanese Occupation 1942-1945*, written by Lee Geok Boi, to commemorate the 50th anniversary of the Fall of Singapore. A key source for the book was the Japanese Occupation project –  one of the first oral history interview  projects carried out by the Oral History Department when it was established  in September 1979. Compared to the military campaign and fall of Singapore to the Japanese, there had been little by way of documentation the daily lives of those who had lived through the Occupation. It was with this in mind that the OHC sought to fill in this gap almost four decades later. The original Japanese Occupation project lasted four and a half years (June 1981 to December 1985). 179 persons were interviewed, totaling 719.5 recorded hours of interviews.[[1\]](http://www.nas.gov.sg/blogs/offtherecord/memories-of-war-and-its-legacies/#_ftn1)
+In 1992, the Singapore Heritage Society, with the support of partners including the National Archives, Oral History Department (now the Oral History Centre) and the National Museum, published *Syonan : Singapore Under the Japanese Occupation 1942-1945*, written by Lee Geok Boi, to commemorate the 50th anniversary of the Fall of Singapore. A key source for the book was the Japanese Occupation project –  one of the first oral history interview  projects carried out by the Oral History Department when it was established  in September 1979. Compared to the military campaign and fall of Singapore to the Japanese, there had been little by way of documentation the daily lives of those who had lived through the Occupation. It was with this in mind that the OHC sought to fill in this gap almost four decades later. The original Japanese Occupation project lasted four and a half years (June 1981 to December 1985). 179 persons were interviewed, totaling 719.5 recorded hours of interviews.[1]
 
  
 
@@ -43,4 +43,4 @@ They and numerous others who helped to make the book and the revamped Gallery po
 
 ------
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/memories-of-war-and-its-legacies/#_ftnref1) The original Japanese Occupation project continued on an ad-hoc basis, up to 2014, to make up a total of 360 interviews (1,104 hours). The additional interviews were collected both locally and overseas (the latter group includes interviews with former Prisoners-of-War, and even Japanese who fought in the war).
+[1] The original Japanese Occupation project continued on an ad-hoc basis, up to 2014, to make up a total of 360 interviews (1,104 hours). The additional interviews were collected both locally and overseas (the latter group includes interviews with former Prisoners-of-War, and even Japanese who fought in the war).

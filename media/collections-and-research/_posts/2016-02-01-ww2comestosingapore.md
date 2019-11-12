@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/ww2comestosingapore"
 
 # WWII COMES TO SINGAPORE
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 3 Years Ago 4 Min. Read
+Fiona Tan 3 Years Ago 4 Min. Read
 
 75 years ago on this date, shortly after 4am, people living in Singapore had their first experience of aerial bombings. Japanese naval bombers and Zero fighter planes bombed the town area, hitting Chinatown and Raffles Place, as well as the airfields at Seletar and Tengah. This was the first time that civilians living in Singapore experienced war right at their doorsteps.
 

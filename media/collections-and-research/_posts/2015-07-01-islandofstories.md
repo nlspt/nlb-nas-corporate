@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/islandofstories"
 
 # ISLAND OF STORIES: SINGAPORE MAPS
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 4 Years Ago 2 Min. Read
+Grace Ho 4 Years Ago 2 Min. Read
 
 ***Island of Stories: Singapore Maps*** was an exhibition jointly developed by the National Archives of Singapore and National Library Board, showcasing maps from the National Archive’s collection. The exhibition, which was part of the National Library Board’s 2015 *Geo-Graphics Mapping Festival*, drew on an eclectic mix of Singapore maps that captured intriguing moments from our nation’s history. Featuring maps of forgotten mileage points to the island’s farmland and soil composition, stories of the former detached mole at Marina Bay, the Orchard Road ‘circus’ and the election fever of 1955 – these maps weaved a quirky, multifaceted story of Singapore’s past.
 

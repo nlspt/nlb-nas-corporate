@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/orchard-theatre"
 
 # ORCHARD THEATRE
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 4 Years Ago 1 Min. Read
+Fiona Tan 4 Years Ago 1 Min. Read
 
 ![19980007383---0113-Orchard-Theatre](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/19980007383-0113-Orchard-Theatre.jpg)Orchard Theatre (pictured here in 1994) was the second cinema owned by Cathay but boasted several firsts. *Courtesy of NAS*. Ref: [19980007383 – 0113](http://www.nas.gov.sg/archivesonline/photographs/record-details/516f2a0b-1162-11e3-83d5-0050568939ad)
 

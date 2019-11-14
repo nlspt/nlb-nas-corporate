@@ -16,6 +16,8 @@ This map and an accompanying booklet contain annotated photographs on 83 key loc
 
 
 
+
+
 ![Air Raid](/images/formerford/airraid.jpg)
 
 #### AIR RAID PRECAUTION SQUAD IDENTITY CARD 
@@ -23,6 +25,8 @@ This map and an accompanying booklet contain annotated photographs on 83 key loc
 The Air Raid Precautions department was formed in 1938, and by November 1939, had successfully recruited about 3,500 wardens. They were trained to provide information and assistance during air raids and drills and were mobilised when the first bombs landed in Singapore in the wee hours of 8 December 1941.
 
 *Donated by Victor Tan, collection of National Archives of Singapore*
+
+
 
 
 
@@ -36,11 +40,15 @@ In 1941, it was compulsory for all non-military residents of Singapore to carry 
 
 
 
+
+
 ![Postcard](/images/formerford/postcard.jpg)
 
 #### POSTCARDS OF ARTISTS' IMPRESSIONS OF WAR SCENES DISTRIBUTED TO JAPANESE SOLDIERS
 
 These postcards were donated to the National Archives of Singapore by Taka Sakurai, an officer with the propaganda department of the Japanese Imperial Army who was tasked to produce them based on artistic impressions of scenes in Singapore just after the fighting ceased. They were given to Japanese soldiers to commemorate their victory.
+
+
 
 
 
@@ -54,6 +62,8 @@ Three days after the British surrender in Singapore, Chinese males were ordered 
 
 
 
+
+
 ![British Military Admin File](/images/formerford/militaryadminfile.jpg)
 
 #### RECORDS FROM THE BRITISH MILITARY ADMINISTRATION FILES PERTAINING TO THE CASE OF JOSEPH FRANCIS
@@ -61,6 +71,8 @@ Three days after the British surrender in Singapore, Chinese males were ordered 
 Joseph Francis was detained and tortured by the *kempeitai* for over six months during the 'Double Tenth' incident in 1943. He died in May 1945. These letters written to the British Military Administration by his brother and friend after the Occupation describes Francis's contributions to the anti-Japanese resistance.
 
 *British Military Administration files, File reference 28/45, National Archives collection*
+
+
 
 
 
@@ -74,6 +86,8 @@ Printed in four languages, the pamphlet was used by the interim British Military
 
 
 
+
+
 ![Message to Malaya](/images/formerford/medals.jpg)
 
 #### DALFORCE MEDALS
@@ -81,6 +95,8 @@ Printed in four languages, the pamphlet was used by the interim British Military
 Wong Yew Fook served in the Singapore Chinese Anti-Japanese Volunteer Battalion better known as Dalforce. They were formed in January 1942 and deployed in the Battle of Singapore. He, and other Dalforce members, were decorated with the above medals: the 1939-45 Star, the Pacific Star and the War Medal.
 
 *Donated by Wong Yew Fook, National Archives collection*
+
+
 
 
 

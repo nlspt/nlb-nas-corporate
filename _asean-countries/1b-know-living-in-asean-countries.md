@@ -7,8 +7,6 @@ collection_name: asean-countries
 second_nav_title: "Visit"
 ---
 
-![By Bus](/images/formerford/bus.png)
-
 #### BY BUS
 
 Bus Services to Upper Bukit Timah Road
@@ -18,10 +16,6 @@ Bus Services to Upper Bukit Timah Road
 
 
 
-
-
-![By Car](/images/formerford/car.png)
-
 #### BY CAR
 
 Turn left from Upper Bukit Timah Road.
@@ -29,10 +23,6 @@ Turn left from Upper Bukit Timah Road.
 Limited parking is available at the Former Ford Factory.
 
 
-
-
-
-![By Train](/images/formerford/train.png)
 
 #### BY MRT
 

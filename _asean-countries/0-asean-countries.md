@@ -6,8 +6,7 @@ breadcrumb: Know
 collection_name: asean-countries
 ---
 
-<img src="/images/former-ford/fffhistory.jpg" alt="Old Former Ford Factory" style="width:450px;" />
-
+<img src="/images/former-ford/fffhistory.jpg" alt="Old Former Ford Factory" style="width:300px;" />
 ### ABOUT THIS HISTORIC SITE
 
 The Ford Motor Company which was first established in Singapore at Anson Road in 1926, moved to its new state-of-the-art factory located at Upper Bukit Timah Road in October 1941. The Art Deco factory became Ford’s first motorcar assembly plant in Southeast Asia. The factory was later taken over by the Royal Air Force during the Malayan Campaign (8 December 1941 – 31 January 1942) where it was used to assemble fighter planes. However, the planes were hastily moved away from Singapore towards the end of January 1942, when it became clear that victory was unlikely.

@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Opening Hours
+title: Opening Hours & Admission
 permalink: /asean-countries/know/overview-of-asean-countries/
-breadcrumb: Visit
+breadcrumb: Opening Hours & Admission
 collection_name: asean-countries
 second_nav_title: "Visit"
 ---

@@ -6,7 +6,7 @@ breadcrumb: Know
 collection_name: asean-countries
 ---
 
-![Former Ford Factory](/images/former-ford/fffhistory.jpg)
+![Former Ford Factory](/images/formerford/oldfff.jpg)
 
 ### ABOUT THIS HISTORIC SITE
 

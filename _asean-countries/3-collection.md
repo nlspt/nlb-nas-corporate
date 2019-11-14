@@ -71,3 +71,23 @@ Joseph Francis was detained and tortured by the *kempeitai* for over six months 
 Printed in four languages, the pamphlet was used by the interim British Military Administration (BMA) to assure people that it knew the 'difficulties with which the civil population of Malaya is faced'. Despite the overwhelming scale of post-war reconstruction, BMA did manage to improve some conditions for the people.
 
 *Donated by David Ernest Srinivasagam Chelliah, National Archives collection*
+
+
+
+![Message to Malaya](/images/formerford/medals.jpg)
+
+#### DALFORCE MEDALS
+
+Wong Yew Fook served in the Singapore Chinese Anti-Japanese Volunteer Battalion better known as Dalforce. They were formed in January 1942 and deployed in the Battle of Singapore. He, and other Dalforce members, were decorated with the above medals: the 1939-45 Star, the Pacific Star and the War Medal.
+
+*Donated by Wong Yew Fook, National Archives collection*
+
+
+
+![Message to Malaya](/images/formerford/malayanemergency.jpg)
+
+#### MALAYAN EMERGENCY
+
+The Malayan Emergency (1948-1960) was a period of guerrilla warfare between the Malayan Communist Party and the British colonial government. While most of the combat took place in Malaya, Emergency regulations also applied to Singapore where communists had infiltrated trade unions and Chinese schools.
+
+*'Malaya fights the terrorists', Malayan Pictorial Observer, September 1948 Collection of National Archives of Singapore*

@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Exhibition
-permalink: /asean-countries/share/what-young-people-say/
+permalink: /asean-countries/whatson/exhibition/
 breadcrumb: Exhibition
 collection_name: asean-countries
 second_nav_title: "What's On"

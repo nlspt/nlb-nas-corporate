@@ -7,7 +7,7 @@ collection_name: asean-countries
 second_nav_title: "Visit"
 ---
 
-![By Bus](images/formerford/bus.png)
+![By Bus](/images/formerford/bus.png)
 
 #### BY BUS
 
@@ -20,7 +20,7 @@ Bus Services to Upper Bukit Timah Road
 
 
 
-![By Car](images/formerford/car.png)
+![By Car](/images/formerford/car.png)
 
 #### BY CAR
 
@@ -32,7 +32,7 @@ Limited parking is available at the Former Ford Factory.
 
 
 
-![By Train](images/formerford/train.png)
+![By Train](/images/formerford/train.png)
 
 #### BY MRT
 

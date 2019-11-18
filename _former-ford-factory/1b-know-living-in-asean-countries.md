@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Getting Here
-permalink: /asean-countries/know/living-in-asean-countries/
+permalink: /former-ford-factory/visit/getting-here/
 breadcrumb: Getting Here
-collection_name: asean-countries
+collection_name: former-ford-factory
 second_nav_title: "Visit"
 ---
 

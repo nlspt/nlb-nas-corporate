@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Learn
-permalink: /asean-countries/learn/
+permalink: /former-ford-factory/learn/
 breadcrumb: Learn
-collection_name: asean-countries
+collection_name: former-ford-factory
 ---
 
 ### RESOURCES

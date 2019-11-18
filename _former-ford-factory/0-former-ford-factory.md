@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: About Former Ford Factory
-permalink: /asean-countries/overview/
+permalink: /former-ford-factory/overview/
 breadcrumb: Former Ford Factory
-collection_name: asean-countries
+collection_name: former-ford-factory
 ---
 
 ![Former Ford Factory](/images/formerford/oldfff.jpg)
@@ -17,19 +17,3 @@ On 13 February 1942, the factory was seized by Japanese forces and turned into t
 Shortly after the fall of Singapore, the factory was designated as a ‘butai’ or Japanese facility and was taken over by Nissan to assemble military vehicles for the Japanese war efforts. The British army then occupied the factory at the end of war in 1945 and it was only returned to the Ford Motor Company in 1947 where it resumed operations until 1980, when it was shut down. On 15 February 2006, the remaining portions of the factory was gazetted as a national monument.
 
 The Former Ford Factory was restored by the National Archives of Singapore and currently houses a permanent World War II exhibition on the war and its legacies.
-
----
-
-<div>
-	<div class="row is-multiline">
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/know/overview-of-asean-countries"><img src="/images/asean-countries/Know-Test-1.jpg" alt="Know ASEAN Countries"></a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/share/what-young-people-say/"><img src="/images/asean-countries/Share-Test-1.jpg" alt="Share ASEAN Countries"></a>
-		</div>
-		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href="/asean-countries/go/for-students/"><img src="/images/asean-countries/Go-Home-Icon.jpg" alt="Go ASEAN Countries"></a>
-		</div>
-	</div>
-</div>

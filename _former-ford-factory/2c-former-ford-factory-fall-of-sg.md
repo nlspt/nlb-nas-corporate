@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Fall of Singapore
-permalink: /asean-countries/whatson/exhibition-fall-of-sg/
+permalink: /former-ford-factory/whatson/exhibition-fall-of-sg/
 breadcrumb: Fall of Singapore
-collection_name: asean-countries
+collection_name: former-ford-factory
 second_nav_title: "What's On"
 ---
 

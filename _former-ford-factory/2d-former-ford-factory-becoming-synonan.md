@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Becoming Syonan
-permalink: /asean-countries/whatson/exhibition-syonan/
+permalink: /former-ford-factory/whatson/exhibition-syonan/
 breadcrumb: Becoming Syonan
-collection_name: asean-countries
+collection_name: former-ford-factory
 second_nav_title: "What's On"
 ---
 

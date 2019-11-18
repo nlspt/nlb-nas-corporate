@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Intro
-permalink: /asean-countries/whatson/exhibition-intro/
+permalink: /former-ford-factory/whatson/exhibition-intro/
 breadcrumb: Intro
-collection_name: asean-countries
+collection_name: former-ford-factory
 second_nav_title: "What's On"
 ---
 

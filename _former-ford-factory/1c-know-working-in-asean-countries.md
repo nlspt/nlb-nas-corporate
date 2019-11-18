@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Tours
-permalink: /asean-countries/know/working-in-asean-countries/
+permalink: /former-ford-factory/visit/tours/
 breadcrumb: Tours
-collection_name: asean-countries
+collection_name: former-ford-factory
 second_nav_title: "Visit"
 ---
 

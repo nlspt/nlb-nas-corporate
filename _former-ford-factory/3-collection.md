@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Collection Highlights
-permalink: /asean-countries/share/what-employers-say/
+permalink: /former-ford-factory/collection/
 breadcrumb: Collection
-collection_name: asean-countries
+collection_name: former-ford-factory
 ---
 
 ![Map](/images/formerford/map.jpg)

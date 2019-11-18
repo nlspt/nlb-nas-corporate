@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Support
-permalink: /asean-countries/support/
+permalink: /former-ford-factory/support/
 breadcrumb: Support
-collection_name: asean-countries
+collection_name: former-ford-factory
 ---
 
 ### VOLUNTEER

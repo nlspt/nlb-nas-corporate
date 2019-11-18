@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Legacies of War
-permalink: /asean-countries/whatson/exhibition-legacies/
+permalink: /former-ford-factory/whatson/exhibition-legacies/
 breadcrumb: Legacies of War
-collection_name: asean-countries
+collection_name: former-ford-factory
 second_nav_title: "What's On"
 ---
 

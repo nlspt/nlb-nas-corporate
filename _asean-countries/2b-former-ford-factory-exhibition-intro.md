@@ -4,7 +4,7 @@ title: Intro
 permalink: /asean-countries/whatson/exhibition-intro/
 breadcrumb: Intro
 collection_name: asean-countries
-second_nav_title: "Exhibition"
+second_nav_title: "What's On"
 ---
 
 ![Exhibition Intro](/images/formerford/greenmap.png)

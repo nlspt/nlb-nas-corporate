@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Opening Hours & Admission
-permalink: /former-ford-factory/visit/overview-of-asean-countries/
+permalink: /former-ford-factory/visit/opening-hours/
 breadcrumb: Opening Hours & Admission
 collection_name: former-ford-factory
 second_nav_title: "Visit"

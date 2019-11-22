@@ -30,9 +30,9 @@ Saturday and Sunday
 
 **Mandarin Tours on Saturdays at 11:30am**
 
-9 Nov 2019
-23 Nov 2019
-7 Dec 2019
+9 Nov 2019\
+23 Nov 2019\
+7 Dec 2019\
 21 Dec 2019
 
 
@@ -41,7 +41,7 @@ Saturday and Sunday
 
 #### CURATOR'S TOURS
 
-Stay tuned for updates on special curator tours on our [Calendar of Events page](https://www.nas.gov.sg/formerfordfactory/calendar-of-events).
+Stay tuned for updates on special curator tours.
 
 
 

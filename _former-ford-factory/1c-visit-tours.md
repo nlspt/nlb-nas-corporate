@@ -30,9 +30,9 @@ Saturday and Sunday
 
 **Mandarin Tours on Saturdays at 11:30am**
 
-9 Nov 2019\
-23 Nov 2019\
-7 Dec 2019\
+9 Nov 2019<br>
+23 Nov 2019<br>
+7 Dec 2019<br>
 21 Dec 2019
 
 

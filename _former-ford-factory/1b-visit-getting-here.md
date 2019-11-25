@@ -11,7 +11,7 @@ second_nav_title: "Visit"
 
 Bus Services to Upper Bukit Timah Road
 
-**Bus Service Number**
+**Bus Service Number**<br>
 67, 75, 170, 171, 173, 178, 184, 961
 
 

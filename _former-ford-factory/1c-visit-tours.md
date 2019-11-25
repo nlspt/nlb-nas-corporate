@@ -17,13 +17,12 @@ Tour schedules are subject to changes.
 
 #### DAILY GUIDED TOURS
 
-**English Tours
-**
+**English Tours**
 
-Tuesday to Friday
+Tuesday to Friday<br>
 2.30pm
 
-Saturday and Sunday
+Saturday and Sunday<br>
 11am & 3.30pm
 
 

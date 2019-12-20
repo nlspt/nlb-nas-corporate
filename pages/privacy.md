@@ -35,7 +35,7 @@ The NLB takes special care to protect the privacy needs of children under the ag
 
 #### Can you opt out?
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via this link or by sending us email at enquiry@nlb.gov.sg.
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may unsubscribe via this link or by sending us email at <enquiry@nlb.gov.sg>.
 
 #### Will your personal information be shared with anyone?
 

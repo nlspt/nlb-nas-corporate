@@ -20,7 +20,7 @@ Some of the departments that support the functions of NAS are:
 
 The Archives Services Department acquires archival records from public agencies, private sources and overseas institutions and archives. These include (a) photographs that are mainly transferred from public offices and their predecessor agencies such as the former Ministry of Information, Communications and the Arts (MICA), Ministry of Culture, Singapore Tourism Board and the Istana (b) maps, charts and building plans (c) posters, (d) ministerial speeches and press releases from public agencies and (e) private records acquired from individuals, clubs and societies, professional bodies, religious organisations, and clan associations. In addition, Archives Services Department also holds records pertaining to British administration of the Straits Settlements together with copies of records acquired from overseas archives and institutions which supplement our records on the important milestones and developments in Singapore’s history.
 
-To ensure long term preservation, the records are stored in environmentally-controlled repositories. Although records are increasingly created in digital format, NAS still conserves its valuable collection of paper-based records and this is handled by the [Archives Conservation Laboratory](http://www.nas.gov.sg/nas/ConservationPreservation/ArchivesConservationLaboratory.aspx).
+To ensure long term preservation, the records are stored in environmentally-controlled repositories. Although records are increasingly created in digital format, NAS still conserves its valuable collection of paper-based records and this is handled by the [Archives Conservation Laboratory](/conservation-and-preservation/archives-conservation-laboratory/).
 
 Records are also digitised for preservation and access by researchers and members of the public. Research can be conducted through the Archives Online portal as well as the Archives Reading Room (ARR). The ARR services around 300 enquiries a month and the number of records accessed online annually exceeds 400,000.
 
@@ -72,4 +72,4 @@ The Declassification Department sets up frameworks to increase and govern access
 
 **Former Ford Factory**
 
-The Former Ford Factory is a museum under NAS and runs a permanent World War 2 exhibition. The NAS collection of audio visual archives, oral history interviews with survivors and various artefacts such as newspaper cuttings help bring to life, the stories and experiences during the war. More information can be found [here](https://www.nas.gov.sg/formerfordfactory).
+The Former Ford Factory is a museum under NAS and runs a permanent World War 2 exhibition. The NAS collection of audio visual archives, oral history interviews with survivors and various artefacts such as newspaper cuttings help bring to life, the stories and experiences during the war. More information can be found [here](/former-ford-factory/overview/).

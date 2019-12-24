@@ -13,7 +13,7 @@ agency-logo: /images/logo-nas.svg
 # Hero Banner
 hero-title:             
 hero-subtitle:
-hero-banner: /images/stillbanner.gif
+hero-banner: /images/nas-banner.jpg
 
 #Call to Action Button
 #button:
@@ -23,6 +23,7 @@ hero-banner: /images/stillbanner.gif
 
 #Highlights
 key-highlights:
+
   - title: Citizen Archivist
     url: http://www.nas.gov.sg/citizenarchivist
     external: true

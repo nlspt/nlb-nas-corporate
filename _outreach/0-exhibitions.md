@@ -95,27 +95,31 @@ Raffles promulgated six regulations in 1823, forming the earliest administrative
 <img src="/images/exhibitions/Third Charter (LR).jpg" alt="Third Charter of Justice" style="width:400px;"/>
 
 
-#### Third Charter of Justice 10 August 1855
+#### Third Charter of Justice 
+#### <br>10 August 1855
 
 This charter affirmed the reception of English law in Singapore and provided the settlement with its own professional judge, then known as a Recorder. 
 
 
 <img src="/images/exhibitions/Royal Warrant (LR).jpg" alt="Royal Warrant Assigning Armorial Ensigns for the City of Singapore" style="width:400px;"/> 
 
-#### Royal Warrant Assigning Armorial Ensigns for the City of Singapore 9 April 1948
+#### Royal Warrant Assigning Armorial Ensigns for the City of Singapore 
+#### <br>9 April 1948
 
 This document approved a new coat of arms for the Singapore Municipal Commission in 1948. The Municipal Commission was the first public institution to be installed with a popularly elected majority – 18 out of the 27 commission members were elected. The elections served as a form of political education for the people of Singapore in preparation for self-governance.  
 <img src="/images/exhibitions/Singapore Colony Order in Council of 1955 (LR)_1.jpg" alt="Singapore Colony Order in Council of 1955" style="width:400px;"/>
 
 
-#### The Singapore Colony Order in Council of 1955	1 February 1955** 
+#### The Singapore Colony Order in Council of 1955	
+#### <br>1 February 1955** 
 
 This document, better known as the Rendel Constitution, granted the automatic registration of voters that significantly increased the number of people eligible to vote from about 70,000 to 300,000. This allowed for mass participation in Singapore elections for the first time. 
 
 
 <img src="/images/exhibitions/Singapore Constitution 1958 (LR).jpg" alt="Order in Council, 1958" style="width:400px;"/>
 
-#### Singapore (Constitution) Order in Council, 1958  21 November 1958** 
+#### Singapore (Constitution) Order in Council, 1958  
+#### <br>21 November 1958
 
 This constitution marked a political milestone for Singapore, which ceased being a British colony and became a self-governing state within the British Commonwealth. The office of Governor was abolished, and Singapore obtained its own head of state in the Yang di-Pertuan Negara. The first local Yang di-Pertuan Negara was Yusof bin Ishak who was appointed on 3 December 1959. 
 
@@ -123,21 +127,21 @@ This constitution marked a political milestone for Singapore, which ceased being
 <img src="/images/exhibitions/Points of Merger Envelope (LR).jpg" alt="Points of Merger Envelope" style="width:400px;"/>
 
 #### Points of Merger Envelope	
-#### 7 July 1965 
+#### <br>7 July 1965 
 
 On the back of this government envelope are Prime Minister Lee Kuan Yew’s handwritten notes regarding certain aspects of merger discussed and agreed with Malaya’s Prime Minister Tunku Abdul Rahman. 
 
 <img src="/images/exhibitions/Tunku's letter (LR).jpg" alt="Tunku Abdul Rahman’s Letter to Toh Chin Chye" style="width:400px;"/>
 
 #### Tunku Abdul Rahman’s Letter to Toh Chin Chye	
-#### 7 August 1965
+#### <br> 7 August 1965
 
 Malaysia’s Prime Minister Tunku Abdul Rahman wrote this letter to persuade Singapore Deputy Prime Minister Dr Toh Chin Chye of the necessity to separate. 
 
 <img src="/images/exhibitions/proclamationofsg.jpg" alt="Proclamation of the Republic of Singapore" style="width:400px;"/>
 
 #### Proclamation of the Republic of Singapore	
-#### 9 August 1965
+#### <br>9 August 1965
 
 This proclamation declared Singapore’s separation from Malaysia and its beginnings as an independent and sovereign republic.  
 

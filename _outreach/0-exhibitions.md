@@ -5,14 +5,11 @@ permalink: /outreach/exhibitions/
 breadcrumb: Exhibitions
 collection_name: outreach 
 ---
+## Law of the Land: Highlights of Singapore’s Constitutional Documents
 
-**Law of the Land: Highlights of Singapore’s Constitutional Documents** 
+<img src="/images/exhibitions/Poster.jpg" alt="Law of the Land Exhibition" style="width:450px;"/>
 
-  
 
-![Law of the Land Exhibition image](../images/Poster-1577346324318.jpg) 
-
-  
 
 [About the Exhibition](https://www-stg.nas.gov.sg/Outreach/Exhibitions#about) 
 
@@ -28,7 +25,7 @@ collection_name: outreach
 
   
 
-**About the Exhibition** 
+### About the Exhibition
 
   
 
@@ -46,63 +43,42 @@ The exhibition features rare constitutional documents from the collections of th
 
 The exhibition is held at the historic former Chief Justice’s Chamber and Office at the National Gallery Singapore. 
 
-  
+### Visitor Information
 
-[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
+<img src="/images/exhibitions/Map (LR).jpg" alt="Exhibition Venue" style="width:450px;"/>
 
-  
+### Exhibition Venue
 
-  
-
-**Visitor Information** 
-
-  
-
-![Exhibition Venue image](../images/Map (LR)-1577346324334.jpg) 
-
-  
-
-**Exhibition Venue**
 Chief Justice’s Chamber and Office
 Level 3, Supreme Court Wing
 National Gallery Singapore
 1 St Andrew’s Road
 Singapore 178957 
 
-  
 
-**Opening Hours**
+### Opening Hours
 Sun – Thurs and Public Holidays: 10am – 7pm
 Fri – Sat and Eve of Public Holidays: 10am – 10pm
 Admission ends 30 min before closing time 
 
   
-
-**Admission**
+### Admission
 Free 
-
   
 
-**Enquiries**
+### Enquiries
 [NAS_Outreach@nlb.gov.sg](mailto:NAS_Outreach@nlb.gov.sg?subject=Enquiry - Law of the Land)  
 
   
 
-[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
+### Public Tours
 
-  
-
-  
-
-**Public Tours** 
-
-  
 
 Join our curator-led Insights Tours and docent-led Highlights Tours to discover more about Singapore’s constitutional documents! All tours are free and conducted in English. 
 
   
 
-**Insights Tour** 
+## insights Tours
 
 Day and Time: Fridays (no tours on public holidays), 6.30 – 7.15pm. Register here for tours. 
 
@@ -110,7 +86,7 @@ Meeting Point: Padang Atrium, Information Counter Level 1. There are 20 places a
 
   
 
-**Highlights Tour** 
+## Highlights Tours
 
 Day and Time: 1st and 3rd Saturdays each month (except public holidays), 2.00 – 2.45pm 
 
@@ -118,106 +94,80 @@ Meeting Point: Registration opens 20 minutes before each tour at the Tours Desk,
 
   
 
-**Group Tours** 
+## Group Tours
 
 Schools or other organisations can contact [NAS_Outreach@nlb.gov.sg](mailto:NAS_Outreach@nlb.gov.sg) for guided tours, subject to availability. 
 
   
 
-**Public Talks** 
+## Public Talks
 
 Public talks accompany the exhibition from 2017. Watch this space for more details. 
 
-  
 
-[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
+## Exhibition Highlights
 
-  
+<img src="/images/exhibitions/Raffles-Regulations (LR).jpg" alt="Raffles' Regulations" style="width:400px;"/>
 
-  
 
-**Exhibition Highlights** 
-
-  
-
-![Raffles' Regulations](../images/Raffles-Regulations (LR)-1577346324341.jpg) 
-
-**Raffles’ Regulations	1823** 
+**Raffles’ Regulations 1823** 
 
 Raffles promulgated six regulations in 1823, forming the earliest administrative and legal code in Singapore after the arrival of the British.  
 
-  
+
+<img src="/images/exhibitions/Third Charter (LR).jpg" alt="Third Charter of Justice" style="width:400px;"/>
 
 
-![Third Charter of Justice](../images/Third Charter (LR)-1577346324389.jpg) 
-
-**Third Charter of Justice	10 August 1855** 
+**Third Charter of Justice 10 August 1855** 
 
 This charter affirmed the reception of English law in Singapore and provided the settlement with its own professional judge, then known as a Recorder. 
 
-  
 
-![Royal Warrant Assigning Armorial Ensigns for the City of Singapore](../images/Royal Warrant (LR)-1577346324424.jpg) 
+<img src="/images/exhibitions/Royal Warrant (LR).jpg" alt="Royal Warrant Assigning Armorial Ensigns for the City of Singapore" style="width:400px;"/> 
 
-**Royal Warrant Assigning Armorial Ensigns for the City of Singapore	9 April 1948** 
+**Royal Warrant Assigning Armorial Ensigns for the City of Singapore 9 April 1948** 
 
 This document approved a new coat of arms for the Singapore Municipal Commission in 1948. The Municipal Commission was the first public institution to be installed with a popularly elected majority – 18 out of the 27 commission members were elected. The elections served as a form of political education for the people of Singapore in preparation for self-governance.  
+<img src="/images/exhibitions/Singapore Colony Order in Council of 1955 (LR)_1.jpg" alt="Singapore Colony Order in Council of 1955" style="width:400px;"/>
 
-  
-
-![Singapore Colony Order in Council of 1955](../images/Singapore Colony Order in Council of 1955 (LR)_1-1577346324454.jpg) 
 
 **The Singapore Colony Order in Council of 1955	1 February 1955** 
 
 This document, better known as the Rendel Constitution, granted the automatic registration of voters that significantly increased the number of people eligible to vote from about 70,000 to 300,000. This allowed for mass participation in Singapore elections for the first time. 
 
   
+<img src="/images/exhibitions/Singapore Constitution 1958 (LR).jpg" alt="Order in Council, 1958" style="width:400px;"/>
 
-![Singapore (../images/Singapore Constitution 1958 (LR)-1577346324473.jpg) Order in Council, 1958](https://www-stg.nas.gov.sg/portals/1/Singapore%20Constitution%201958%20%28LR%29.jpg) 
-
-**Singapore (Constitution) Order in Council, 1958	21 November 1958** 
+**Singapore (Constitution) Order in Council, 1958  21 November 1958** 
 
 This constitution marked a political milestone for Singapore, which ceased being a British colony and became a self-governing state within the British Commonwealth. The office of Governor was abolished, and Singapore obtained its own head of state in the Yang di-Pertuan Negara. The first local Yang di-Pertuan Negara was Yusof bin Ishak who was appointed on 3 December 1959. 
 
   
-
-![Points of Merger Envelope](../images/Points of Merger Envelope (LR)-1577346324496.jpg) 
+<img src="/images/exhibitions/Points of Merger Envelope (LR).jpg" alt="Points of Merger Envelope" style="width:400px;"/>
 
 **Points of Merger Envelope	7 July 1965** 
 
 On the back of this government envelope are Prime Minister Lee Kuan Yew’s handwritten notes regarding certain aspects of merger discussed and agreed with Malaya’s Prime Minister Tunku Abdul Rahman. 
 
-  
-
-![Tunku Abdul Rahman’s Letter to Toh Chin Chye](../images/Tunku's letter (LR)-1577346324529.jpg) 
+<img src="/images/exhibitions/Tunku's letter (LR).jpg" alt="Tunku Abdul Rahman’s Letter to Toh Chin Chye" style="width:400px;"/>
 
 **Tunku Abdul Rahman’s Letter to Toh Chin Chye	7 August 1965** 
 
 Malaysia’s Prime Minister Tunku Abdul Rahman wrote this letter to persuade Singapore Deputy Prime Minister Dr Toh Chin Chye of the necessity to separate. 
 
-  
-
-![Proclamation of the Republic of Singapore](../images/Proclamation of Singapore (LR)_1-1577346324520.jpg) 
+<img src="/images/exhibitions/proclamationofsg.jpg" alt="Proclamation of the Republic of Singapore" style="width:400px;"/>
 
 **Proclamation of the Republic of Singapore	9 August 1965** 
 
 This proclamation declared Singapore’s separation from Malaysia and its beginnings as an independent and sovereign republic.  
 
-  
 
-[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
-
-  
-
-  
 
 **Chief Justice’s Chamber and Office** 
 
-  
-
-![Chief Justice's Office](../images/CJ's_Office (LR)-1577346324544.jpg)![Chief Justice's Chamber](https://www-stg.nas.gov.sg/portals/1/CJ%27s_Chamber%20%28LR%29.jpg) 
-
-  
+ 
+<img src="/images/exhibitions/CJ's_Office (LR).jpg" alt="Chief Justice's Office" style="width:400px;"/>  
+<img src="/images/exhibitions/CJ's_Chamber (LR)..jpg" alt="Chief Justice's Chamber" style="width:400px;"/>  
 
 *Law of the Land: Highlights of Singapore’s Constitutional Documents*  is held at the historic former Chief Justice’s Chamber and Office at National Gallery Singapore’s former Supreme Court Wing. 
 

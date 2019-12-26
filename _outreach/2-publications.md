@@ -12,7 +12,11 @@ NAS actively promotes awareness of our rich collection through research and publ
 
  <p align="center">The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues </p>    
 
-​                        
+​                       
+
+ <img src="/images/publications/700yearhistory.jpg" alt="Singapore: A 700-Year History" style="width:250px;"/> 
+
+<p align="center">Singapore: A 700-Year History</p>
 
 ![Singapore: A 700-Year History](../images/publications/700yearhistory.jpg)                             
 

@@ -10,7 +10,7 @@ NAS actively promotes awareness of our rich collection through research and publ
 
  
 
-![The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues ](../images/publications/leekuanyewspeeches.jpg)                             
+![The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues ](../images/publications/leekuanyewspeeches.jpg style="width:200px;")                             
 
  The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues      
 
@@ -22,7 +22,7 @@ Singapore: A 700-Year History
 
 ​                 
 
-![10 Years That Shaped A Nation](../images/publications/10years.jpg)                             
+![10 Years That Shaped A Nation](../images/publications/10years.jpg style="width:200px;")                             
 
 10 Years That Shaped A Nation               
 

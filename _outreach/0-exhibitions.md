@@ -48,7 +48,7 @@ The exhibition is held at the historic former Chief Justice’s Chamber and Offi
 
   
 
-**Visitor Information** .
+**Visitor Information**
 
 ![Exhibition Venue](../images/Map (LR).jpg) 
 

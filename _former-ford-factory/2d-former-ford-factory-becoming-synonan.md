@@ -27,7 +27,7 @@ Three days after the British surrender of Singapore, the Japanese carried out a 
 
 ### SURRENDER ROOM
 
-![img](https://www.nas.gov.sg/portals/0/Images/zone3-2.jpg?ver=2017-02-24-163035-997)
+![Sook Ching](/images/formerford/nippon.jpg)
 
 ### NIPPONISATION
 

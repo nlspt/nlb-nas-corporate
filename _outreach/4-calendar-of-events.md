@@ -6,7 +6,7 @@ breadcrumb: Calendar Of Events
 collection_name: outreach
 ---
 
-<b>Current and Upcoming Events</b>
+## LATEST EVENTS
 
 
 No upcoming events. Check again for updates. 

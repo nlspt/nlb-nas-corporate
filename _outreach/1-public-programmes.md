@@ -47,7 +47,7 @@ History Through Drama presented a fun and stimulating way of learning about Sing
 
 
 
-[![Conference on the Causes and Impact of the Fall of Singapore – 16 February 2012](../images/635339556213468755.JPG)                     ](javascript:void(0))                 
+![Conference on the Causes and Impact of the Fall of Singapore – 16 February 2012](../images/635339556213468755.JPG)                                     
 
 ### Conference on the Causes and Impact of the Fall of Singapore – 16 February 2012
 

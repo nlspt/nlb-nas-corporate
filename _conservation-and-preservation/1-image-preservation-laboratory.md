@@ -10,4 +10,4 @@ The Image Preservation Laboratory provides digitisation and imaging services to 
 
  
 
-![Image Preservation Laboratory](http://www.nas.gov.sg/portals/1/images/1(1).png)
+ <img src="/images/conserve/imagelab.png" alt="Image Preservation Lab" style="width:500px;"/>

@@ -10,8 +10,9 @@ The Sound and Moving Image Laboratory conserves, digitises and preserves audiovi
 
  
 
-![Splicing film](http://www.nas.gov.sg/portals/1/image_lab.jpg)
+ <img src="/images/conserve/splicing.png" alt="Splicing" style="width:400px;"/>
 *Film which is torn or buckled can be repaired by hand using special tape – a process called “splicing”.*
 
-![Handling of audiovisual media](http://www.nas.gov.sg/portals/1/image_lab_2.jpg)
+
+<img src="/images/conserve/handlingmedia.png" alt="Handling audiovisual media" style="width:400px;"/>
 *Proper handling procedures will extend the life of the audiovisual media.*

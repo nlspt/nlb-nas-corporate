@@ -1,8 +1,10 @@
+---
 layout: leftnav-page-content
 title: Publications
 permalink: /outreach/publications/
 breadcrumb: Publications
 collection_name: outreach
+---
 
 NAS actively promotes awareness of our rich collection through research and publications. Over the years, NAS has produced many notable publications and interactive resources that are anchored on our archival holdings.
 
@@ -73,5 +75,7 @@ Some are also fruits of collaboration with overseas archival institutions, such 
 ​                            
 
 NAS also contributes to the discipline of archival science through publications which contribute to broader methodological and historiographical discussions.
+
+
 
 To find out more about purchase of our publications, please click [here](http://www.nas.gov.sg/archivesonline/publications). 

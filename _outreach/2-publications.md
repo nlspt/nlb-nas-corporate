@@ -8,11 +8,7 @@ collection_name: outreach
 
 NAS actively promotes awareness of our rich collection through research and publications. Over the years, NAS has produced many notable publications and interactive resources that are anchored on our archival holdings.
 
- 
-
-![The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues](../images/publications/leekuanyewspeeches.jpg){:height="200" width="100"}
-
-
+ <img src="/images/publications/leekuanyewspeeches.jpg" alt="The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues" style="width:150px;" />
 
  The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues      
 

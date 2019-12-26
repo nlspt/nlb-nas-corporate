@@ -9,7 +9,7 @@ collection_name: outreach
 Part of our Outreach efforts involves organising exciting programmes for the public. These programmes are usually organised at a permanent gallery at the Former Ford Factory managed by the National Archives of Singapore which showcases memories of life during the Japanese Occupation. We hope to engage the public through the fun activities we organise and at the same time, educate visitors of Singapore's history during our darkest hours. Who says history can't be engaging? Many participants had told us that the entire family loved joining us in the programmes and had a blast while learning about our shared past!
 
 
- Take a look at some of our past public programmes below. Get excited and look out for future programmes under [Calendar of Events!](https://www.nas.gov.sg/nas/Outreach/CalendarofEvents.aspx)
+ Take a look at some of our past public programmes below. Get excited and look out for future programmes under [Calendar of Events!](/outreach/calendar-of-events/)
 
 
 

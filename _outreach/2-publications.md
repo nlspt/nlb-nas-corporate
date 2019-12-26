@@ -46,11 +46,9 @@ These publications showcase the rich archival sources of Singapore’s history, 
 
   
 
-<img src="/images/publications/chinasgconnection.png" alt="Milestones of the China-Singapore Connection: Friendship and Cooperation, Growing from Strength to Strength, 1965-2010" style="width:200px;"/>                                      
+<img src="/images/publications/chinasgconnection.png" alt="Milestones of the China-Singapore Connection: Friendship and Cooperation, Growing from Strength to Strength, 1965-2010" style="width:200px;"/>
 
-    <p align="center">Milestones of the China-Singapore Connection: Friendship and Cooperation, Growing from Strength to Strength</p> 
-
- 
+<p align="center">Milestones of the China-Singapore Connection: Friendship and Cooperation, Growing from Strength to Strength</p>           
 
 <img src="/images/publications/nanqiao.png" alt="Nanqiao Jigong: The Extraordinary Story of Nanyang Drivers and Mechanics Who Returned to China During the Sino-Japanese War" style="width:200px;"/>         
 

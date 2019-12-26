@@ -10,7 +10,7 @@ NAS actively promotes awareness of our rich collection through research and publ
 
  <img src="/images/publications/leekuanyewspeeches.jpg" alt="The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues" style="width:250px;"/>
 
- The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues      
+ <p align="center">The Papers of Lee Kuan Yew: Speeches, Interviews and Dialogues </p>    
 
 ​                        
 

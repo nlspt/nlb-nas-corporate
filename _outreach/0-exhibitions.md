@@ -10,24 +10,7 @@ collection_name: outreach
 <img src="/images/exhibitions/Poster.jpg" alt="Law of the Land Exhibition" style="width:450px;"/>
 
 
-
-[About the Exhibition](https://www-stg.nas.gov.sg/Outreach/Exhibitions#about) 
-
-[Visitor Information](https://www-stg.nas.gov.sg/Outreach/Exhibitions#visitor) 
-
-[Public Tours](https://www-stg.nas.gov.sg/Outreach/Exhibitions#tours) 
-
-[Exhibition Highlights](https://www-stg.nas.gov.sg/Outreach/Exhibitions#highlights) 
-
-[Chief Justice's Chamber and Office](https://www-stg.nas.gov.sg/Outreach/Exhibitions#cj) 
-
-  
-
-  
-
 ### About the Exhibition
-
-  
 
 A constitution is a legal document that lays out the structure of government and the fundamental laws and principles governing a country and its people. In Singapore, the Constitution of the Republic of Singapore is the supreme law of the land that all other local laws must conform to. It prescribes the important distribution of authority between the three arms of the state: the legislature, the executive and the judiciary. It safeguards fundamental rights Singaporeans enjoy, such as equality before the law, equal protection of the law and the freedom of religion, among others. The sovereignty of Singapore is entrenched within the constitution. It has been called a “pragmatic document” that provides the framework for social, political and economic development that helps Singapore thrive.   
 

@@ -144,7 +144,7 @@ This proclamation declared Singapore’s separation from Malaysia and its beginn
 
 
 <img src="/images/exhibitions/CJ's_Office (LR).jpg" alt="Chief Justice's Office" style="width:400px;"/>  
-<img src="/images/exhibitions/CJ's_Chamber (LR)..jpg" alt="Chief Justice's Chamber" style="width:400px;"/>  
+<img src="/images/exhibitions/CJ's_Chamber (LR).jpg" alt="Chief Justice's Chamber" style="width:400px;"/>  
 
 *Law of the Land: Highlights of Singapore’s Constitutional Documents*  is held at the historic former Chief Justice’s Chamber and Office at National Gallery Singapore’s former Supreme Court Wing. 
 

@@ -8,23 +8,29 @@ collection_name: outreach
 
 **Law of the Land: Highlights of Singapore’s Constitutional Documents** 
 
-![Law of the Land Exhibition](../images/v2 (REVISED - No Free Admission) MSD227_NSD_POSTER_C3_R11_A3_for_print636517741496443568-resize540x763.jpg) 
+  
 
+![Law of the Land Exhibition image](../images/Poster.jpg) 
 
+  
 
-[About the Exhibition](https://www.nas.gov.sg/Outreach/Exhibitions#about) 
+[About the Exhibition](https://www-stg.nas.gov.sg/Outreach/Exhibitions#about) 
 
-[Visitor Information](https://www.nas.gov.sg/Outreach/Exhibitions#visitor) 
+[Visitor Information](https://www-stg.nas.gov.sg/Outreach/Exhibitions#visitor) 
 
-[Public Tours](https://www.nas.gov.sg/Outreach/Exhibitions#tours) 
+[Public Tours](https://www-stg.nas.gov.sg/Outreach/Exhibitions#tours) 
 
-[Exhibition Highlights](https://www.nas.gov.sg/Outreach/Exhibitions#highlights) 
+[Exhibition Highlights](https://www-stg.nas.gov.sg/Outreach/Exhibitions#highlights) 
 
-[Chief Justice's Chamber and Office](https://www.nas.gov.sg/Outreach/Exhibitions#cj) 
+[Chief Justice's Chamber and Office](https://www-stg.nas.gov.sg/Outreach/Exhibitions#cj) 
+
+  
 
   
 
 **About the Exhibition** 
+
+  
 
 A constitution is a legal document that lays out the structure of government and the fundamental laws and principles governing a country and its people. In Singapore, the Constitution of the Republic of Singapore is the supreme law of the land that all other local laws must conform to. It prescribes the important distribution of authority between the three arms of the state: the legislature, the executive and the judiciary. It safeguards fundamental rights Singaporeans enjoy, such as equality before the law, equal protection of the law and the freedom of religion, among others. The sovereignty of Singapore is entrenched within the constitution. It has been called a “pragmatic document” that provides the framework for social, political and economic development that helps Singapore thrive.   
 
@@ -42,15 +48,17 @@ The exhibition is held at the historic former Chief Justice’s Chamber and Offi
 
   
 
-[Back To Top](https://www.nas.gov.sg/Outreach/Exhibitions#top) 
+[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
 
   
 
   
 
-**Visitor Information**
+**Visitor Information** 
 
-![Exhibition Venue](../images/Map (LR).jpg) 
+  
+
+![Exhibition Venue image](../images/Map (LR)-1577345457659.jpg) 
 
   
 
@@ -63,19 +71,24 @@ Singapore 178957
 
   
 
-**Operating Hours**
-Saturday to Thursday: 10.00am to 7.00pm
-Friday: 10.00am to 9.00pm 
-Operating hours on Public Holidays and eves of Public Holiday will follow the day of the public holiday/eve. General ticket sales at ticketing counters will end 30 minutes before closing time.  
+**Opening Hours**
+Sun – Thurs and Public Holidays: 10am – 7pm
+Fri – Sat and Eve of Public Holidays: 10am – 10pm
+Admission ends 30 min before closing time 
 
   
 
 **Admission**
-Tickets are required for admission into all exhibition galleries. Tickets are free for Singaporeans and PRs. For non-Singaporeans, please refer to the [Gallery's website](https://www.nationalgallery.sg/visit/admissions). 
+Free 
 
   
 
-[Back To Top](https://www.nas.gov.sg/Outreach/Exhibitions#top) 
+**Enquiries**
+[NAS_Outreach@nlb.gov.sg](mailto:NAS_Outreach@nlb.gov.sg?subject=Enquiry - Law of the Land)  
+
+  
+
+[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
 
   
 
@@ -91,27 +104,33 @@ Join our curator-led Insights Tours and docent-led Highlights Tours to discover 
 
 **Insights Tour** 
 
-Day and Time: Selected Fridays (except public holidays), 6.30 – 7.15pm. **From 1 April 2018, the Insights Tour will be on the 4th Friday of each month.** 
-
-Register [here](http://www.nlb.gov.sg/golibrary2/c/30307529/) for tours. 
+Day and Time: Fridays (no tours on public holidays), 6.30 – 7.15pm. Register here for tours. 
 
 Meeting Point: Padang Atrium, Information Counter Level 1. There are 20 places available on a first come, first served basis. 
-
-All tour participants must first go to B1 ticketing to get an admission sticker. Please note that standard admission charges apply.  
 
   
 
 **Highlights Tour** 
 
-Day and Time: 1st and 3rd Saturdays each month (except public holidays), 4.30 - 5.15pm 
+Day and Time: 1st and 3rd Saturdays each month (except public holidays), 2.00 – 2.45pm 
 
 Meeting Point: Registration opens 20 minutes before each tour at the Tours Desk, B1. There are 20 place available on a first come, first served basis. 
 
-All tour participants must first go to B1 ticketing to get an admission sticker. Please note that standard admission charges apply. 
+  
 
+**Group Tours** 
 
+Schools or other organisations can contact [NAS_Outreach@nlb.gov.sg](mailto:NAS_Outreach@nlb.gov.sg) for guided tours, subject to availability. 
 
-[Back To Top](https://www.nas.gov.sg/Outreach/Exhibitions#top) 
+  
+
+**Public Talks** 
+
+Public talks accompany the exhibition from 2017. Watch this space for more details. 
+
+  
+
+[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
 
   
 
@@ -121,7 +140,7 @@ All tour participants must first go to B1 ticketing to get an admission sticker.
 
   
 
-![Raffles' Regulations](../images/Raffles-Regulations (LR).jpg) 
+![Raffles' Regulations](../images/Raffles-Regulations (LR)-1577345457686.jpg) 
 
 **Raffles’ Regulations	1823** 
 
@@ -130,7 +149,7 @@ Raffles promulgated six regulations in 1823, forming the earliest administrative
   
 
 
-![Third Charter of Justice](../images/Third Charter (LR).jpg) 
+![Third Charter of Justice](../images/Third Charter (LR)-1577345457694.jpg) 
 
 **Third Charter of Justice	10 August 1855** 
 
@@ -138,7 +157,7 @@ This charter affirmed the reception of English law in Singapore and provided the
 
   
 
-![Royal Warrant Assigning Armorial Ensigns for the City of Singapore](../images/Royal Warrant (LR).jpg) 
+![Royal Warrant Assigning Armorial Ensigns for the City of Singapore](../images/Royal Warrant (LR)-1577345457704.jpg) 
 
 **Royal Warrant Assigning Armorial Ensigns for the City of Singapore	9 April 1948** 
 
@@ -146,7 +165,7 @@ This document approved a new coat of arms for the Singapore Municipal Commission
 
   
 
-![Singapore Colony Order in Council of 1955](../images/Singapore Colony Order in Council of 1955 (LR)_1.jpg) 
+![Singapore Colony Order in Council of 1955](../images/Singapore Colony Order in Council of 1955 (LR)_1-1577345457746.jpg) 
 
 **The Singapore Colony Order in Council of 1955	1 February 1955** 
 
@@ -154,7 +173,7 @@ This document, better known as the Rendel Constitution, granted the automatic re
 
   
 
-![Singapore (../images/Singapore Constitution 1958 (LR).jpg) Order in Council, 1958](https://www.nas.gov.sg/portals/1/Singapore%20Constitution%201958%20%28LR%29.jpg) 
+![Singapore (../images/Singapore Constitution 1958 (LR)-1577345457773.jpg) Order in Council, 1958](https://www-stg.nas.gov.sg/portals/1/Singapore%20Constitution%201958%20%28LR%29.jpg) 
 
 **Singapore (Constitution) Order in Council, 1958	21 November 1958** 
 
@@ -162,7 +181,7 @@ This constitution marked a political milestone for Singapore, which ceased being
 
   
 
-![Points of Merger Envelope](../images/Points of Merger Envelope (LR).jpg) 
+![Points of Merger Envelope](../images/Points of Merger Envelope (LR)-1577345457795.jpg) 
 
 **Points of Merger Envelope	7 July 1965** 
 
@@ -170,7 +189,7 @@ On the back of this government envelope are Prime Minister Lee Kuan Yew’s hand
 
   
 
-![Tunku Abdul Rahman’s Letter to Toh Chin Chye](../images/Tunku's letter (LR).jpg) 
+![Tunku Abdul Rahman’s Letter to Toh Chin Chye](../images/Tunku's letter (LR)-1577345457814.jpg) 
 
 **Tunku Abdul Rahman’s Letter to Toh Chin Chye	7 August 1965** 
 
@@ -178,7 +197,7 @@ Malaysia’s Prime Minister Tunku Abdul Rahman wrote this letter to persuade Sin
 
   
 
-![Proclamation of the Republic of Singapore](../images/Proclamation of Singapore (LR)_1.jpg) 
+![Proclamation of the Republic of Singapore](../images/Proclamation of Singapore (LR)_1-1577345457849.jpg) 
 
 **Proclamation of the Republic of Singapore	9 August 1965** 
 
@@ -186,7 +205,7 @@ This proclamation declared Singapore’s separation from Malaysia and its beginn
 
   
 
-[Back To Top](https://www.nas.gov.sg/Outreach/Exhibitions#top) 
+[Back To Top](https://www-stg.nas.gov.sg/Outreach/Exhibitions#top) 
 
   
 
@@ -196,7 +215,7 @@ This proclamation declared Singapore’s separation from Malaysia and its beginn
 
   
 
-![Chief Justice’s Office](https://www.nas.gov.sg/portals/1/CJ%27s_Office%20%28LR%29.jpg)![Chief Justice’s Chamber](../images/CJ's_Chamber (LR).jpg) 
+![Chief Justice's Office](../images/CJ's_Office (LR)-1577345457888.jpg)![Chief Justice's Chamber](https://www-stg.nas.gov.sg/portals/1/CJ%27s_Chamber%20%28LR%29.jpg) 
 
   
 
@@ -212,4 +231,4 @@ The original furniture in the Chief Justice’s Chamber and Office were designed
 
   
 
-Some original antique furniture in the Chief Justice’s Chamber and Office is integrated with the exhibition. These pieces were hand carved by Singaporean craftsmen trained in British workmanship. Teak wood was predominantly used along with top grade leather upholstery. 
+Some original antique furniture in the Chief Justice’s Chamber and Office is integrated with the exhibition. These pieces were hand carved by Singaporean craftsmen trained in British workmanship. Teak wood was predominantly used along with top grade leather upholstery.  

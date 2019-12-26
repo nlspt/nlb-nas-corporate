@@ -3,14 +3,14 @@ layout: leftnav-page-content
 title: Exhibitions
 permalink: /outreach/exhibitions/
 breadcrumb: Exhibitions
-collection_name: outreach
+collection_name: outreach 
 ---
 
 **Law of the Land: Highlights of Singapore’s Constitutional Documents** 
 
   
 
-![Law of the Land Exhibition image](../images/Poster.jpg) 
+![Law of the Land Exhibition image](../images/Poster-1577346324318.jpg) 
 
   
 
@@ -58,7 +58,7 @@ The exhibition is held at the historic former Chief Justice’s Chamber and Offi
 
   
 
-![Exhibition Venue image](../images/Map (LR)-1577345457659.jpg) 
+![Exhibition Venue image](../images/Map (LR)-1577346324334.jpg) 
 
   
 
@@ -140,7 +140,7 @@ Public talks accompany the exhibition from 2017. Watch this space for more detai
 
   
 
-![Raffles' Regulations](../images/Raffles-Regulations (LR)-1577345457686.jpg) 
+![Raffles' Regulations](../images/Raffles-Regulations (LR)-1577346324341.jpg) 
 
 **Raffles’ Regulations	1823** 
 
@@ -149,7 +149,7 @@ Raffles promulgated six regulations in 1823, forming the earliest administrative
   
 
 
-![Third Charter of Justice](../images/Third Charter (LR)-1577345457694.jpg) 
+![Third Charter of Justice](../images/Third Charter (LR)-1577346324389.jpg) 
 
 **Third Charter of Justice	10 August 1855** 
 
@@ -157,7 +157,7 @@ This charter affirmed the reception of English law in Singapore and provided the
 
   
 
-![Royal Warrant Assigning Armorial Ensigns for the City of Singapore](../images/Royal Warrant (LR)-1577345457704.jpg) 
+![Royal Warrant Assigning Armorial Ensigns for the City of Singapore](../images/Royal Warrant (LR)-1577346324424.jpg) 
 
 **Royal Warrant Assigning Armorial Ensigns for the City of Singapore	9 April 1948** 
 
@@ -165,7 +165,7 @@ This document approved a new coat of arms for the Singapore Municipal Commission
 
   
 
-![Singapore Colony Order in Council of 1955](../images/Singapore Colony Order in Council of 1955 (LR)_1-1577345457746.jpg) 
+![Singapore Colony Order in Council of 1955](../images/Singapore Colony Order in Council of 1955 (LR)_1-1577346324454.jpg) 
 
 **The Singapore Colony Order in Council of 1955	1 February 1955** 
 
@@ -173,7 +173,7 @@ This document, better known as the Rendel Constitution, granted the automatic re
 
   
 
-![Singapore (../images/Singapore Constitution 1958 (LR)-1577345457773.jpg) Order in Council, 1958](https://www-stg.nas.gov.sg/portals/1/Singapore%20Constitution%201958%20%28LR%29.jpg) 
+![Singapore (../images/Singapore Constitution 1958 (LR)-1577346324473.jpg) Order in Council, 1958](https://www-stg.nas.gov.sg/portals/1/Singapore%20Constitution%201958%20%28LR%29.jpg) 
 
 **Singapore (Constitution) Order in Council, 1958	21 November 1958** 
 
@@ -181,7 +181,7 @@ This constitution marked a political milestone for Singapore, which ceased being
 
   
 
-![Points of Merger Envelope](../images/Points of Merger Envelope (LR)-1577345457795.jpg) 
+![Points of Merger Envelope](../images/Points of Merger Envelope (LR)-1577346324496.jpg) 
 
 **Points of Merger Envelope	7 July 1965** 
 
@@ -189,7 +189,7 @@ On the back of this government envelope are Prime Minister Lee Kuan Yew’s hand
 
   
 
-![Tunku Abdul Rahman’s Letter to Toh Chin Chye](../images/Tunku's letter (LR)-1577345457814.jpg) 
+![Tunku Abdul Rahman’s Letter to Toh Chin Chye](../images/Tunku's letter (LR)-1577346324529.jpg) 
 
 **Tunku Abdul Rahman’s Letter to Toh Chin Chye	7 August 1965** 
 
@@ -197,7 +197,7 @@ Malaysia’s Prime Minister Tunku Abdul Rahman wrote this letter to persuade Sin
 
   
 
-![Proclamation of the Republic of Singapore](../images/Proclamation of Singapore (LR)_1-1577345457849.jpg) 
+![Proclamation of the Republic of Singapore](../images/Proclamation of Singapore (LR)_1-1577346324520.jpg) 
 
 **Proclamation of the Republic of Singapore	9 August 1965** 
 
@@ -215,7 +215,7 @@ This proclamation declared Singapore’s separation from Malaysia and its beginn
 
   
 
-![Chief Justice's Office](../images/CJ's_Office (LR)-1577345457888.jpg)![Chief Justice's Chamber](https://www-stg.nas.gov.sg/portals/1/CJ%27s_Chamber%20%28LR%29.jpg) 
+![Chief Justice's Office](../images/CJ's_Office (LR)-1577346324544.jpg)![Chief Justice's Chamber](https://www-stg.nas.gov.sg/portals/1/CJ%27s_Chamber%20%28LR%29.jpg) 
 
   
 
@@ -231,4 +231,4 @@ The original furniture in the Chief Justice’s Chamber and Office were designed
 
   
 
-Some original antique furniture in the Chief Justice’s Chamber and Office is integrated with the exhibition. These pieces were hand carved by Singaporean craftsmen trained in British workmanship. Teak wood was predominantly used along with top grade leather upholstery.  
+Some original antique furniture in the Chief Justice’s Chamber and Office is integrated with the exhibition. These pieces were hand carved by Singaporean craftsmen trained in British workmanship. Teak wood was predominantly used along with top grade leather upholstery. 

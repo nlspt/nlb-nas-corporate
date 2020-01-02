@@ -5,11 +5,11 @@ date: 2015-10-09
 permalink: "/media/collections-and-research/mobile-library"
 ---
 
-
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577950561211&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=209&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmobile-library%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 
 # MOBILE LIBRARY, 1965
 
-[![Ministry of Information and the Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/09/2015-10-02-L.jpg)](http://www.nas.gov.sg/archivesonline/photographs/record-details/c3e05914-1161-11e3-83d5-0050568939ad)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-10-02-L.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
@@ -19,7 +19,7 @@ A modified van and two trailers were used to deliver the service and it was run 
 
 The community centres provided shelves for temporary book displays and the mobile library team would set up a counter to record loans and returns. The team visited the community centres on a specific day and time according to a roster and each visit lasted between two to three hours. At the end of each day, the books would be packed up and returned to the National Library building which was equipped with parking bays and packing rooms for the mobile libraries.
 
-[![2015-10-02 (L)(2)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/09/2015-10-02-L2.jpg)](http://www.nas.gov.sg/archivesonline/photographs/record-details/c4b24535-1161-11e3-83d5-0050568939ad)
+![2015-10-02 (../../../images/blogs/2015-10-02-L2.jpg)(2)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/09/2015-10-02-L2.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

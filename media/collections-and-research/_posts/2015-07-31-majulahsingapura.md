@@ -5,13 +5,13 @@ date: 2015-07-31
 permalink: "/media/collections-and-research/majulahsingapura"
 ---
 
-<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577951188714&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=63&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmajulah-singapura%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953963227&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=50&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmajulah-singapura%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F07%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 
 # EARLY VERSION OF MAJULAH SINGAPURA PERFORMED BY THE SINGAPORE MILITARY FORCES BAND, 1959
 
-![National Archives of Singapore](../../../images/blogs/2015-07-31-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-07-31-L-1577954190325.jpg)
 
-​														National Archives of Singapore
+​																National Archives of Singapore
 
 *Majulah Singapura* means “Onward Singapore”. It was originally composed by [Encik Zubir Said](http://www.nas.gov.sg/archivesonline/photographs/record-details/cace8d37-1161-11e3-83d5-0050568939ad) as the anthem for the City Council to commemorate the opening of a refurbished Victoria Theatre in 1958. The composer was the music director for Cathay-Keris Film Productions and in [his oral history interview](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e3efd43b-115d-11e3-83d5-0050568939ad), he recalled that he was approached to write the piece by then Mayor Ong Eng Guan through an intermediary.
 
@@ -23,7 +23,7 @@ When asked whether he was paid a fee for the composition, Encik Zubir said he di
 
 Upon independence in 1965, the *Majulah Singapura* became the national anthem of the Republic of Singapore. The version we hear today is a 2001 rearrangement.
 
-![img](../../../images/blogs/2015-07-31-L4.jpg)
+![img](../../../images/blogs/2015-07-31-L4-1577954190447.jpg)
 
 The National Archives of Singapore holds a copy of the first vinyl pressing of the Majulah Singapura produced by the Gramophone Company Ltd in 1959. This copy was the one presented to the Minister for Culture Mr S. Rajaratnam. Side 1 features the full and salute versions played by the Band of the Singapore Military Forces and Side 2 contains the version sung by the Ministry of Education Choir.
 

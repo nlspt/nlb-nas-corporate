@@ -11,7 +11,7 @@ permalink: "/media/collections-and-research/greatworld"
 
 ![Wong Kwan Collection, National Archives of Singapore](../../../images/blogs/2015-08-28-L.jpg)
 
-Wong Kwan Collection, National Archives of Singapore
+​												Wong Kwan Collection, National Archives of Singapore
 
 Amusement parks were very popular venues for entertainment in Singapore from the 1920s. The three most well-known amusement parks were Great World, [New World](http://www.nas.gov.sg/archivesonline/photographs/record-details/879275a5-1162-11e3-83d5-0050568939ad), and [Happy World](http://www.nas.gov.sg/archivesonline/photographs/record-details/d4ba43c8-1161-11e3-83d5-0050568939ad) (later renamed Gay World). Boasting a carnival-like atmosphere, they had a wide array of fun and games for the whole family. Their bright lights, restaurants, cinemas, gaming booths, and stalls which sold everything from trinkets to groceries, drew large crowds.
 

@@ -9,7 +9,7 @@ permalink: "/media/collections-and-research/defending-sovereignty"
 
 Fiona Tan 2 years ago 8 min. read
 
-###### **This essay was originally published in 10 Years That Shaped A Nation publication.
+###### *This essay was originally published in 10 Years That Shaped A Nation publication.
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 

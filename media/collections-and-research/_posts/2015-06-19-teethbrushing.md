@@ -5,11 +5,13 @@ date: 2015-06-19
 permalink: "/media/collections-and-research/teethbrushing"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953698780&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=65&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fteeth-brushing%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F06%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # TEETH BRUSHING EXERCISE, 1969
 
-[![Ministry of Information and The Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/06/2015-06-19-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/06/2015-06-19-L.jpg)
+![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-06-19-L.jpg)
 
-Ministry of Information and The Arts Collection, National Archives of Singapore
+​						Ministry of Information and The Arts Collection, National Archives of Singapore
 
 A teeth brushing campaign was launched on 4 February 1969 by Health Minister Mr Chua Sian Chin at Telok Ayer Primary School. In his speech, Mr Chua shared that one out of two Singaporeans at the time, did not brush his or her teeth and approximately 250,000 school children or half of the student population either did not own a toothbrush or had it but did not use it properly. According to Mr Chua, the poor standard of dental hygiene in Singapore was evident from the state of the National Servicemen’s teeth during their medical examination for entry into service.
 

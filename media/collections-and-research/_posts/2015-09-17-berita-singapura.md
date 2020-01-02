@@ -5,13 +5,13 @@ date: 2015-09-17
 permalink: "/media/collections-and-research/berita-singapura"
 ---
 
-
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577950625489&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=59&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fsingapore-grand-prix%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 
 # BERITA SINGAPURA: SINGAPORE GRAND PRIX, 1966
 
-[![Ministry of Culture Collection, National Archives of Singapore. To watch a clip from the event, click here .](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/09/2015-09-17-L.jpg)](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457cf916-1164-11e3-83d5-0050568939ad)
+![Ministry of Culture Collection, National Archives of Singapore. To watch a clip from the event, click here .](../../../images/blogs/2015-09-17-L.jpg)
 
-Ministry of Culture Collection, National Archives of Singapore. To watch a clip from the event, click [here ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457cf916-1164-11e3-83d5-0050568939ad).
+Ministry of Culture Collection, National Archives of Singapore. To watch a clip from the event, click [ here ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457cf916-1164-11e3-83d5-0050568939ad).
 
 Long before the glitzy Formula 1 Singapore Grand Prix night race in the heart of town, there was the Singapore Grand Prix that was first held on 17 September  1961. It was also a street circuit and was at Upper Thomson Road-Old Upper Thomson Road and was sponsored by the Ministry of Culture. It was called the Malaysian Grand Prix from 1962 – 1965 but reverted to Singapore Grand Prix by 1966 after independence.
 

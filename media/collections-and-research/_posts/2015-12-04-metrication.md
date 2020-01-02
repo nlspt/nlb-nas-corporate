@@ -5,13 +5,13 @@ date: 2015-12-04
 permalink: "/media/collections-and-research/metrication"
 ---
 
-
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577950087655&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=58&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmetrication-in-singapore%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 
 # METRICATION IN SINGAPORE POSTER, 1970s
 
-[![Singapore Metrication Board Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/12/2015-12-04-L.jpg)](http://www.nas.gov.sg/archivesonline/posters/record-details/b6ff74cd-2ea4-11e4-859c-0050568939ad)
+![Singapore Metrication Board Collection, National Archives of Singapore](../../../images/blogs/2015-12-04-L.jpg)
 
-Singapore Metrication Board Collection, National Archives of Singapore
+​                               Singapore Metrication Board Collection, National Archives of Singapore
 
 The metric system or the International System of Units (SI) was introduced in Singapore with the passing of the Metrication Bill and, the Weights and Measures (Amendment) Bill. Both were passed on 31 December 1970 and came into effect on 15 February 1971. Old imperial units such as yard, foot and inch and local customary units like ‘kati’ and ‘tahil’ were gradually phased out and replaced by metric units over the next decade.
 

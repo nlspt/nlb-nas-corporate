@@ -5,11 +5,13 @@ date: 2015-05-15
 permalink: "/media/collections-and-research/dollahkassim"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953302911&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=26&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fdollah-kassim%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F05%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # ORAL HISTORY INTERVIEW WITH DOLLAH KASSIM ON 1977 MALAYSIA CUP WIN, RECORDED IN 2003
 
-[![National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-15-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-15-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-05-15-L.jpg)
 
-National Archives of Singapore
+​															National Archives of Singapore
 
 The 1977 Malaysia Cup final was held at the Merdeka Stadium in Kuala Lumpur, Malaysia on 28 May in front of 40,000 spectators. The Singapore team beat Penang 3-2 in extra time to win the Malaysia Cup after 12 long years.
 

@@ -20,3 +20,4 @@ The Former Supreme Court building was opened on 3 August 1939 by Governor Sir Sh
 Gazetted as a national monument in 1992, the building was vacated in 2005 when the Supreme Court moved to its new premises along Supreme Court Lane. In early 2011, a ground-breaking ceremony was held to mark the start of refurbishment works together with the adjacent City Hall building. The two buildings will re-open on 24 November 2015 as the National Gallery Singapore.
 
 To view more details of this image and other records, click [here](http://www.nas.gov.sg/archivesonline/photographs/record-details/ed8225d7-1161-11e3-83d5-0050568939ad).
+

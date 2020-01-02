@@ -5,11 +5,11 @@ date: 2017-02-22
 permalink: "/media/collections-and-research/external-threats"
 ---
 
-# EXTERNAL THREATS: STORM CLOUDS OVER INDOCHINA
+# External threats: Storm Clouds over Indochina
 
-Fiona Tan 2 Years Ago 1 Min. Read
+Fiona Tan 2 years ago 1 min. read
 
-###### **THIS ESSAY WAS ORIGINALLY PUBLISHED IN THE 2ND DECADE: NATION BUILDING IN PROGRESS 1975-1985 PUBLICATION. TO VIEW THE LIVE NOTES, PLEASE CLICK [HERE](http://www.nas.gov.sg/1stCab/7585/travel_exh_Sec2.html).**
+###### **This essay was originally published in The 2nd Decade: Nation Building In Progress 1975-1985 publication. To view the Live Notes, please click here.**
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 
@@ -23,6 +23,6 @@ Domestically, falling birth rates meant fewer national servicemen for the SAF, r
 
 Furthermore, after a decade of growth, the SAF needed to upgrade its defence equipment to keep up with regional political changes.
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/08/img_599d93b72257c.png)
+![img](../../../images/blogs/img_599d93b72257c.png)
 
 The domino theory was first proposed by United States President Dwight D. Eisenhower in 1954. The theory predicted that if a country came under communist influence, the countries surrounding it would soon follow, toppling like a row of falling dominos. Milwaukee Journal, courtesy of NAS.

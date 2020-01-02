@@ -5,17 +5,15 @@ date: 2016-10-28
 permalink: "/media/collections-and-research/david-marshall"
 ---
 
+# David Marshall: Singapore’s First Chief Minister
 
+[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 4 years ago 12 min. read
 
-# DAVID MARSHALL: SINGAPORE’S FIRST CHIEF MINISTER
+![A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](../../../images/blogs/dm_raisehandsx.gif)
 
-Grace Ho 3 Years Ago 12 Min. Read
+*A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: 19980002917 – 0096*
 
-![A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/01/dm_raisehandsx.gif)
-
-*A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: [19980002917 – 0096](http://www.nas.gov.sg/archivesonline/photographs/record-details/b05127a1-1161-11e3-83d5-0050568939ad)*
-
-David Marshall (1908-1995), the celebrated Singaporean nationalist, politician, lawyer and diplomat, was a key political leader in the history of post-war Singapore. Born on the 12th of March 1908 into a Sephardic Jew family, Marshall rose to prominence in the late 1940s as a brilliant criminal lawyer whose eloquence and extraordinary legal understanding won him numerous court cases.
+David Marshall (1908-1995), the celebrated Singaporean nationalist, politician, lawyer and diplomat,  was a key political leader in the history of post-war Singapore.  Born on the 12th of March 1908 into a Sephardic Jew family, Marshall rose to prominence in the late 1940s as a brilliant criminal lawyer whose eloquence and extraordinary legal understanding won him numerous court cases.
 
 Marshall subsequently entered politics at the head of the Labor Front party and became Singapore’s first elected Chief Minister between 1955 and 1956. As Chief Minister, Marshall was a fearless opponent of British colonialism and led the early political struggles for Singapore independence. A socialist by inclination, he helped found the Singapore Worker’s Party (WP) in 1957 after he left the Labor Front and remained prominent in public affairs. He retired from politics in 1963, after his electoral defeat at Anson and returned to practicing law. In 1978, he was appointed Singapore’s ambassador to France, a post he held with distinction, which was later expanded to include the embassies of Portugal, Spain and Switzerland. He retired as Ambassador in 1993 and passed away on the 12 December 1995. David Marshall was, in short, a vital figure in Singapore’s post-war history.
 
@@ -23,13 +21,13 @@ Besides his achievements on the public stage, Marshall left a lasting impression
 
 In 1984, the National Archives of Singapore conducted an in-depth oral history interview with David Marshall containing valuable insight into his ethical beliefs and how they were formed. The rest of this article draws on this interview.
 
-Reflecting on his youth in the interview, Marshall pointed to three experiences that were essential to shaping his ethical convictions – the racial discrimination he bore under British colonialism, his reading of the Christian Bible, and his experience as a prisoner-of-war during the Japanese occupation.
+Reflecting on his youth in the interview, Marshall pointed to three experiences that were essential to shaping his ethical convictions – the racial discrimination he bore under British colonialism, his reading  of the Christian Bible, and his experience as a prisoner-of-war during the Japanese occupation.
 
-## RACIAL DISCRIMINATION AND ANTI-COLONIALISM
+## Racial Discrimination and Anti-colonialism
 
-![David Marshall speaking to a crowd of attentive supporters at Empress Place in 1955. Marshall was famed for his extraordinary oratorical skills. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/01/dm_speakingx.gif)
+![David Marshall speaking to a crowd of attentive supporters at Empress Place in 1955. Marshall was famed for his extraordinary oratorical skills. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](../../../images/blogs/dm_speakingx.gif)
 
-*David Marshall speaking to a crowd of attentive supporters at Empress Place in 1955. Marshall was famed for his extraordinary oratorical skills. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: [PCD0132 – 006](http://www.nas.gov.sg/archivesonline/photographs/record-details/61ffe981-1162-11e3-83d5-0050568939ad)*
+*David Marshall speaking to a crowd of attentive supporters at Empress Place in 1955. Marshall was famed for his extraordinary oratorical skills. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: PCD0132 – 006*
 
 When asked what drove him to join politics, Marshall replied, “Politics was an accident. I was thrust into politics by a sense of outrage, a deep sense of anger”.3 Marshall’s outrage was directed against the systematic racism he endured as an Asian Jew under British colonial rule. Colonialism was justified by the claim that white men were biologically and culturally superior to men of all other races. “I used to resent little pin-pricks [which] were, I thought… unfair about you know [the] ‘white man, brown man’ relationship,” he said. “Like you call me ‘Jowdy Jew, brush my shoe’, and next thing I know is I hit you on the nose… I wanted to break the sonic barrier against Asians and especially against Jews.”4 Marshall’s uncompromising stance against British colonialism correlated to his contempt for their racism.
 
@@ -39,7 +37,7 @@ Marshall’s revulsion at what he termed “the leprous concept of racial superi
 
 Of particular influence on the young Marshall were Biblical tales of men who struggled for justice against stronger adversaries, stories which reflected his own later struggles against British colonialism.
 
-## THE JAPANESE OCCUPATION
+## The Japanese Occupation
 
 In his interview, Marshall singled out his experience as a prisoner-of-war during the Japanese occupation as the decisive event that shaped his adult worldview. Marshall had volunteered as a British soldier in Singapore following the German invasion of Czechoslovakia in 1938, and was made a prisoner-of-war following the crushing defeat of the British military in Singapore and Malaya by the Japanese in 1941.7 Marshall recalled the terrible years that would reshape his thinking:
 
@@ -57,11 +55,11 @@ Marshall’s brand of Socialism, which he briefly explained in the interview, wa
 
 > *“My… understanding of socialism, my own approach was an effort to create the foundations for the opportunity of all our people to attain the conditions of living compatible with human dignity. Why did I call it socialist? Because it moved away from the concept of wealth to the concept of human qualities and respect for the human individual, and not respect for his bank account.”11*
 
-## MARSHALL AS LOYAL CRITIC OF SINGAPORE SOCIETY
+## Marshall as Loyal Critic of Singapore Society
 
-![David Marshall taking a rest with his trademark smoking pipe outside the Singapore Legislative Assembly after a parliamentary session, 1961. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/01/dm_smokingx.gif)
+![David Marshall taking a rest with his trademark smoking pipe outside the Singapore Legislative Assembly after a parliamentary session, 1961. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](../../../images/blogs/dm_smokingx.gif)
 
-*David Marshall taking a rest with his trademark smoking pipe outside the Singapore Legislative Assembly after a parliamentary session, 1961. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: [PCD0079 – 045](http://www.nas.gov.sg/archivesonline/photographs/record-details/63df7552-1162-11e3-83d5-0050568939ad)*
+*David Marshall taking a rest with his trademark smoking pipe outside the Singapore Legislative Assembly after a parliamentary session, 1961. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: PCD0079 – 045*
 
 Marshall’s critique of materialism and status anxiety, and his concern for human dignity and community which he considered to be universal ends, expressed themselves in several critical observations he made of Singapore society. In the interview, Marshall commented that there was a tendency in Singapore’s culture to devalue goods of utmost importance that could not be measured in utilitarian terms – like wisdom and culture. And conversely an inclination to overvalue goods that were quantifiable – like money and intelligence. This he thought encouraged a culture of selfish egotism which undermined national unity and bonds of trust between Singaporeans:
 
@@ -83,40 +81,40 @@ Marshall also paid tribute to the personal qualities of Dr Goh Keng Swee, a lead
 
 Marshall was a vocal critic of Singapore yet he remained a loyal Singaporean. His opinions were controversial, contestable and perhaps wrong-headed at times, but few people doubted his sincerity, his courage and personal integrity. He was always ready to stand up for what he thought was right, and it is the memory of his nobility that his friends and admirers celebrate on his birthday centenary.
 
-![ David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore ](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/01/dm_lastpic.jpg)
+![ David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore ](../../../images/blogs/dm_lastpic.jpg)
 
-*David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: [20060000508 – 0073](http://www.nas.gov.sg/archivesonline/photographs/record-details/9a891852-1162-11e3-83d5-0050568939ad)*
+*David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref:20060000508 – 0073*
 
 **Note**
 
-To view the full transcript of this oral history interview and listen to some selected segments within it, visit our online website [http://www.nas.gov.sg/archivesonline/](https://href.li/?http://www.nas.gov.sg/archivesonline/) and key in “David Marshall”.
+To view the full transcript of this oral history interview and listen to some selected segments within it, visit our online website[http://www.nas.gov.sg/archivesonline/](https://href.li/?http://www.nas.gov.sg/archivesonline/) and key in “David Marshall”.
 
-1   Professor Tommy Koh, “*The Rich Legacy of Singapore’s First Nationalist*“, Keynote address at the Symposium in Commemoration of the 100th Birthday of Mr David Marshall, 12 March 2008
+1     Professor Tommy Koh, “*The Rich Legacy of Singapore’s First Nationalist*“, Keynote address at the Symposium in Commemoration of the 100th Birthday of Mr David Marshall, 12 March 2008
 
-2   Professor Koh Kheng Lian, “*A Man of Great Humanity and Compassion*“, The Straits Times, 13 March 2008
+2     Professor Koh Kheng Lian, “*A Man of Great Humanity and Compassion*“, The Straits Times, 13 March 2008
 
-3   David Saul Marshall, Oral History Interview, Acc 000156, Reel 2
+3     David Saul Marshall, Oral History Interview, Acc 000156, Reel 2
 
-4   David Saul Marshall, Oral History Interview, Acc 000156, Reel 2
+4     David Saul Marshall, Oral History Interview, Acc 000156, Reel 2
 
-5   David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
+5     David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
 
-6   David Saul Marshall, Oral History Interview, Acc 000156, Reel 1
+6     David Saul Marshall, Oral History Interview, Acc 000156, Reel 1
 
-7   David Saul Marshall, Oral History Interview, Acc 000156, Reel 2 and 3
+7     David Saul Marshall, Oral History Interview, Acc 000156, Reel 2 and 3
 
-8   David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
+8     David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
 
-9   David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
+9     David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
 
-10  David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
+10   David Saul Marshall, Oral History Interview, Acc 000156, Reel 3
 
-11   David Saul Marshall, Oral History Interview, Acc 000156, Reel 4
+11    David Saul Marshall, Oral History Interview, Acc 000156, Reel 4
 
-12   David Saul Marshall, Oral History Interview, Acc 000156, Reel 19
+12    David Saul Marshall, Oral History Interview, Acc 000156, Reel 19
 
-13   David Saul Marshall, Oral History Interview, Acc 000156, Reel 19
+13    David Saul Marshall, Oral History Interview, Acc 000156, Reel 19
 
-14   David Saul Marshall, Oral History Interview, Acc 000156, Reel 2
+14    David Saul Marshall, Oral History Interview, Acc 000156, Reel 2
 
-15   David Saul Marshall, Oral History Interview, Acc 000156, Reel 4
+15    David Saul Marshall, Oral History Interview, Acc 000156, Reel 4

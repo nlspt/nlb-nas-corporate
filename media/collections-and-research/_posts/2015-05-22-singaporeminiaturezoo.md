@@ -5,11 +5,13 @@ date: 2015-05-22
 permalink: "/media/collections-and-research/singaporeminiaturezoo"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953121516&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=72&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fminiature-zoo%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F05%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # SINGAPORE MINIATURE ZOO, 1950s-1960s
 
-[![Tong Seng Mun Collection, courtesy of National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-22-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-22-L.jpg)
+![Tong Seng Mun Collection, courtesy of National Archives of Singapore](../../../images/blogs/2015-05-22-L.jpg)
 
-Tong Seng Mun Collection, National Archives of Singapore
+​										Tong Seng Mun Collection, National Archives of Singapore
 
 The Singapore Miniature Zoo was opened on 25 January 1957 at Pasir Panjang. Founded by animal dealer, Mr Tong Seng Mun, the two hectare zoo located on 189 West Coast Road featured animals such as lions, sun bears, panthers, camels, sea lions, penguins, tapirs, a rhinoceros, a baby elephant, baby orang utans, and a variety of birds and fishes. The zoo was opened daily from 9am to 7pm and visitors had to pay an admission fee of 50 cents for adults and 20 cents for children.
 

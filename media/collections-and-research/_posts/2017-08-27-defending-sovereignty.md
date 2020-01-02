@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/defending-sovereignty"
 
 # Defending Our Sovereignty
 
-Fiona Tan 2 years ago8 min. read
+Fiona Tan 2 years ago 8 min. read
 
 ###### **This essay was originally published in 10 Years That Shaped A Nation publication.
 

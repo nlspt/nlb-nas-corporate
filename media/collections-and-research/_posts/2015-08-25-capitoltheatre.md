@@ -5,11 +5,13 @@ date: 2015-08-25
 permalink: "/media/collections-and-research/capitoltheatre"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577950940773&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=14&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fcapitol-theatre%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # CAPITOL THEATRE, 1930s
 
-[![National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/08/2015-08-21-L.jpg)](http://www.nas.gov.sg/archivesonline/photographs/record-details/ae591869-1161-11e3-83d5-0050568939ad)
+![National Archives of Singapore](../../../images/blogs/2015-08-21-L.jpg)
 
-National Archives of Singapore
+​																	National Archives of Singapore
 
 Capitol Theatre was built by Mr Mirza Mohamed Ali Namazie, a well-known Persian merchant and property owner. It opened to much fanfare on 22 May 1930 with the screening of the film, *Rio Rita*. The theatre’s seating arrangement and lighting system are believed to have been modelled after the Roxy Theatre in New York City and it was one of few air-conditioned theatres in Singapore at the time. One of its notable features was its retractable domed ceiling. On nights with good weather, the ceiling opened and movies were screened under the night sky. It was one of the first cinemas in Singapore and movie stars such as Charlie Chaplin and Douglas Fairbanks visited to promote their movies when they were in Singapore.
 

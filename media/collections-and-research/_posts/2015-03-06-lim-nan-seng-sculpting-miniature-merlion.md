@@ -5,11 +5,13 @@ date: 2015-03-06
 permalink: "/media/collections-and-research/lim-nan-seng-sculpting-miniature-merlion"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577952223359&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=54&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmr-lim-nang-seng-sculpting-a-miniature-merlion-statue-1972%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F03%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # MR LIM NANG SENG SCULPTING A MINIATURE MERLION STATUE, 1972
 
-[![Lim Nang Seng Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/03/2015-03-06-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/03/2015-03-06-L.jpg)
+![Lim Nang Seng Collection, National Archives of Singapore](../../../images/blogs/2015-03-06-L.jpg)
 
-Lim Nang Seng Collection, National Archives of Singapore
+​											Lim Nang Seng Collection, National Archives of Singapore
 
 Mr Lim Nang Seng, a local sculptor, was commissioned by the then Singapore Tourist Promotion Board to construct the Merlion statue. It used to stand at the mouth of the Singapore River but has been relocated to its present site, adjacent to One Fullerton.
 

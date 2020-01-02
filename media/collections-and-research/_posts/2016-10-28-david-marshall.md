@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/david-marshall"
 
 # David Marshall: Singapore’s First Chief Minister
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 4 years ago 12 min. read
+Grace Ho 4 years ago 12 min. read
 
 ![A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](../../../images/blogs/dm_raisehandsx.gif)
 

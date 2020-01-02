@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/dr-goh-keng-swee"
 
 # Dr Goh Keng Swee’s Insights on Golfing
 
- [Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 years ago 1 min. read
+ Grace Ho 3 years ago 1 min. read
 
 ![19980006752 - 0098 GKS colour wm](../../../images/blogs/19980006752-0098-GKS-colour-wm-300x200.jpg)
 

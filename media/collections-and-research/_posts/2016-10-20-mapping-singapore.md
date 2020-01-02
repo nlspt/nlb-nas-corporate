@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/mapping-singapore"
 
 # Mapping Singapore: 1819–2014
 
-[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 years ago 1 min. read
+Grace Ho 3 years ago 1 min. read
 
 This fascinating essay detailing the history of mapping in Singapore between 1819 and 2014 was written by **Mr Mok Ly Yng**,  a Fellow of the Royal Geographical Society, one of Singapore’s leading map consultants and a regular visitor at the National Archives.The essay was published as a chapter in National Library Board’s “*Visualizing Space: Maps of Singapore and the Region*” (2015) publication. The full essay from the book  is shared here with the kind permission of Mr Mok and National Library Board:
 

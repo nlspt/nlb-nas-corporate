@@ -7,7 +7,7 @@ permalink: "/media/collections-and-research/s-rajaratnam"
 
 # S. Rajaratnam on Singapore’s State Symbols
 
-[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 years ago 4 min. read
+Grace Ho 3 years ago 4 min. read
 
 ![S Rajaratnam, Minister for Culture, in his office, 1950s Source: National Archives of Singapore](../../../images/blogs/28-20080000050-img0094-WML-667x1000.jpg)
 

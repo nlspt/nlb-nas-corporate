@@ -7,7 +7,7 @@ permalink: "/media/finding-aids/behind-the-scenes"
 
 # Behind-the-Scenes With Abigail Huang Reference Archivist!
 
-[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 years ago 4 min. read
+Grace Ho 3 years ago 4 min. read
 
 *We are happy to launch our first interview with the staff of NAS. Join us behind the scenes as we chat with Abigail Huang, our reference archivist who is no stranger to those who write in or call in or visit us at the Archives Reading Room.*
 

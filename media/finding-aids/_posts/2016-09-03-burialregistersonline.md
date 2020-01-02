@@ -7,7 +7,7 @@ permalink: "/media/finding-aids/burialregistersonline"
 
 # Bukit Brown Cemetery Burial Registers Online : 1922 to 1972
 
-[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)4 years ago 1 min. read
+Grace Ho 4 years ago 1 min. read
 
 The National Archives of Singapore has the burial registers of Bukit Brown Cemetery dating from April 1922 up till December 1972. To facilitate access, the records have been digitised and can be viewed online. Please visit the ‘Burial Registers’ link here to view these records: [Bukit Brown Cemetery Burial Registers: 1922 to 1972](http://www.nas.gov.sg/BukitBrown_signage.htm)
 

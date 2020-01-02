@@ -7,13 +7,13 @@ permalink: "/media/collections-and-research/i-rem-orchard"
 
 # I REMEMBER ORCHARD
 
-Fiona Tan 3 Years Ago 7 Min. Read
+Fiona Tan 3 years ago 7 min. read
 
 ***This was published as part of a series of posts based on irememberOrchard, an exhibition organised by the National Archives of Singapore at library@Orchard from 23 October 2014 to 26 April 2015.***
 
 
 
-## I REMEMBER ORCHARD
+## I Remember Orchard
 
 Hailed as New York’s Fifth Avenue, Paris’ Champs-Elysées and London’s Mayfair of the East, visitors go to Orchard Road for its megamalls, upscale fashion and luxury hotels. But to locals and residents, ‘Orchard’ means so much more!
 
@@ -25,7 +25,7 @@ irememberOrchard shares this rich legacy of personal recollections and stories b
 
  
 
-## FROM SPICE GARDEN TO CITY SCAPE
+## From Spice Garden to City Scape
 
 Beginning as a hilly suburban fringe sandwiched between the main commercial town area and Tanglin, Orchard Road is, now, arguably the most iconic street in Singapore.
 
@@ -37,21 +37,23 @@ Most of the structures survived the Japanese Occupation from 1942 to 1945. With 
 
 The bustling urban metropolis it is today is almost unrecognisable from its previous 19th century incarnation as rural colonial plantations or its 20th century incarnation as a suburban residential and commercial street. All that remain to remind us of Orchard Road’s previous landscapes are the street names, and structures such as this Orchard Gateway link, which harkens to the railway bridge that possibly stood in its place.
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/01-19980005107-IMG0091-Source-Andrew-Tan-R-1024x681.jpg)*Orchard Road was named after the fruit and nutmeg plantations which lined the dirt path trodden by horse-drawn carriages. Andrew Tan collection, courtesy of NAS Ref: [19980005107 – 0091](http://www.nas.gov.sg/archivesonline/photographs/record-details/34d65763-1162-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/01-19980005107-IMG0091-Source-Andrew-Tan-R-1024x681-1577936994210.jpg)Orchard Road was named after the fruit and nutmeg plantations which lined the dirt path trodden by horse-drawn carriages. Andrew Tan collection, courtesy of NAS Ref: [19980005107 – 0091](http://www.nas.gov.sg/archivesonline/photographs/record-details/34d65763-1162-11e3-83d5-0050568939ad)
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/02-19980005117-IMG0094-Source-NAS-R-1000x661.jpg)*By the 1910s, the settled population began building shophouses (Emerald Hill on the right). Railways were also introduced, and the trains which crossed Orchard Road by a bridge near Emerald Hill west of the Singapore Cold Storage. Courtesy of NAS Ref: [19980005117 – 0094](http://www.nas.gov.sg/archivesonline/photographs/record-details/362b7cba-1162-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/02-19980005117-IMG0094-Source-NAS-R-1577936994225.jpg)By the 1910s, the settled population began building shophouses (Emerald Hill on the right). Railways were also introduced, and the trains which crossed Orchard Road by a bridge near Emerald Hill west of the Singapore Cold Storage. Courtesy of NAS Ref: [19980005117 – 0094](http://www.nas.gov.sg/archivesonline/photographs/record-details/362b7cba-1162-11e3-83d5-0050568939ad)
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/03-19980005492-IMG0079-Source-NAS-R-1000x608.jpg)*By the 1930s, motor cars had replaced carriages as the dominant form of transport. More shophouses continued to dotted the built landscape of Orchard Road. Courtesy of NAS Ref: [19980005492 – 0079](http://www.nas.gov.sg/archivesonline/photographs/record-details/218cea7e-1162-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/03-19980005492-IMG0079-Source-NAS-R-1000x608-1577936994209.jpg)By the 1930s, motor cars had replaced carriages as the dominant form of transport. More shophouses continued to dotted the built landscape of Orchard Road.
+Courtesy of NAS
+Ref: 19980005492 – 0079
 
+![img](../../../images/blogs/04-19980000767-IMG0090-Source-MITA-1577936994218.jpg)
 
+By the late 1980s, most low-rises had disappeared, replaced with tall hotels and malls. Orchard Road was now the undisputed shopping district of Singapore.
+Ministry of Information and the Arts collection, courtesy of NAS
+Ref: [19980000767 – 0090](http://www.nas.gov.sg/archivesonline/photographs/record-details/4581d651-1162-11e3-83d5-0050568939ad)
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/04-19980000767-IMG0090-Source-MITA.jpg)
+## 
 
-*By the late 1980s, most low-rises had disappeared, replaced with tall hotels and malls. Orchard Road was now the undisputed shopping district of Singapore. Ministry of Information and the Arts collection, courtesy of NAS Ref: [19980000767 – 0090](http://www.nas.gov.sg/archivesonline/photographs/record-details/4581d651-1162-11e3-83d5-0050568939ad)*
-
-
-
-## FROM EMPORIUMS TO MEGAMALLS
+## From Emporiums to Megamalls
 
 Beneath the glitzy array of international brand-names which dot the commercial landscape of Orchard Road today, lies a layered and multi-faceted past of business activities.
 
@@ -63,20 +65,25 @@ While names such as Keller Piano and Ali Joo Fur have now been relegated to hist
 
 From emporiums to mega malls, Orchard Road still is the place Singaporeans ‘go out’ to.
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/05-19980005505-IMG0030-Source-John-Randall-1000x628.jpg)*Itinerant street-side hawkers, such as this one selling fruits in front of the Teutonia Club (present day Goodwood Park Hotel), were a common sight in Orchard Road at the turn of the 20th century.
-Courtesy of National Archives of Singapore Ref: [19980005505 – 0030](http://www.nas.gov.sg/archivesonline/photographs/record-details/d389efa2-1161-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/05-19980005505-IMG0030-Source-John-Randall-1000x628-1577936994227.jpg)Itinerant street-side hawkers, such as this one selling fruits in front of the Teutonia Club (present day Goodwood Park Hotel), were a common sight in Orchard Road at the turn of the 20th century.
+Courtesy of National Archives of Singapore
+Ref: [19980005505 – 0030](http://www.nas.gov.sg/archivesonline/photographs/record-details/d389efa2-1161-11e3-83d5-0050568939ad)
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/06-19980006559-IMG0119-Source-NAS-cropped-1000x641.jpg)*Before the construction of brick façade of the Orchard Road Market (building on right) in 1909, hawkers also congregated in what was known as Koek’s Bazaar, at the junction of Orchard Road and Cuppage Road.
-Courtesy of National Archives of Singapore Ref: [19980006559 – 0119](http://www.nas.gov.sg/archivesonline/photographs/record-details/d421d453-1161-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/06-19980006559-IMG0119-Source-NAS-cropped-1000x641-1577936994240.jpg)Before the construction of brick façade of the Orchard Road Market (building on right) in 1909, hawkers also congregated in what was known as Koek’s Bazaar, at the junction of Orchard Road and Cuppage Road.
+Courtesy of National Archives of Singapore
+Ref: [19980006559 – 0119](http://www.nas.gov.sg/archivesonline/photographs/record-details/d421d453-1161-11e3-83d5-0050568939ad)
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/07-20100000306-IMG0039-source-GEORGE-TRICKER-1000x714.jpg)*Itinerant street hawkers continued to dot the Orchard Road landscape in the 1950s.
-George Tricker collection, courtesy of NAS Ref: [20100000306 – 0039](http://www.nas.gov.sg/archivesonline/photographs/record-details/b3166c1e-1162-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/07-20100000306-IMG0039-source-GEORGE-TRICKER-1000x714-1577936994731.jpg)Itinerant street hawkers continued to dot the Orchard Road landscape in the 1950s.
+George Tricker collection, courtesy of NAS
+Ref: [20100000306 – 0039](http://www.nas.gov.sg/archivesonline/photographs/record-details/b3166c1e-1162-11e3-83d5-0050568939ad)
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/08-IMG0018-Source-R-1000x675.jpg)*With more people settling in Orchard Road, functional buildings such as Amber Mansions (1922 – 1984), which had residences upstairs and shops downstairs, served both their tenants and shoppers from the vicinity. Courtesy of National Archives of Singapore Ref: [19980005592 – 0018](http://www.nas.gov.sg/archivesonline/photographs/record-details/b00b2c26-1161-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/08-IMG0018-Source-R-1000x675-1577936994774.jpg)With more people settling in Orchard Road, functional buildings such as Amber Mansions (1922 – 1984), which had residences upstairs and shops downstairs, served both their tenants and shoppers from the vicinity.
+Courtesy of National Archives of Singapore
+Ref: [19980005592 – 0018](http://www.nas.gov.sg/archivesonline/photographs/record-details/b00b2c26-1161-11e3-83d5-0050568939ad)
 
  
 
-## FROM EXCLUSIVE ENTERTAINMENT TO RECREATION FOR ALL
+## From Exclusive Entertainment to Recreation for All
 
 With something for everyone, Orchard Road is the entertainment capital of Singapore.
 
@@ -92,8 +99,12 @@ Similarly, for the complete shopping experience, whether a window shopper or dis
 
 Orchard Road’s entertainment facilities continue to evolve with time, maintaining its edge as the recreational centre of Singapore.
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/09-19980005032-IMG0007-Source-NAS-R-1000x367.jpg)*Colonial recreation was exclusive, as in the Ladies Lawn Tennis Club (left) and Teutonia Club (right), which previously offered exclusive recreation for the German community until it was turned into Goodwood Park Hotel in 1929. Courtesy of National Archives of Singapore Ref: [19980005112 – 0088](http://www.nas.gov.sg/archivesonline/photographs/record-details/d5465180-1161-11e3-83d5-0050568939ad) and [19980005032 – 0007](http://www.nas.gov.sg/archivesonline/photographs/record-details/adaffa4a-1161-11e3-83d5-0050568939ad)*
+![img](../../../images/blogs/09-19980005032-IMG0007-Source-NAS-R-1000x367-1577936995170.jpg)Colonial recreation was exclusive, as in the Ladies Lawn Tennis Club (left) and Teutonia Club (right), which previously offered exclusive recreation for the German community until it was turned into Goodwood Park Hotel in 1929.
+Courtesy of National Archives of Singapore
+Ref: [19980005112 – 0088 ](http://www.nas.gov.sg/archivesonline/photographs/record-details/d5465180-1161-11e3-83d5-0050568939ad)and [19980005032 – 0007](http://www.nas.gov.sg/archivesonline/photographs/record-details/adaffa4a-1161-11e3-83d5-0050568939ad)
 
-![img](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/10-19990003455-IMG0074-Source-NAS.jpg)
+![img](../../../images/blogs/10-19990003455-IMG0074-Source-NAS-1577936994811.jpg)
 
-*Movies catered to all, and with the opening of Cathay in 1939 (pictured above in 1963) and Lido in 1959, Orchard Road was the popular haunt of film-goers. Courtesy National Archives of Singapore Ref: [19990003455 – 0074](http://www.nas.gov.sg/archivesonline/photographs/record-details/875143cf-1162-11e3-83d5-0050568939ad)*
+Movies catered to all, and with the opening of Cathay in 1939 (pictured above in 1963) and Lido in 1959, Orchard Road was the popular haunt of film-goers.
+Courtesy National Archives of Singapore
+Ref: [19990003455 – 0074](http://www.nas.gov.sg/archivesonline/photographs/record-details/875143cf-1162-11e3-83d5-0050568939ad)

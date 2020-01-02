@@ -7,7 +7,7 @@ permalink: "/media/finding-aids/burialregisters"
 
 # The Bukit Brown Cemetery Burial Registers 1922 – 1972
 
-[Fiona Tan ](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/)3 years ago 1 min. read
+Fiona Tan 3 years ago 1 min. read
 
 *This is a post contributed by a private researcher, Ms Khoo Ee Hoon, who shares her knowledge about the Bukit Brown Burial Registers which she has been consulting for her private genealogical research.*
 

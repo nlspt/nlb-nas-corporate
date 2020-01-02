@@ -7,7 +7,7 @@ permalink: "/media/finding-aids/intern-mandy"
 
 # Interns Reflections – Mandy Lee
 
-[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 2 years ago 4 min. read
+Fiona Tan 2 years ago 4 min. read
 
 Interns Reflections is a series of posts by our interns, recounting their experience with National Archives of Singapore. From deciphering manuscript handwriting, to poring over listings and records, to heading out into the field to conduct oral history interviews, our interns have the chance to go behind the scenes to see the multi-varied nature of archival work. Interested in joining us? Email us at nas@nlb.gov.sg!
 

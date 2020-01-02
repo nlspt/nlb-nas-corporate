@@ -5,11 +5,13 @@ date: 2015-05-08
 permalink: "/media/collections-and-research/pontianak"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953496762&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=67&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fpontianak%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F05%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # CHINESE ADVERTISEMENT OF THE MALAY FILM ‘PONTIANAK’, 1957
 
-[![2015-05-08 (L)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-08-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-08-L.jpg)
+![2015-05-08 (../../../images/blogs/2015-05-08-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-08-L.jpg)
 
-National Archives of Singapore
+​															National Archives of Singapore
 
 *Pontianak* (1957) was a Malay film produced by Cathay-Keris Film Productions and directed by B.N. Rao. It premiered on 27 April 1957 and ran for almost three months at Cathay cinemas. The film was dubbed in Mandarin and also Cantonese for the local Chinese audience and the Hong Kong market. Despite being known as the golden age of Malay cinema, local Malay films in the 1950s and 1960s were a product of the cultural diversity in the region; Malay films particularly from the 1950s were typically helmed by Indian directors, financed by Chinese producers and written and acted by the Malay artistes. Its cultural heterogeneity was one of the reasons why these films were so popular and well-loved by people in Singapore.
 

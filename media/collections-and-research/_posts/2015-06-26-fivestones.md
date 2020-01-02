@@ -5,13 +5,15 @@ date: 2015-06-26
 permalink: "/media/collections-and-research/fivestones"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953657660&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=65&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Ffive-stones%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F06%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # A GIRL PLAYING FIVE STONES, 1950s
 
-[![Singapore Sports Council Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/06/2015-06-26-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/06/2015-06-26-L.jpg)
+![Singapore Sports Council Collection, National Archives of Singapore](../../../images/blogs/2015-06-26-L.jpg)
 
 Singapore Sports Council Collection, National Archives of Singapore
 
-Five stones used to be a popular kampong game which was originally played with real stones of the same size. It was later played using five small triangular bags made out of scrap cloth and filled either with sand, rice or dried beans. Traditionally handmade, these triangular cloth bags can also be bought at selected shops.
+Five stones used to be a popular kampong game which was originally played with real stones of the same size.  It was later played using five small triangular bags made out of scrap cloth and filled either with sand, rice or dried beans. Traditionally handmade, these triangular cloth bags can also be bought at selected shops.
 
 The aim of the game is to score points by completing a set of eight steps. The winner is the person who completes the full set the most times. It is played by two or more players and requires good hand-eye coordination.
 

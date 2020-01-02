@@ -11,7 +11,7 @@ permalink: "/media/collections-and-research/cathay-film-services-movie"
 
 ![Housing and Development Board, courtesy of the National Archives of Singapore](../../../images/blogs/2015-04-03-L.jpg)
 
-Housing and Development Board, courtesy of the National Archives of Singapore
+​					Housing and Development Board, courtesy of the National Archives of Singapore
 
 Happy Homes is a colour film which was produced in 1964 by Cathay Film Services for the Housing and Development Board (HDB). The film showcases the rapid development of low cost housing in Singapore at the time and also documents the changing landscape in 1960s Singapore; from the kampongs that dotted the island, to the high rise buildings at Collyer Quay and Raffles Place, and the construction of new HDB flats. It also shows the exterior and interior views of early HDB flats, and amenities in the neighbourhood.
 

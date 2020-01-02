@@ -5,11 +5,13 @@ date: 2015-03-20
 permalink: "/media/collections-and-research/orchard-road-railway-bridge"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577952120297&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=55&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Forchard-road-railway-bridge%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F03%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # ORCHARD ROAD RAILWAY BRIDGE, c.1913
 
-[![National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/03/2015-03-20-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/03/2015-03-20-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-03-20-L.jpg)
 
-National Archives of Singapore
+​																National Archives of Singapore
 
 From 1903 to 1932, trains travelled across Orchard Road via a railway bridge, from Tank Road Railway Station to the Woodlands jetty. From Tank Road, the line ran north-westwards and crossed Orchard Road by a bridge near Emerald Hill west of the Singapore Cold Storage.
 

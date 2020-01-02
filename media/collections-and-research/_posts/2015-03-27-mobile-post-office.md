@@ -5,11 +5,13 @@ date: 2015-03-27
 permalink: "/media/collections-and-research/mobile-post-office"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577952027132&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=61&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmobile-post-office%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F03%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # MOBILE POST OFFICE, c.1970
 
-[![National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/03/2015-03-27-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/03/2015-03-27-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-03-27-L.jpg)
 
-National Archives of Singapore
+​																National Archives of Singapore
 
 The Mobile Post Office was introduced on 1 November 1952. It started operations with one van and provided on-the-spot postal services to residents living in rural areas where there were no post offices. The Postal Services Department added a second van in 1955.
 

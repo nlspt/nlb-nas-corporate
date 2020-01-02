@@ -5,13 +5,13 @@ date: 2015-02-13
 permalink: "/media/collections-and-research/footage-of-peranakan-chinese-bride"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577951894838&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=71&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Ffootage-of-a-peranakan-chinese-bride-1940%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F02%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # FOOTAGE OF A PERANAKAN CHINESE BRIDE, 1940
 
- 
+![Tan Geok Choo Wee Law Collection, National Archives of Singapore. To watch the full video, click  here. ](../../../images/blogs/2015-02-13-L.jpg)
 
-[![Tan Geok Choo Wee Law Collection, National Archives of Singapore. To watch the full video, click  here. ](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/02/2015-02-13-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/02/2015-02-13-L.jpg)
-
-Tan Geok Choo Wee Law Collection, National Archives of Singapore. To watch the full video, click [here.](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6793a637-1164-11e3-83d5-0050568939ad)
+Tan Geok Choo Wee Law Collection, National Archives of Singapore. To watch the full video, click [ here. ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6793a637-1164-11e3-83d5-0050568939ad)
 
 This black and white film is one of the earliest audio-visual recordings and home videos in the collection of the National Archives of Singapore.  It contains, among other things, footage of a Peranakan bride.
 

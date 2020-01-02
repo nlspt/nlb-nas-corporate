@@ -5,9 +5,11 @@ date: 2015-07-17
 permalink: "/media/collections-and-research/harirayapuasabotanicgardens"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577955358692&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=163&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fhari-raya-puasa%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F07%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # SCENE AT SINGAPORE BOTANIC GARDENS DURING HARI RAYA PUASA, 1965
 
-[![Ministry of Information and the Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
@@ -17,21 +19,21 @@ In 1965, there was a coincidence of two festivals, *Hari Raya Puasa* on 3 Februa
 
 Photographs from the archives show that many Singaporeans of all races congregated at the Singapore Botanic Gardens as part of the festivities in that year. The featured photograph shows the iconic octagonal bandstand that still draws the crowds today. Built in the 1930s, it was previously used for outdoor musical performances and was declared a conserved heritage structure in 2009 by the Urban Redevelopment Authority.
 
-[![Ministry of Information and the Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L2.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L2.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L2.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
-[![Ministry of Information and the Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L3.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L3.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L3.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
-While the scenes within the ever pristine Botanic Gardens may look very much the same apart from the fashions of that time, a different picture can be seen at the entrances.
+While the scenes within the ever pristine Botanic Gardens may look very much the same apart from the fashions of that time, a different picture  can be seen at the entrances.
 
-[![Ministry of Information and the Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L4.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L4.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L4.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
-[![Ministry of Information and the Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L5.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-17-L5.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L5.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

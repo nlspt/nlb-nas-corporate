@@ -5,13 +5,15 @@ date: 2015-06-05
 permalink: "/media/collections-and-research/roadsafetycampaign"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953888611&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=62&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Froad-safety-campaign%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F06%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # SPEECH BY MR CHUA SIAN CHIN AT THE OPENING OF THE NATIONAL ROAD SAFETY CAMPAIGN, 1977
 
-[![National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/06/2015-06-05-L-1024x701.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/06/2015-06-05-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-06-05-L-1024x701.jpg)
 
-National Archives of Singapore
+​																	National Archives of Singapore
 
-A nationwide road safety campaign, *Road Safety for You*, was launched by then Minister for Home Affairs and Education, Mr Chua Sian Chin on 4 June 1977 at the Victoria Theatre. A series of games and contests to teach road safety to students were held in May before the official opening of the campaign.
+A nationwide road safety campaign, *Road Safety for You*, was launched by then Minister for Home Affairs and Education, Mr Chua Sian Chin on 4 June 1977 at the Victoria Theatre.  A series of games and contests to teach road safety to students were held in May before the official opening of the campaign.
 
 Since the launch of the annual road safety campaign in 1974, the number of injuries and fatalities caused by traffic accidents remained high. From 1974-1976, a total of 862 people died and 7,699 were injured in road accidents which authorities attributed to inconsiderate and reckless motorists, and jaywalking pedestrians. Therefore, unlike the previous campaign where the focus was on motorists and safe driving, the new campaign placed equal emphasis on safe driving and safe walking.
 

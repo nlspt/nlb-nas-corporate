@@ -5,11 +5,11 @@ date: 2015-10-16
 permalink: "/media/collections-and-research/sharity-the-elephant"
 ---
 
-
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577950509715&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=59&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fsharity%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 
 # SHARITY THE ELEPHANT AND FRIENDS, 1993
 
-[![Ministry of Information and the Arts Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/10/2015-10-16-L.jpg)](http://www.nas.gov.sg/archivesonline/photographs/record-details/10a12631-1162-11e3-83d5-0050568939ad)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-10-16-L.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

@@ -5,9 +5,9 @@ date: 2016-08-01
 permalink: "/media/collections-and-research/nationaldayparade"
 ---
 
-# THE NATIONAL DAY PARADE THROUGH THE YEARS, 1966-2012
+# The National Day Parade Through the Years, 1966-2012
 
-Grace Ho 3 Years Ago 2 Min. Read
+[Grace Ho ](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/)3 years ago 2 min. read
 
 We look at how the National Day parade evolved over the years through the archives of our the Ministry of Communication and Information’s Photography Unit. This selection of images was curated by Ms Janelle Chua, our Outreach manager !
 
@@ -15,306 +15,310 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-![Picture1x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture1x-1000x666.jpg)
+![Picture1x](../../../images/blogs/Picture1x-1000x666.jpg)
 
 ### 1966
 
-### SPECTATORS ALONG UPPER PICKERING STREET AS PARADE CONTINGENTS MARCHED PAST AT SINGAPORE’S FIRST NATIONAL DAY CELEBRATIONS AS AN INDEPENDENT REPUBLIC.
+### Spectators along Upper Pickering Street as parade contingents marched past at Singapore’s first national day celebrations as an independent republic.
 
 ------
 
  
 
-![Picture2x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture2x.jpg)
+![Picture2x](../../../images/blogs/Picture2x.jpg)
 
 ### 1966
 
-### THE GUARD OF HONOUR CONTINGENT MARCHING DOWN SOUTH BRIDGE ROAD.
+### The Guard of Honour contingent marching down South Bridge Road.
 
 ------
 
  
 
-### ![Picture3x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture3x.jpg)
+### ![Picture3x](../../../images/blogs/Picture3x.jpg)
 
 ### 1966
 
-### BEFORE SINGAPOREANS COULD WATCH THE NATIONAL DAY PARADE ON TELEVISION, MOST PEOPLE WOULD WAIT AROUND STRATEGIC LOCATIONS TO CATCH A GLIMPSE OF THE CELEBRATIONS.
+### Before Singaporeans could watch the National Day parade on television, most people would wait around strategic locations to catch a glimpse of the celebrations.
 
 ------
 
  
 
-### ![Picture4x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture4x.jpg)
+### ![Picture4x](../../../images/blogs/Picture4x.jpg)
 
 ### 1967
 
-### THE POLICE MOBILE SQUAD PRACTICING FOR THEIR PERFORMANCE FOR THE NATIONAL DAY PARADE.
+### The police mobile squad practicing for their performance for the National Day Parade.
 
 ------
 
  
 
-### ![Picture5x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture5x.jpg)
+### ![Picture5x](../../../images/blogs/Picture5x.jpg)
 
 ### 1967
 
-### ACROBATIC AND LION DANCE PERFORMANCE IN FRONT OF THEN-CITY HALL.
-
-------
-
-
-
-### ![Picture6x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture6x.jpg)
-
-### 1968
-
-### THE HEAVY DOWNPOUR ON 9 AUGUST DID NOT DAMPEN THE SPIRITS OF THE 25,000 PARADE PARTICIPANTS AND THE THOUSANDS OF SPECTATORS.
-
-
-
-### ![Picture7x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture7x.jpg)
-
-### 1968
-
-### SPECTATORS WATCHING PARADE FROM THE SINGAPORE CRICKET CLUB, SOME EVEN USING CHAIRS TO SHELTER FROM RAIN.
+### Acrobatic and lion dance performance in front of then-City Hall.
 
 ------
 
  
 
-![Picture8x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture8x.jpg)
+### 
+
+### ![Picture6x](../../../images/blogs/Picture6x.jpg)
+
+### 1968
+
+### The heavy downpour on 9 August did not dampen the spirits of the 25,000 parade participants and the thousands of spectators.
+
+------
+
+### 
+
+### ![Picture7x](../../../images/blogs/Picture7x.jpg)
+
+### 1968
+
+### Spectators watching parade from the Singapore Cricket Club, some even using chairs to shelter from rain.
+
+------
+
+ 
+
+![Picture8x](../../../images/blogs/Picture8x.jpg)
 
 ### 1969
 
-### MASS DISPLAY PERFORMANCE ENTITLED “MAJESTIC FLORAL DANCE”.
+### Mass display performance entitled “Majestic Floral Dance”.
 
 ------
 
+### 
 
-
-### ![Picture9x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture9x.jpg)
+### ![Picture9x](../../../images/blogs/Picture9x.jpg)
 
 ### 1970
 
-### SPECTATORS FILLED EVERY POSSIBLE SPACE TO VIEW THE PARADE.
+### Spectators filled every possible space to view the parade.
 
 ------
 
+### 
 
-
-### ![Picture10x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture10x.jpg)
+### ![Picture10x](../../../images/blogs/Picture10x.jpg)
 
 ### 1975
 
-### FLOAT MOVING PAST SPECTATORS ALONG HILL STREET.
+### Float moving past spectators along Hill Street.
 
 ------
 
+### 
 
-
-### ![Picture11x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture11x-1000x667.jpg)
+### ![Picture11x](../../../images/blogs/Picture11x-1000x667.jpg)
 
 ### 1975
 
-### CITIZENS CROWDED AROUND AS PERFORMERS DRESSED IN COSTUMES PARADED PAST THE OLD HILL STREET POLICE STATION.
+### Citizens crowded around as performers dressed in costumes paraded past the Old Hill Street Police Station.
 
 ------
 
+### 
 
-
-### ![Picture12x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture12x.jpg)
+### ![Picture12x](../../../images/blogs/Picture12x.jpg)
 
 ### 1976
 
-### THE FIRST NATIONAL DAY PARADE IN THE OLD NATIONAL STADIUM.
+### The first National Day Parade in the old National Stadium.
 
 ------
 
- 
+### 
 
-### ![Picture13x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture13x.jpg)
+### ![Picture13x](../../../images/blogs/Picture13x.jpg)
 
 ### 1985
 
-### CONTINGENTS MARCHING PAST SPECTATORS ALONG CRAWFORD STREET AND TURNING TO NORTH BRIDGE ROAD.
+### Contingents marching past spectators along Crawford Street and turning to North Bridge Road.
 
 ------
 
+### 
 
-
-### ![Picture14x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture14x.jpg)
+### ![Picture14x](../../../images/blogs/Picture14x.jpg)
 
 ### 1985
 
-### CHILDREN LINED THE STREET WAITING TO VIEW THE PARADE.
+### Children lined the street waiting to view the parade.
 
 ------
 
+### 
 
-
-### ![Picture15x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture15x-1000x664.jpg)
+### ![Picture15x](../../../images/blogs/Picture15x-1000x664.jpg)
 
 ### 1990
 
-### 25 F-16 FIGHTER JETS ROARED ABOVE THE PADANG, FORMING THE NUMBER ‘25’ TO CELEBRATE SINGAPORE’S 25TH YEAR OF INDEPENDENCE.
+### 25 F-16 fighter jets roared above the Padang, forming the number ‘25’ to celebrate Singapore’s 25th year of independence.
 
 ------
 
+### 
 
-
-### ![Picture16x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture16x.jpg)
+### ![Picture16x](../../../images/blogs/Picture16x.jpg)
 
 ### 1990
 
-###  FLY-PAST OF SINGAPORE’S NATIONAL FLAG BY HELICOPTERS FROM THE REPUBLIC OF SINGAPORE AIR FORCE.
+###  Fly-past of Singapore’s National Flag by helicopters from the Republic of Singapore Air Force.
 
 ------
 
+### 
 
-
-### ![Picture17x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture17x.jpg)
+### ![Picture17x](../../../images/blogs/Picture17x.jpg)
 
 ### 1990
 
-### OUR VERY FIRST SEA REVIEW FOR A NATIONAL DAY PARADE.
+### Our very first sea review for a National Day Parade.
 
 ------
 
+### 
 
-
-### ![Picture18x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture18x.jpg)
+### ![Picture18x](../../../images/blogs/Picture18x.jpg)
 
 ### 1992
 
-### PRECISION LANDING BY SINGAPORE ARMED FORCES PARACHUTE TEAM, NOW FONDLY KNOWN AS THE RED LIONS.
+### Precision landing by Singapore Armed Forces Parachute Team, now fondly known as the Red Lions.
 
 ------
 
+### 
 
-
-### ![Picture19x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture19x-1000x664.jpg)
+### ![Picture19x](../../../images/blogs/Picture19x-1000x664.jpg)
 
 ### 1993
 
-### PARADE GOERS, DRESSED ACCORDING TO THE COLOURS OF THEIR NDP TICKETS, JOINED IN THE TRADITIONAL MARCH PAST OF CONTINGENTS, TRANSFORMING THE PADANG INTO A KALEIDOSCOPE OF COLOURS.
+### Parade goers, dressed according to the colours of their NDP tickets, joined in the traditional march past of contingents, transforming the Padang into a kaleidoscope of colours.
 
 ------
 
+### 
 
-
-### ![Picture20x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture20x.jpg)
+### ![Picture20x](../../../images/blogs/Picture20x.jpg)
 
 ### 1994
 
-### THE FIRST TIME THE 21-GUN SALUTE IS FIRED FROM WITHIN THE STADIUM.
+### The first time the 21-gun salute is fired from within the stadium.
 
 ------
 
+### 
 
-
-### ![Picture21x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture21x.jpg)
+### ![Picture21x](../../../images/blogs/Picture21x.jpg)
 
 ### 2000
 
-### THE AERIAL DISPLAY IS ALWAYS A FIRM FAVOURITE AT OUR NATIONAL DAY PARADES.
+### The aerial display is always a firm favourite at our National Day Parades.
 
 ------
 
+### 
 
-
-### ![Picture22x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture22x.jpg)
+### ![Picture22x](../../../images/blogs/Picture22x.jpg)
 
 ### 2002
 
-### THE DELIGHTED CROWD AT THE OLD NATIONAL STADIUM.
+### The delighted crowd at the old National Stadium.
 
 ------
 
+### 
 
-
-### ![Picture23x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture23x.jpg)
+### ![Picture23x](../../../images/blogs/Picture23x.jpg)
 
 ### 2006
 
-### SINGAPORE CELEBRATES ITS 41ST BIRTHDAY FOR THE LAST TIME IN THE OLD NATIONAL STADIUM.
+### Singapore celebrates its 41st birthday for the last time in the old National Stadium.
 
 ------
 
+### 
 
-
-### ![Picture24x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture24x.jpg)
+### ![Picture24x](../../../images/blogs/Picture24x.jpg)
 
 ### 2006
 
-### INTERACTION BETWEEN PERFORMERS AND SPECTATORS.
+### Interaction between performers and spectators.
 
 ------
 
+### 
 
-
-### ![Picture25x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture25x.jpg)
+### ![Picture25x](../../../images/blogs/Picture25x.jpg)
 
 ### 2007
 
-### FIRST NATIONAL DAY PARADE AT THE FLOATING PLATFORM AT MARINA BAY.
+### First National Day Parade at the floating platform at Marina Bay.
 
 ------
 
+### 
 
-
-### ![Picture26x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture26x.jpg)
+### ![Picture26x](../../../images/blogs/Picture26x.jpg)
 
 ### 2007
 
-### THE FIREWORKS DISPLAY IS ALWAYS HIGHLY ANTICIPATED AND BRINGS GREAT CHEER EVERY YEAR.
+### The fireworks display is always highly anticipated and brings great cheer every year.
 
 ------
 
+### 
 
-
-### ![Picture27x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture27x.jpg)
+### ![Picture27x](../../../images/blogs/Picture27x.jpg)
 
 ### 2007
 
-### SINGAPORE ARMED FORCES GET UP CLOSE WITH SPECTATORS.
+### Singapore Armed Forces get up close with spectators.
 
 ------
 
+### 
 
-
-### ![Picture28x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture28x.jpg)
+### ![Picture28x](../../../images/blogs/Picture28x.jpg)
 
 ### 2008
 
-### BEYOND THE NATIONAL DAY PARADE, MANY PEOPLE PARTICIPATE IN CELEBRATIONS AROUND THE ISLAND.
+### Beyond the National Day Parade, many people participate in celebrations around the island.
 
 ------
 
+### 
 
-
-### ![Picture29x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture29x.jpg)
+### ![Picture29x](../../../images/blogs/Picture29x.jpg)
 
 ### 2011
 
-### MASTER WARRANT OFFICER JENNIFER TAN WAS THE FIRST FEMALE TO LAND THE ROLE OF REGIMENTAL SERGEANT MAJOR IN THE HISTORY OF NDP.
+### Master Warrant Officer Jennifer Tan was the first female to land the role of Regimental Sergeant Major in the history of NDP.
 
 ------
 
+### 
 
-
-### ![Picture30x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture30x-1000x667.jpg)
+### ![Picture30x](../../../images/blogs/Picture30x-1000x667.jpg)
 
 ### 2011
 
-### NDP HAS EVOLVED OVER THE YEARS – FROM GENERAL MASS DISPLAYS TO NARRATIVES THAT TELL THE STORIES OF SINGAPOREANS.
+### NDP has evolved over the years – from general mass displays to narratives that tell the stories of Singaporeans.
 
 ------
 
+### 
 
-
-### ![Picture31x](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/Picture31x.jpg)
+### ![Picture31x](../../../images/blogs/Picture31x.jpg)
 
 ### 2012
 
-### AS THE PARADE DRAWS TO A CLOSE, PERFORMERS GATHER IN A KALEIDOSCOPE OF COLOURS AND JOIN IN THE SINGING OF THE NATIONAL ANTHEM.
+### As the parade draws to a close, performers gather in a kaleidoscope of colours and join in the singing of the national anthem.

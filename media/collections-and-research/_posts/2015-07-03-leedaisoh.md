@@ -5,11 +5,13 @@ date: 2015-07-03
 permalink: "/media/collections-and-research/leedaisoh"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577955565710&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=60&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Flee-dai-soh%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F07%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # POPULAR STORYTELLER LEE DAI SOH TELLING STORIES ON AIR, 1966
 
-[![img](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-03-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/07/2015-07-03-L.jpg)
+![img](../../../images/blogs/2015-07-03-L.jpg)
 
-Lee Dai Soh Collection, National Archives of Singapore
+​												Lee Dai Soh Collection, National Archives of Singapore
 
 Lee Dai Soh whose real name is Lee Fook Hong was a very popular Cantonese storyteller who hosted programmes weekly for Rediffusion, Singapore’s first commercial and cable-transmitted radio station. He told tales of Chinese folklore, sword fighting and historical epics which made him a household name among listeners young and old, during the 1950s and 1960s.
 

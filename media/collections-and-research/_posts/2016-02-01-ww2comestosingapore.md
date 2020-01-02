@@ -5,9 +5,9 @@ date: 2016-02-01
 permalink: "/media/collections-and-research/ww2comestosingapore"
 ---
 
-# WWII COMES TO SINGAPORE
+# WWII comes to Singapore
 
-Fiona Tan 3 Years Ago 4 Min. Read
+[Fiona Tan ](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/)3 years ago 4 min. read
 
 75 years ago on this date, shortly after 4am, people living in Singapore had their first experience of aerial bombings. Japanese naval bombers and Zero fighter planes bombed the town area, hitting Chinatown and Raffles Place, as well as the airfields at Seletar and Tengah. This was the first time that civilians living in Singapore experienced war right at their doorsteps.
 
@@ -20,15 +20,13 @@ However, the looming clouds of war had already begun gathering since the start o
 
 Initially, the British colonial administrators did not wish to cause panic and began with air raid precautions and training the local population for basic civil defence. Eventually the war preparations became more overt through screening of the population and training locals in volunteer forces from 1941 onwards.
 
-![Air Raid Precaution identity card belonging to Tan Geok Seng Donated by Victor Tan, National Archives collection 18/2 ](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/Acc-18-2-1000x817.jpg)Air Raid Precaution identity card belonging to Tan Geok Seng
-Donated by Victor Tan, National Archives collection
-[18/2](http://www.nas.gov.sg/archivesonline/private_records/record-details/dca6e0fc-115b-11e3-83d5-0050568939ad)
+![Air Raid Precaution identity card belonging to Tan Geok Seng Donated by Victor Tan, National Archives collection 18/2 ](../../../images/blogs/Acc-18-2.jpg)Air Raid Precaution identity card belonging to Tan Geok Seng
+Donated by Victor Tan, National Archives collection [18/2](http://www.nas.gov.sg/archivesonline/private_records/record-details/dca6e0fc-115b-11e3-83d5-0050568939ad)
 
-![Civil Defence Corps recruitment booklet, 1940 Donated by Chan Chon Hoe, National Archives collection 19/1992 (1)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/Acc-19-1992-1-1-659x1000.jpg)
+![Civil Defence Corps recruitment booklet, 1940 Donated by Chan Chon Hoe, National Archives collection 19/1992 (../../../images/blogs/Acc-19-1992-1-1-659x1000.jpg)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/Acc-19-1992-1-1-659x1000.jpg)
 
-Civil Defence Corps recruitment booklet, 1940
-Donated by Chan Chon Hoe, National Archives collection
-[19/1992 (1)](http://www.nas.gov.sg/archivesonline/private_records/record-details/e0bf7ac7-115b-11e3-83d5-0050568939ad)
+​                                              Civil Defence Corps recruitment booklet, 1940
+​                                   Donated by Chan Chon Hoe, National Archives collection [19/1992 (1)](http://www.nas.gov.sg/archivesonline/private_records/record-details/e0bf7ac7-115b-11e3-83d5-0050568939ad)
 
 When the Japanese conducted air raids on Singapore, some were ready to put their training into action.
 
@@ -46,3 +44,5 @@ However, with the continued air raids and defeat after defeat of the British for
 > Oral history interview with Arshak Catchatoor Galstaun (1982), Accession Number [000170/7](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/1bbfb294-1160-11e3-83d5-0050568939ad?)
 
 This short selection of oral history interviews and private records in the holdings of the National Archives of Singapore gives us a multi-faceted perspective of civilian life at the start of the conflict in Singapore.
+
+### Stay tuned for the opening of the exhibition at the revamped Memories at Old Ford Factory for more records that highlight these diverse experiences of war, occupation and its legacies!

@@ -5,7 +5,15 @@ date: 2016-09-10
 permalink: "/media/finding-aids/intern-limhuixiang"
 ---
 
-### **Internship at the National Archives of Singapore (NAS)**
+# Interns Reflections – Lim Hui Xiang
+
+[Fiona Tan](http://www.nas.gov.sg/blogs/offtherecord/author/nlstlp/) 2 years ago 4 min. read
+
+Interns Reflections is a series of posts by our interns, recounting their experience with National Archives of Singapore. From deciphering manuscript handwriting, to poring over listings and records, to heading out into the field to conduct oral history interviews, our interns have the chance to go behind the scenes to see the multi-varied nature of archival work. Interested in joining us? Email us at nas@nlb.gov.sg!
+
+Kickstarting our Interns Reflections series are our summer interns for 2017, [Mandy Lee](http://www.nas.gov.sg/blogs/offtherecord/interns-reflections-mandy-lee/) and Lim Hui Xiang.
+
+### Internship at the National Archives of Singapore (NAS)
 
 ![img](../../../images/img_5987affb2f7f7.png)
 

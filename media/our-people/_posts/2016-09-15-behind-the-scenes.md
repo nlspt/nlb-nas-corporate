@@ -5,13 +5,15 @@ date: 2016-09-15
 permalink: "/media/finding-aids/behind-the-scenes"
 ---
 
-# BEHIND-THE-SCENES WITH ABIGAIL HUANG REFERENCE ARCHIVIST
+# Behind-the-Scenes With Abigail Huang Reference Archivist!
 
-Grace Ho 3 Years Ago 4 Min. Read
+[Grace Ho](http://www.nas.gov.sg/blogs/offtherecord/author/nlshgs/) 3 years ago 4 min. read
 
 *We are happy to launch our first interview with the staff of NAS. Join us behind the scenes as we chat with Abigail Huang, our reference archivist who is no stranger to those who write in or call in or visit us at the Archives Reading Room.*
 
-![Abigail (right), our reference archivist, in conversation with one of our regular researchers Ee Hoon (left)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/11/Abi-Ee-Hoon-1000x667.jpg)Abigail Huang (right), our reference archivist, in conversation with one of our regular researchers Ms Khoo Ee Hoon (left)
+
+
+![Abigail (../../../images/blogs/Abi-Ee-Hoon-1000x667.jpg), our reference archivist, in conversation with one of our regular researchers Ee Hoon (left)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/11/Abi-Ee-Hoon-1000x667.jpg)Abigail Huang (right), our reference archivist, in conversation with one of our regular researchers Ms Khoo Ee Hoon (left)
 
 **What do you do as a reference archivist?**
 

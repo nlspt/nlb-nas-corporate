@@ -5,9 +5,11 @@ date: 2015-04-03
 permalink: "/media/collections-and-research/cathay-film-services-movie"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577952715705&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=52&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fhappy-homes%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F04%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # CATHAY FILM SERVICES MOVIE ENTITLED ‘HAPPY HOMES’, 1964
 
-[![Housing and Development Board, courtesy of the National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/04/2015-04-03-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/04/2015-04-03-L.jpg)
+![Housing and Development Board, courtesy of the National Archives of Singapore](../../../images/blogs/2015-04-03-L.jpg)
 
 Housing and Development Board, courtesy of the National Archives of Singapore
 

@@ -5,11 +5,13 @@ date: 2015-01-09
 permalink: "/media/collections-and-research/girls-sports-club-new-year-eve-dance"
 ---
 
+<iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577951594202&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=17&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fgirl-sports-clubs-new-years-celebration%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F01%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
+
 # GIRLS’ SPORTS CLUB’S NEW YEAR’S EVE DANCE AT THE VICTORIA MEMORIAL HALL, 1960
 
-[![Margaret Clarke Collection, National Archives of Singapore](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/01/2015-01-02-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/01/2015-01-02-L.jpg)
+![Margaret Clarke Collection, National Archives of Singapore](../../../images/blogs/2015-01-02-L.jpg)
 
-Margaret Clarke Collection, National Archives of Singapore
+​											Margaret Clarke Collection, National Archives of Singapore
 
 The Goldburn Sports Club was established by a group of 12 young Eurasian ladies in 1929 to encourage and provide an opportunity for Eurasian women to participate in sports. In the 1920s, sports clubs did not admit any women so this club was the first of its kind in Singapore.
 

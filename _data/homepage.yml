@@ -50,13 +50,13 @@ info-sections:
     section-subtitle: Stories of Yesteryear
     section-more-button: Visit Stories of Yesteryear
     section-description: Reminisce significant moments on videos 
-    section-more-button-url: https://tv.toggle.sg/en/shows/stories-of-yesteryear-moments-in-time/episodes.jpg     
+    section-more-button-url: https://video.toggle.sg/en/stories-of-yesteryear-10235878     
     section-image-path: /images/storiesOfYesteryear.jpg
     section-image-alt: Stories of Yesteryear on Toggle
   - section-title: Features
     section-subtitle: The Making of A Nation
     section-more-button: View Post
     section-description: On 3 June 1959, the 1.6 million people in Singapore awoke to a new beginning - as people of a fully internal self-governing city state under the British Crown. Many were immigrants and had no deep-rooted ties to Singapore. The new government thus needed to encourage them to establish roots in Singapore, and to foster a sense of pride, loyalty and national identity.
-    section-more-button-url: http://www.nas.gov.sg/archivesonline/policy_history/nation-building
+    section-more-button-url: https://www.nas.gov.sg/archivesonline/policy_history/card?id=10
     section-image-path: /images/makingOfANation.jpg
     section-image-alt: Making of A Nation

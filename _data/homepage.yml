@@ -5,31 +5,58 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-nas.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/logo-nas.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-title:             
+hero-subtitle:
+hero-banner: /images/nas-banner-1920.jpg
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+#button:
 
+#text: Learn More
+#url: /about-us/mandate
+
+#Highlights
+key-highlights:
+
+  - title: Citizen Archivist
+    url: http://www.nas.gov.sg/citizenarchivist
+    external: true
+  - title: Archives Online
+    url: http://www.nas.gov.sg/archivesonline/
+    external: true
+  - title: Singapore Policy History Project
+    url: http://www.nas.gov.sg/archivesonline/policy_history/
+    external: true
+  - title: E-Request
+    url: https://www.nas.gov.sg/erequest/#/home
+    external: true
+
+# Info Sections
+info-sections:
+  - section-title: Features
+    section-subtitle: NAS 50 Moments in Time
+    section-more-button: Explore Memories
+    section-description: The National Archives of Singapore presents a selection of audiovisual materials and oral history interviews that we have collected and judiciously preserved over the past 50 years for you and our future generations. They capture the times that Singaporeans celebrated, stood up proudly and even cried. Travel to scenes that have vanished and enjoy the treasured memories of Singaporeans from different walks of life.
+    section-more-button-url: http://www.nas.gov.sg/archivesonline/highlight?page=50moments     
+    section-image-path: /images/50moments.jpg
+    section-image-alt: NAS 50 Moments in Time
+  - section-title: Features
+    section-subtitle: Stories of Yesteryear
+    section-more-button: Visit Stories of Yesteryear
+    section-description: Reminisce significant moments on videos 
+    section-more-button-url: https://tv.toggle.sg/en/shows/stories-of-yesteryear-moments-in-time/episodes.jpg     
+    section-image-path: /images/storiesOfYesteryear.jpg
+    section-image-alt: Stories of Yesteryear on Toggle
+  - section-title: Features
+    section-subtitle: The Making of A Nation
+    section-more-button: View Post
+    section-description: On 3 June 1959, the 1.6 million people in Singapore awoke to a new beginning - as people of a fully internal self-governing city state under the British Crown. Many were immigrants and had no deep-rooted ties to Singapore. The new government thus needed to encourage them to establish roots in Singapore, and to foster a sense of pride, loyalty and national identity.
+    section-more-button-url: http://www.nas.gov.sg/archivesonline/policy_history/nation-building
+    section-image-path: /images/makingOfANation.jpg
+    section-image-alt: Making of A Nation

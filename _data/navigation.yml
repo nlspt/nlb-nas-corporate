@@ -13,25 +13,29 @@
     url: /about-us/history/
   - title: Our Roles
     url: /about-us/our-roles/
-  - title: Our People
-    url: /about-us/our-people/
   - title: Partnerships
     url: /about-us/partnerships/
   - title: Contact Us
-    url: /about-us/contact-us/
+    url: /contact-us/
+  
 - title: Discover Archives
-  url: /discover-archives/archives-online/
+  url: http://www.nas.gov.sg/archivesonline/
   sub-links:
   - title: Archives Online
-    url: /discover-archives/archives-online/
+    url: http://www.nas.gov.sg/archivesonline/
   - title: Citizen Archivist
-    url: /discover-archives/citizen-archivist/
+    url: http://www.nas.gov.sg/citizenarchivist/
   - title: Stories Of Yesteryear
-    url: /discover-archives/stories-of-yesteryear/
+    url: https://tv.toggle.sg/en/shows/singapore-in-the-1960s/episodes
   - title: Sounds Of Yesteryear
-    url: /discover-archives/sounds-of-yesteryear/
+    url: http://www.nas.gov.sg/archivesonline/audiovisual_records/highlights/f3f86c2d-6764-11e5-ac2a-0050568939ad?play=true
   - title: Singapore Policy History Project
-    url: /discover-archives/singapore-policy-history-project/
+    url: http://www.nas.gov.sg/archivesonline/policy_history/
+  
+  - title: Off The Record
+    url: /media/
+  - title: Former Ford Factory
+    url: /former-ford-factory/overview/
 - title: Archives Reading Room
   url: /archives-reading-room/about-archives-reading-room/
   sub-links:
@@ -43,7 +47,7 @@
     url: /archives-reading-room/what-services-we-offer/
   - title: Policies And Guidelines For Archival Records
     url: /archives-reading-room/policies-and-guidelines-for-archival-records/
-- title: Conservation And Preservation
+- title: Conserve & Preserve
   url: /conservation-and-preservation/archives-conservation-laboratory/
   sub-links:
   - title: Archives Conservation Laboratory
@@ -57,8 +61,6 @@
   sub-links:
   - title: Exhibitions
     url: /outreach/exhibitions/
-  - title: Collection Drive
-    url: /outreach/collection-drive/
   - title: Public Programmes
     url: /outreach/public-programmes/
   - title: Publications
@@ -67,3 +69,4 @@
     url: /outreach/calendar-of-events/
   - title: Whats New
     url: /outreach/whats-new/
+

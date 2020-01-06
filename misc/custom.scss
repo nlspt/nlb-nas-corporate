@@ -5,13 +5,13 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+$primary: #3A6222;
+$secondary: #946F00;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
+$media-color-one: #185E72;
+$media-color-two: #854266;
+$media-color-three: #9F2F1D;
 $media-color-four: #00838f;
 $media-color-five: #00838f;
 
@@ -358,4 +358,59 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+}
+
+a.project-link {
+	text-decoration: none;
+}
+
+.project-card {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.5rem;
+    background-color: white;
+    height: 1rem;
+    color: #767676;
+}
+
+.project-image {
+    object-fit: cover;
+    height: 230px;
+    width: 100%;
+	}
+
+.project-image.large-thumbnail {
+	height: auto;
+}
+
+.margin--bottom--xs {
+    margin-bottom: 0.25rem !important;
+}
+
+.padding--bottom--sm {
+    padding-bottom: 0.5rem !important;
+}
+
+.project-card h5 {
+    color: #0a0a0a;
+		font-size: 1.3rem;
+}
+
+.no-margin-top {
+  margin-top: 0 !important;
+}
+
+.no-padding-top {
+  padding-top: 0 !important;
+}
+
+a.no-pdf-icon {
+  &:before {
+    content: none;
+  }
+}
+
+.bp-hero-body {
+	background: unset;
 }

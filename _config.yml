@@ -29,9 +29,8 @@ homepage_hero_i_want_to: false # if i_want_to is true, there will be no key high
 homepage_resources: false
 
 # FAQ URL
-faq_url: "/faq/"
+faq_url: http://www.ifaq.gov.sg/nlb/apps/fcd_faqmain.aspx#TOPIC_7250
 faq_url_external: true
-faq_path: http://www.ifaq.gov.sg/nlb/apps/fcd_faqmain.aspx#TOPIC_7250
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"

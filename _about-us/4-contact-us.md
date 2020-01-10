@@ -6,7 +6,7 @@ breadcrumb: Contact Us
 collection_name: about-us
 ---
 
-<h1>We are located at<h1>
+<h3>We are located at</h3>
 
 <strong>1 Canning Rise
 <br>Singapore 179868</strong>

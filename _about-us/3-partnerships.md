@@ -6,7 +6,7 @@ breadcrumb: Partnerships
 collection_name: about-us
 ---
 
-### (1)    International Council of Archives (ICA)
+###  International Council of Archives (ICA)
 
 <img src="/images/ica.gif" alt="International Council on Archives" style="width:400px;" />
 
@@ -14,7 +14,7 @@ The International Council of Archives is the professional organisation for the w
 
 <hr>
 
-### (2)    Southeast Asian Regional Branch International Council on Archives (SARBICA)
+### Southeast Asian Regional Branch International Council on Archives (SARBICA)
 
 <img src="/images/sarbica.jpg" alt="Sarbica" style="width:150px;" />
 

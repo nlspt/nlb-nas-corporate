@@ -58,5 +58,6 @@ The Declassification Department sets up frameworks to increase and govern access
 
 ### Former Ford Factory
 
+
 The Former Ford Factory is a museum under NAS and runs a permanent World War 2 exhibition. The NAS collection of audio visual archives, oral history interviews with survivors and various artefacts such as newspaper cuttings help bring to life, the stories and experiences during the war. More information can be found [here](https://corporate.nas.gov.sg/former-ford-factory/overview/).
 

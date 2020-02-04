@@ -29,10 +29,13 @@ Saturday and Sunday<br>
 
 **Mandarin Tours on Saturdays at 11:30am**
 
-9 Nov 2019<br>
-23 Nov 2019<br>
-7 Dec 2019<br>
-21 Dec 2019
+**Mandarin Tours for Feb and Mar 2020**
+
+Time - 11:30am<br>
+   15 Feb<br>
+   07 Mar<br>
+   21 Mar<br>
+
 
 
 

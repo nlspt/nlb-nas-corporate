@@ -29,7 +29,7 @@ Saturday and Sunday<br>
 
 **Mandarin Tours on Saturdays at 11:30am**
 
-**Mandarin Tours for Feb and Mar 2020**
+***Mandarin Tours for Feb and Mar 2020***
 
 Time - 11:30am<br>
    15 Feb<br>

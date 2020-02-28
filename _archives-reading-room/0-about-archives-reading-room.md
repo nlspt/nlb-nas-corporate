@@ -22,8 +22,6 @@ Closed on Public Holidays
 
 Weekdays: 10am – 6:30pm
 
-Saturdays: 10am – 1pm
-
-Excluding Sundays, Public Holidays and substituted Public Holidays
+Staff service not available on Saturdays, Sundays, Public Holidays and substituted Public Holidays
 
 Closed at 1pm on eves of Christmas, New Year and Chinese New Year

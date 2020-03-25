@@ -5,7 +5,7 @@ url: https://corporate.nas.gov.sg
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@master-ie-fix
 safe: false
 
 plugins:

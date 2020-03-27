@@ -17,7 +17,7 @@ Tour schedules are subject to changes.
 
 #### DAILY GUIDED TOURS
 
-All daily guided tours have been suspended till further notice.
+All daily guided tours are suspended till further notice.
 
 
 

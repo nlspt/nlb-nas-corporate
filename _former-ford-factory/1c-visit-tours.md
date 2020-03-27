@@ -17,22 +17,7 @@ Tour schedules are subject to changes.
 
 #### DAILY GUIDED TOURS
 
-**English Tours**
-
-Tuesday to Friday<br>
-2.30pm
-
-Saturday and Sunday<br>
-11am & 3.30pm
-
-
-
-**Mandarin Tours on Saturdays at 11:30am**
-
-9 Nov 2019<br>
-23 Nov 2019<br>
-7 Dec 2019<br>
-21 Dec 2019
+All daily guided tours have been suspended till further notice.
 
 
 

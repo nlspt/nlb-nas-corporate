@@ -7,7 +7,7 @@ collection_name: former-ford-factory
 second_nav_title: "What's On"
 ---
 
-![Former Ford Factory Mobile App](/images/formerford/mobileapp.jpg)
+![Former Ford Factory Mobile App](/images/formerford/NAS-FFF-QR.jpg)
 
 ### THE EXHIBITION
 

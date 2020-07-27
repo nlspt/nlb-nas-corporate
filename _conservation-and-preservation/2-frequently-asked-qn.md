@@ -1,3 +1,11 @@
+---
+layout: leftnav-page-content
+title: Frequently Asked Questions 
+permalink: /conservation-and-preservation/frequently-asked-qn/
+breadcrumb: Frequently Asked Questions
+collection_name: conservation-and-preservation
+---
+
 **What is the difference between preservation and conservation?**
 
 Preservation is the protection of cultural properties through activities that minimise chemical and physical deterioration and damage to prevent loss of informational content; its primary goal is to prolong the existence of cultural property and it encompasses conservation. 
@@ -178,4 +186,4 @@ Northeast Document Conservation Center (NEDCC) – [https://www.nedcc.org](https
 
 The Book & Paper Gathering – [https://thebookandpapergathering.org](https://thebookandpapergathering.org/)  
 
-The Conservation Center – <http://www.theconservationcenter.com/articl
+The Conservation Center – <http://www.theconservationcenter.com/article> 

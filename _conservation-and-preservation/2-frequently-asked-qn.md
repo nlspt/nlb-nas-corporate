@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Frequently Asked Questions 
+title: Frequently Asked Questions
 permalink: /conservation-and-preservation/frequently-asked-qn/
 breadcrumb: Frequently Asked Questions
 collection_name: conservation-and-preservation
@@ -18,7 +18,7 @@ Conservation is the preservation of cultural property for the future, with a foc
 
 **How do I preserve my collections?**
 
-·       Generally, most materials prefer a stable environment that is cool and dry (refer to specific format under Collections Care).
+·       Generally, most materials prefer a stable environment that is cool and dry, which will differ based on the material type and its format.
 
 ·       Keep away from direct sunlight, heat, water, and food sources.
 
@@ -146,7 +146,7 @@ We do not advise its removal without professional guidance. You can prevent foxi
 
 **Does NAS or NLB offers courses or training on preservation?**
 
-No, we do not offer courses but we do hold talks on preservation and collection care. You can refer to the links below for more information regarding webinars, online courses and resources.
+No, we do not offer courses but we do hold talks on preservation and collection care. You can refer to the Selected Resources below for more information regarding conservation webinars, online courses, and resources.
 
  
 
@@ -172,18 +172,18 @@ Depending on the type of your collection and your needs, you can approach art ga
 
 **SELECTED RESOURCES:**
 
-AIC FAIC – <https://learning.culturalheritage.org/public> 
+AIC FAIC <https://learning.culturalheritage.org/public> 
 
-AIC Wiki – <http://www.conservation-wiki.com/wiki/Main_Page> 
+AIC Wiki <http://www.conservation-wiki.com/wiki/Main_Page> 
 
-Canadian Conservation Institute – <https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes.html> 
+Canadian Conservation Institute <https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes.html> 
 
-Connecting to Collections Care – <http://www.connectingtocollections.org/resources> 
+Connecting to Collections Care <http://www.connectingtocollections.org/resources> 
 
-Library of Congress  – <https://www.loc.gov/preservation/> 
+Library of Congress <https://www.loc.gov/preservation/> 
 
-Northeast Document Conservation Center (NEDCC) – [https://www.nedcc.org](https://www.nedcc.org/) 
+Northeast Document Conservation Center (NEDCC) [https://www.nedcc.org](https://www.nedcc.org/) 
 
-The Book & Paper Gathering – [https://thebookandpapergathering.org](https://thebookandpapergathering.org/)  
+The Book & Paper Gathering [https://thebookandpapergathering.org](https://thebookandpapergathering.org/)  
 
-The Conservation Center – <http://www.theconservationcenter.com/article> 
+The Conservation Center <http://www.theconservationcenter.com/article> 

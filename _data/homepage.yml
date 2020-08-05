@@ -42,6 +42,13 @@ key-highlights:
 # Info Sections
 info-sections:
   - section-title: Features
+    section-subtitle: Blast From The Past
+    section-more-button: View Blast from the Past
+    section-description: “Blast from the Past” is a series that highlights some of Singapore’s shared experiences through the collections of the National Archives of Singapore.  Browse through our curated selection of photos, audiovisual content, declassified government files and oral history excerpts to find out more on Singapore’s past experiences.
+    section-more-button-url: http://www.nas.gov.sg/archivesonline/blastfromthepast/   
+    section-image-path: /images/bftp.jpg
+    section-image-alt: Blast From The Past
+  - section-title: Features
     section-subtitle: NAS 50 Moments in Time
     section-more-button: Explore Memories
     section-description: The National Archives of Singapore presents a selection of audiovisual materials and oral history interviews that we have collected and judiciously preserved over the past 50 years for you and our future generations. They capture the times that Singaporeans celebrated, stood up proudly and even cried. Travel to scenes that have vanished and enjoy the treasured memories of Singaporeans from different walks of life.

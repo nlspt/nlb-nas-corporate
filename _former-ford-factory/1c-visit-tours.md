@@ -7,9 +7,7 @@ collection_name: former-ford-factory
 second_nav_title: "Visit"
 ---
 
-Inline with safe reopening measures under Phase 2, all daily guided tours will be temporarily suspended. All visits to Fomer Ford Factory are via online booking only.
-To make a booking and for more information on our online booking sytem, please go to: 
-go.gov.sg/library-visit-booking
+Inline with safe reopening measures under Phase 2, all daily guided tours will be temporarily suspended. All visits to Fomer Ford Factory are via online booking only.To make a booking and for more information on our online booking sytem, please go to: go.gov.sg/library-visit-booking
 
 
 Join our walk in tours led by volunteer guides to learn more about war and its legacies, and discover the stories behind the rich collections on display! Tours are complimentary though [admission charges may apply](/former-ford-factory/visit/opening-hours/).
@@ -34,7 +32,8 @@ Stay tuned for updates on special curator tours.
 
 ### GROUP VISITS
 
-Please fill out the form below if you would like to request for a tour for your school or organisation. Charges may apply for the request of a guide. Please note that the last group visit is at 4.00pm.
+Please fill out the form below if you would like to request for a tour for your school or organisation. Charges may apply for the request of a guide.
+Please note that the last group visit is at 4.00pm.
 
 Booking of visits are on a first come first served basis. Request early to avoid disappointment! For enquiries on group visits, please email [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg)
 

@@ -8,7 +8,7 @@ second_nav_title: "Visit"
 ---
 ### OPENING HOURS
 
-Inline with safe reopening measures under Phase 2, The Former Ford Factory will open from 11:00 am to 4:00 pm. All visits to Fomer Ford Factory are via online booking only.
+Inline with safe reopening measures under Phase 2, The Former Ford Factory will open from 11:00am to 4:00pm daily, except Mondays. All visits to Fomer Ford Factory are via online booking only.
 
 To make a booking and for more information on online booking, please go to: go.gov.sg/library-visit-booking
 

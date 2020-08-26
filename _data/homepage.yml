@@ -49,6 +49,13 @@ info-sections:
     section-image-path: /images/BFTPpic.jpg
     section-image-alt: Blast from the Past
   - section-title: Features
+    section-subtitle: Reflections of Yesteryear
+    section-more-button: Explore Memories
+    section-description: The series gives insights into the early years of Singapore’s independence, and shows some of the challenges faced and conquered. These speeches and interviews preserved by the National Archives of Singapore convey messages of strength and hope. They are particularly relevant to us in this current time, as the nation celebrates another year of nationhood, in the midst of a historic health and economic situation.
+    section-more-button-url:    
+    section-image-path: /images/reflectionsystyear.jpg
+    section-image-alt: NAS 50 Moments in Time
+  - section-title: Features
     section-subtitle: NAS 50 Moments in Time
     section-more-button: Explore Memories
     section-description: The National Archives of Singapore presents a selection of audiovisual materials and oral history interviews that we have collected and judiciously preserved over the past 50 years for you and our future generations. They capture the times that Singaporeans celebrated, stood up proudly and even cried. Travel to scenes that have vanished and enjoy the treasured memories of Singaporeans from different walks of life.

@@ -71,10 +71,6 @@ Question:
  
 
 
-
-
-
-
 **Surviving the Occupation – Food Shortages**
 
 After the British surrender, Singapore was renamed Syonan-to, or ‘Light of the South’. The Japanese Occupation was a difficult period for the people who suffered greatly. 
@@ -84,7 +80,6 @@ Food shortage was a common occurrence during wartime and people had to grow thei
  
 
 <picture of Syonan times cover> 
-
 
 
 **>> Activity 3** 

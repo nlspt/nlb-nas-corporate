@@ -29,12 +29,13 @@ The first bombs dropped on Singapore on 1 February 1942, shortly after 4am. Japa
 
 2 weeks later, and after very intense fighting, the British troops were exhausted and were low on supplies such as ammunition, petrol, water and food. Lieutenant-General Arthur E. Percival then made the difficult decision to surrender Singapore to the Japanese.
 
-**![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)** 
+![British troops](/images/children/britishmarching.jpg)
+
  The British surrender party marching to the Japanese military headquarters. (image source: NAS Archives online)
 
 The official surrender took place on **February 15, 1942** at the Japanese military headquarters located at the Ford Factory in Upper Bukit Timah. 
 
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg) 
+![Surrender Negotiations](/images/children/surrendernegotiations.jpg)
  The surrender negotiations between the Japanese Imperial Army and the British surrender party. (image source: NAS archives online)
 
  
@@ -45,21 +46,7 @@ The photos you see above can be found on the NAS Archives Online website. Try yo
 
 Try using the following keywords to search for some images on the Japanese Occupation .
 
-  
-
-|      |                                                              |                                                              |                                                              |      |      |      |      |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- | ---- | ---- | ---- |
-|      | ![Rounded Rectangle: Japanese invasion](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image005.gif) |                                                              | ![Rounded Rectangle: General Yamashita ](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) |      |      |      |      |
-|      |                                                              | ![Rounded Rectangle: Lieutenant Percival ](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image007.gif) |                                                              |      |      |      |      |
-|      |                                                              | ![Rounded Rectangle: WW2](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif) |                                                              |      |      |      |      |
-|      |                                                              |                                                              |                                                              |      |      |      |      |
-|      |                                                              |                                                              |                                                              |      |      |      |      |
-
- 
-
-
-
- 
+  ![Activity 1](/images/children/activity1.png)
 
  
 
@@ -67,11 +54,7 @@ Try using the following keywords to search for some images on the Japanese Occup
 
 Read the following excerpts from oral history interviews of people who lived through the Japanese Occupation.
 
-
-
- 
-
-
+  ![Activity 2](/images/children/activity2.png)
 
  
 
@@ -88,9 +71,9 @@ Question:
  
 
 
- 
 
- 
+
+
 
 **Surviving the Occupation – Food Shortages**
 
@@ -102,7 +85,7 @@ Food shortage was a common occurrence during wartime and people had to grow thei
 
 <picture of Syonan times cover> 
 
- 
+
 
 **>> Activity 3** 
 

@@ -1,14 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Children's Season 2020
-permalink: /former-ford-factory/childrenseason/
+permalink: /outreach/childrenseason/
 breadcrumb: Children's Season
-collection_name: former-ford-factory
+collection_name: outreach
 ---
 
-### CHILDREN'S SEASON 2020
-
-**Children’s Season 2020**
+  ![Children Programme](/images/ChildProgramme.jpg)
 
 Write up on CS2020 + link to the scavenger hunt (NHB to provide)
 

@@ -8,7 +8,7 @@ collection_name: outreach
 
 <img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:900px;"/>
 
-**Children’s Season 2020**
+#### **Children’s Season 2020**
 
 Did you know that Singapore was once involved a war? Do you know how, why and when it started? Or who we fought against? Food was scarce during the war – do you have any idea what people ate then?
 

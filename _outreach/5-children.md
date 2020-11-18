@@ -87,11 +87,9 @@ Did you know that you can also find many digital resources on the Japanese Occup
 
 Explore these resources and dig up more information for your own discovery of Singapore history!
 
-·       [NAS Archives online](https://www.nas.gov.sg/archivesonline/)
-
-·       [Off the Record](https://corporate.nas.gov.sg/media/)
-
-·       [NewspaperSG (Syonan Shimbun)](https://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=syonantimes&tvw=DG)
+- [NAS Archives online](https://www.nas.gov.sg/archivesonline/)
+-  [Off the Record](https://corporate.nas.gov.sg/media/)
+- [NewspaperSG (Syonan Shimbun)](https://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=syonantimes&tvw=DG)
 
  
 

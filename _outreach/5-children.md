@@ -6,7 +6,7 @@ breadcrumb: Children's Season
 collection_name: outreach
 ---
 
-<img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:700px;"/>
+<img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:900px;"/>
 
 **Children’s Season 2020**
 
@@ -34,19 +34,17 @@ The official surrender took place on **15 February 1942** at the Japanese milita
 
 The two photos above can be found on the [NAS Archives Online website](https://www.nas.gov.sg/archivesonline/photographs/). Try your hand at searching for images on the war and Japanese Occupation by using the following keywords.
 
- ![1605677588907](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677588907.png)
+<img src="/images/children/1605677588907.png" alt="Activity 1 war"/>
 
-
-
-![1605677643560](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677643560.png)
+<img src="/images/children/1605677643560.png" alt="Activity 2"/>
 
 Read the following excerpts from oral history interviews of people who lived through and survived the Japanese Occupation.
 
-![1605677688030](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677688030.png)
+<img src="/images/children/1605677688030.png" alt="Activity 2 excerpt 1"/>
+
+<img src="/images/children/1605677721677.png" alt="Activity 2 excerpt 2"/>
 
 
-
-![1605677721677](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677721677.png)
 
 **Reflections**
 
@@ -56,21 +54,15 @@ Read the following excerpts from oral history interviews of people who lived thr
 
 3. Did you know that Total Defence Day coincides with the surrender date of 15 February every year? Does the Total Defence siren today sound the same as the air raid sirens of the past? Click [here](https://www.scdf.gov.sg/home/civil-defence-shelter/public-warning-system) to listen to the Total Defence siren. 
 
- 
+<img src="/images/children/1605721797229.png" alt="Surviving the Occupation Food Shortages"/>
 
- 
+<img src="/images/children/1605718568519.png" alt="About Food Shortages"/>
 
- 
-
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
-
-![1605718568519](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605718568519.png)
-
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
+<img src="/images/children/1605721916247.png" alt="School Children Join In growing more food"/>
 
 *Retrieved from* [*NewspaperSG*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19440414-1.2.20)
 
-**![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)** 
+<img src="/images/children/1605722059723.png" alt="Activity 3"/>
 
 Listen to the oral history interview with Abu Bakar Bin Ali, a Japanese Occupation survivor.  
 
@@ -78,25 +70,19 @@ Listen to the oral history interview with Abu Bakar Bin Ali, a Japanese Occupati
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/eKzsqr37imw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<img src="/images/children/1605718640116.png" alt="Growing Food"/>
 
+<img src="/images/children/1605722171435.png" alt="war time recipe"/>
 
-![1605718640116](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605718640116.png)
+ <img src="/images/children/1605722242661.png" alt="bonus activity"/>
 
- ![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image030.gif)
-
- 
-
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg)
-
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)
+<img src="/images/children/1605722302377.png" alt="visit us"/>
 
 Fancy going back in time to learn more about the Japanese Occupation of Singapore? You can visit the actual site of surrender and view the exhibition, *Surviving the Japanese Occupation: War and Its Legacies* at the Former Ford Factory.  
 
 Click [here](https://corporate.nas.gov.sg/former-ford-factory/overview/) to find out more about the Former Ford Factory and its opening hours. 
 
- 
-
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image036.jpg)
+ <img src="/images/children/1605722361305.png" alt="Resources"/>
 
 Did you know that you can also find many digital resources on the Japanese Occupation from NAS and NLB websites? 
 

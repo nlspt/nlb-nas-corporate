@@ -30,8 +30,6 @@ The official surrender took place on **15 February 1942** at the Japanese milita
 
 <img src="/images/children/1605677553475.png" alt="Activity 1"/>
 
-![1605677553475](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677553475.png)
-
 The two photos above can be found on the [NAS Archives Online website](https://www.nas.gov.sg/archivesonline/photographs/). Try your hand at searching for images on the war and Japanese Occupation by using the following keywords.
 
 <img src="/images/children/1605677588907.png" alt="Activity 1 war"/>
@@ -67,8 +65,9 @@ Read the following excerpts from oral history interviews of people who lived thr
 Listen to the oral history interview with Abu Bakar Bin Ali, a Japanese Occupation survivor.  
 
  <div class="bp-youtube">
+<iframe width="1280" height="720" src="https://
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/eKzsqr37imw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+www.youtube.com/embed/eKzsqr37imw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <img src="/images/children/1605718640116.png" alt="Growing Food"/>
 

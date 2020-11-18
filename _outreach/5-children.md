@@ -6,7 +6,7 @@ breadcrumb: Children's Season
 collection_name: outreach
 ---
 
-![1605677377788](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677377788.png)
+<img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:500px;"/>
 
 **Children’s Season 2020**
 
@@ -16,7 +16,7 @@ This Children’s Season, we’ve prepared a special edition of online activitie
 
 **Suitable for children aged 7 – 12 years old*
 
-![1605677473466](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677473466.png)
+<img src="/images/children/1605677473466.png" alt="The Fall of Singapore"/>
 
 The first bombs dropped on Singapore on **8 December 1941**, shortly after 4am. Japanese planes and naval ships bombed Chinatown, Raffles Place and the Seletar and Tengah airfields. 
 

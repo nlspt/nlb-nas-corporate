@@ -6,7 +6,7 @@ breadcrumb: Children's Season
 collection_name: outreach
 ---
 
-<img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:500px;"/>
+<img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:700px;"/>
 
 **Children’s Season 2020**
 
@@ -22,11 +22,13 @@ The first bombs dropped on Singapore on **8 December 1941**, shortly after 4am. 
 
 By February the following year, the British troops were exhausted and running low on supplies such as ammunition, petrol, water and food. British Army Commander, Lieutenant-General Arthur E. Percival, then made the difficult decision to surrender Singapore to the Japanese.
 
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+<img src="/images/children/1605721085172.png" alt="British Surrender Party"/>
 
 The official surrender took place on **15 February 1942** at the Japanese military headquarters located at the Ford Factory in Upper Bukit Timah. 
 
-![img](file:///C:/Users/user/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg)
+<img src="/images/children/1605721158973.png" alt="Surrender Negotiations"/>
+
+<img src="/images/children/1605677553475.png" alt="Activity 1"/>
 
 ![1605677553475](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1605677553475.png)
 

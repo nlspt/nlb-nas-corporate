@@ -54,7 +54,7 @@ Read the following excerpts from oral history interviews of people who lived thr
 
 <img src="/images/children/1605718568519.png" alt="About Food Shortages"/>
 
-<img src="/images/children/1605883729630.png" alt="School Children Join In growing more food"/>
+<img src="/images/children/1605885919162.png" alt="School Children Join In growing more food"/>
 
 *Retrieved from* [*NewspaperSG*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19440414-1.2.20)
 

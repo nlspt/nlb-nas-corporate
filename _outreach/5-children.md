@@ -8,15 +8,13 @@ collection_name: outreach
 
 <img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:900px;"/>
 
-#### **Children’s Season 2020**
-
 Did you know that Singapore was once involved a war? Do you know how, why and when it started? Or who we fought against? Food was scarce during the war – do you have any idea what people ate then?
 
 This Children’s Season, we’ve prepared a special edition of online activities “at” the Former Ford Factory (FFF). Parents and children* can learn about life during the Japanese Occupation in Singapore, the hardships our forefathers endured as well as listen to powerful survivor stories. Read on and try these activities for yourself. Enjoy! 
 
 **Suitable for children aged 7 – 12 years old*
 
-<img src="/images/children/1605677473466.png" alt="The Fall of Singapore"/>
+<img src="/images/children/1605885158313.png" alt="The Fall of Singapore"/>
 
 The first bombs dropped on Singapore on **8 December 1941**, shortly after 4am. Japanese planes and naval ships bombed Chinatown, Raffles Place and the Seletar and Tengah airfields. 
 
@@ -56,7 +54,7 @@ Read the following excerpts from oral history interviews of people who lived thr
 
 <img src="/images/children/1605718568519.png" alt="About Food Shortages"/>
 
-<img src="/images/children/1605721916247.png" alt="School Children Join In growing more food"/>
+<img src="/images/children/1605883729630.png" alt="School Children Join In growing more food"/>
 
 *Retrieved from* [*NewspaperSG*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19440414-1.2.20)
 
@@ -69,9 +67,11 @@ Listen to the oral history interview with Abu Bakar Bin Ali, a Japanese Occupati
 
 www.youtube.com/embed/eKzsqr37imw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
-<img src="/images/children/1605718640116.png" alt="Growing Food"/>
+<img src="/images/children/1605883917124.png" alt="Growing Food"/>
 
-<img src="/images/children/1605722171435.png" alt="war time recipe"/>
+<img src="/images/children/1605884095803.png" alt="ondeh ondeh recipe"/>
+
+<img src="/images/children/1605884182080.png" alt="bergedil recipe"/>
 
  <img src="/images/children/1605722242661.png" alt="bonus activity"/>
 

@@ -6,7 +6,7 @@ breadcrumb: Children's Season
 collection_name: outreach
 ---
 
-<img src="/images/children/1605677377788.png" alt="When War Came to Singapore" style="width:900px;"/>
+<img src="/images/children/csmainbanner.png" alt="When War Came to Singapore" style="width:900px;"/>
 
 Did you know that Singapore was once involved a war? Do you know how, why and when it started? Or who we fought against? Food was scarce during the war – do you have any idea what people ate then?
 
@@ -54,7 +54,7 @@ Read the following excerpts from oral history interviews of people who lived thr
 
 <img src="/images/children/1605718568519.png" alt="About Food Shortages"/>
 
-<img src="/images/children/1605885919162.png" alt="School Children Join In growing more food"/>
+<img src="/images/children/1605885919162.png" alt="School Children Join In growing more food" style="width:300px;"/>
 
 *Retrieved from* [*NewspaperSG*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19440414-1.2.20)
 
@@ -69,9 +69,9 @@ www.youtube.com/embed/eKzsqr37imw" frameborder="0" allow="accelerometer; autopla
 
 <img src="/images/children/1605883917124.png" alt="Growing Food"/>
 
-<img src="/images/children/1605884095803.png" alt="ondeh ondeh recipe"/>
+<img src="/images/children/ondeh.jpg" alt="ondeh ondeh recipe"/>
 
-<img src="/images/children/1605884182080.png" alt="bergedil recipe"/>
+<img src="/images/children/bergadil.jpg" alt="bergedil recipe"/>
 
  <img src="/images/children/1605722242661.png" alt="bonus activity"/>
 

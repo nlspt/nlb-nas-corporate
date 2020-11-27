@@ -14,7 +14,9 @@ This Children’s Season, we’ve prepared a special edition of online activitie
 
 **Suitable for children aged 7 – 12 years old*
 
-![museum roundtable](C:\Users\user\Desktop\nas corporate latest\nlb-nas-corporate\images\children\1606497059767.png) 										   Click [here](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/children-season-2020) to visit. 
+
+
+<img src="/images/children/1606497059767.png" alt="Museum Roundtable"/> Click [here](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/children-season-2020) to visit. 
 
 <img src="/images/children/1605885158313.png" alt="The Fall of Singapore"/>
 

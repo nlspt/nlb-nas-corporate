@@ -10,8 +10,6 @@ favicon: /images/favicon-nas.ico
 # Agency logo
 agency-logo: /images/naslogo.png
 
-
-
 # Hero Banner
 hero-title:             
 hero-subtitle:
@@ -25,7 +23,6 @@ hero-banner: /images/openingchangev2.jpg
 
 #Highlights
 key-highlights:
-
   - title: Citizen Archivist
     url: http://www.nas.gov.sg/citizenarchivist
     external: true
@@ -52,7 +49,7 @@ info-sections:
     section-subtitle: Educational TV
     section-more-button: More on Educational TV
     section-description: Today, holistic learning in schools extends beyond the classroom, with a focus on new skills like programming and coding. But back in the 1960s, schools were already embarking on this concept with a series of educational videos to expand students’ horizons beyond school curriculum. Browse through a selection of Educational Television (ETV) programmes produced by the Curriculum Development Institute of Singapore (CDIS) and its predecessors from 1967-1983.
-    section-more-button-url: www.nas.gov.sg/archivesonline/etv
+    section-more-button-url: https://www.nas.gov.sg/archivesonline/etv
     section-image-path: /images/oldtvbanner.png
     section-image-alt: Educational TV
   - section-title: Features
@@ -68,7 +65,7 @@ info-sections:
     section-description: The series gives insights into the early years of Singapore’s independence, and shows some of the challenges faced and conquered. These speeches and interviews preserved by the National Archives of Singapore convey messages of strength and hope. They are particularly relevant to us in this current time, as the nation celebrates another year of nationhood, in the midst of a historic health and economic situation.
     section-more-button-url: https://tv.mewatch.sg/en/shows/s/stories-of-singapore-reflections-of-yesteryear/episodes 
     section-image-path: /images/reflectionsystyear.jpg
-    section-image-alt: NAS 50 Moments in Time
+    section-image-alt: Reflections of Yesteryear
   - section-title: Features
     section-subtitle: NAS 50 Moments in Time
     section-more-button: Explore Memories

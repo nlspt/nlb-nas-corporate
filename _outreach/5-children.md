@@ -14,9 +14,7 @@ This Children’s Season, we’ve prepared a special edition of online activitie
 
 **Suitable for children aged 7 – 12 years old*
 
-
-
-<img src="/images/children/1606497059767.png" alt="Museum Roundtable"/> Click [here](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/children-season-2020) to visit. 
+You can also look out for a plethora of activities and educational programmes online, and at the Museum Roundtable museums and heritage galleries. Through the virtual character, Ai, children can look forward to playing an online hide-n-seek game that allows them to explore virtual museum spaces, discover clues to hidden treasures, and learn more about the fascinating stories behind the museums. Click [here](https://www.nhb.gov.sg/what-we-do/our-work/sector-development/museum-roundtable/children-season-2020) to visit. 
 
 <img src="/images/children/1605885158313.png" alt="The Fall of Singapore"/>
 

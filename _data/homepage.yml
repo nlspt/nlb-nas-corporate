@@ -38,14 +38,14 @@ key-highlights:
 
 # Info Sections
 info-sections:
-- section-title: Features
+  - section-title: Features
     section-subtitle: When War Came to Singapore
     section-more-button: Try Out The Activities
     section-description: "This Children’s Season, join us for the special online edition of activities from the Former Ford Factory. Parents and children can learn about life during the Japanese Occupation in Singapore and listen to powerful survivor stories."
     section-more-button-url: "https://corporate.nas.gov.sg/outreach/childrenseason/"
     section-image-path: /images/childrenseasonbanner.png
     section-image-alt: Children's Season
-- section-title: Features
+  - section-title: Features
     section-subtitle: Educational TV
     section-more-button: More on Educational TV
     section-description: Today, holistic learning in schools extends beyond the classroom, with a focus on new skills like programming and coding. But back in the 1960s, schools were already embarking on this concept with a series of educational videos to expand students’ horizons beyond school curriculum. Browse through a selection of Educational Television (ETV) programmes produced by the Curriculum Development Institute of Singapore (CDIS) and its predecessors from 1967-1983.

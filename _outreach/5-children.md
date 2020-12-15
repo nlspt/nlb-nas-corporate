@@ -8,7 +8,7 @@ collection_name: outreach
 
 <img src="/images/children/csmainbanner.png" alt="When War Came to Singapore" style="width:900px;"/>
 
-Did you know that Singapore was once involved a war? Do you know how, why and when it started? Or who we fought against? Food was scarce during the war – do you have any idea what people ate then?
+Did you know that Singapore was once involved in a war? Do you know how, why and when it started? Or who we fought against? Food was scarce during the war – do you have any idea what people ate then?
 
 This Children’s Season, we’ve prepared a special edition of online activities “at” the Former Ford Factory (FFF). Parents and children* can learn about life during the Japanese Occupation in Singapore, the hardships our forefathers endured as well as listen to powerful survivor stories. Read on and try these activities for yourself. Enjoy! 
 

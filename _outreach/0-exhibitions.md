@@ -50,7 +50,7 @@ Free
 
 
 ### Enquiries
-NAS@nlb.gov.sg  
+NAS@nlb.gov.sg mailto:NAS@nlb.gov.sg?subject=Enquiry - Law of the Land) 
 
   
 

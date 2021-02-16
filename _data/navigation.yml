@@ -6,6 +6,7 @@
 
 - title: About Us
   url: /about-us/mandate/
+  false_collection: true
   sub-links:
   - title: Mandate
     url: /about-us/mandate/
@@ -21,6 +22,7 @@
 - title: Discover Archives
   url: http://www.nas.gov.sg/archivesonline/
   external: true
+  false_collection: true
   sub-links:
   - title: Archives Online
     url: http://www.nas.gov.sg/archivesonline/

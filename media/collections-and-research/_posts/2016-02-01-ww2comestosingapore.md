@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "WWII Comes to Singapore"
-date: 2016-02-01
-permalink: "/media/collections-and-research/ww2comestosingapore"
+title: 'WWII Comes to Singapore'
+date: 2016-02-01T00:00:00.000Z
+permalink: /media/collections-and-research/ww2comestosingapore
+
 ---
+
 
 # WWII comes to Singapore
 

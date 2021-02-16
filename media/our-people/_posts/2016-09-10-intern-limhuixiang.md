@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Interns Reflections - Lim Hui Xiang"
-date: 2016-09-10
-permalink: "/media/finding-aids/intern-limhuixiang"
+title: 'Interns Reflections - Lim Hui Xiang'
+date: 2016-09-10T00:00:00.000Z
+permalink: /media/finding-aids/intern-limhuixiang
+
 ---
+
 
 # Interns Reflections – Lim Hui Xiang
 

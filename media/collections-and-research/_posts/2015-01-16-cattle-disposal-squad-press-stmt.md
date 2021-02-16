@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Cattle Disposal Squad Press Statement, 1965"
-date: 2015-01-16
-permalink: "/media/collections-and-research/cattle-disposal-squad-press-stmt"
+title: 'Cattle Disposal Squad Press Statement, 1965'
+date: 2015-01-16T00:00:00.000Z
+permalink: /media/collections-and-research/cattle-disposal-squad-press-stmt
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577951554338&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=24&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fcattle-disposal-squad-press-statement-1965%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F01%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

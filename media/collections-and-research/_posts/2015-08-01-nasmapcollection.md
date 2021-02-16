@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Introducing the NAS Map Collection"
-date: 2015-08-01
-permalink: "/media/collections-and-research/nasmapcollection"
+title: 'Introducing the NAS Map Collection'
+date: 2015-08-01T00:00:00.000Z
+permalink: /media/collections-and-research/nasmapcollection
+
 ---
+
 
 # Introducing the NAS Map Collection
 

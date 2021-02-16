@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Children's Season 2020
+title: 'Children''s Season 2020'
 permalink: /outreach/childrenseason/
-breadcrumb: Children's Season
-collection_name: outreach
+breadcrumb: 'Children''s Season'
+
 ---
+
 
 <img src="/images/children/csmainbanner.png" alt="When War Came to Singapore" style="width:900px;"/>
 

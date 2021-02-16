@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "The Ronni Pinsler Collection"
-date: 2015-10-15
-permalink: "/media/collections-and-research/ronnipinsler"
+title: 'The Ronni Pinsler Collection'
+date: 2015-10-15T00:00:00.000Z
+permalink: /media/collections-and-research/ronnipinsler
+
 ---
+
 
 # The Ronni Pinsler Collection
 

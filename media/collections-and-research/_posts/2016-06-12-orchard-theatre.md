@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Orchard Theatre"
-date: 2015-05-07
-permalink: "/media/collections-and-research/orchard-theatre"
+title: 'Orchard Theatre'
+date: 2015-05-07T00:00:00.000Z
+permalink: /media/collections-and-research/orchard-theatre
+
 ---
+
 
 # Orchard Theatre
 

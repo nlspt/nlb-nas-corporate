@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "PM's New Year Message, 1982"
-date: 2016-10-22
-permalink: "/media/collections-and-research/pm's-new-year-message"
+title: 'PM''s New Year Message, 1982'
+date: 2016-10-22T00:00:00.000Z
+permalink: '/media/collections-and-research/pm''s-new-year-message'
+
 ---
+
 
 # PM’s New Year Message, 1982
 

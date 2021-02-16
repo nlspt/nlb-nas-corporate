@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Interns Reflections - Mandy Lee"
-date: 2016-09-10
-permalink: "/media/finding-aids/intern-mandy"
+title: 'Interns Reflections - Mandy Lee'
+date: 2016-09-10T00:00:00.000Z
+permalink: /media/finding-aids/intern-mandy
+
 ---
+
 
 # Interns Reflections – Mandy Lee
 

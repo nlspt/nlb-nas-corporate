@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Centrepoint Kids"
-date: 2016-06-17
-permalink: "/media/collections-and-research/centrepoint-kids"
+title: 'Centrepoint Kids'
+date: 2016-06-17T00:00:00.000Z
+permalink: /media/collections-and-research/centrepoint-kids
+
 ---
+
 
 # Centrepoint Kids
 

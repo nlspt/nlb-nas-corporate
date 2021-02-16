@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Archives Conservation Laboratory
+title: 'Archives Conservation Laboratory'
 permalink: /conservation-and-preservation/archives-conservation-laboratory/
-breadcrumb: Archives Conservation Laboratory
-collection_name: conservation-and-preservation
+breadcrumb: 'Archives Conservation Laboratory'
+
 ---
+
 
 From a paper record repair workroom in early 1969 with 2 binders, the Archives Conservation Laboratory (ACL) has expanded to 7 permanent staff today. This small team is devoted to conserving paper-based archival records which dates back to 1800s, covering materials such as manuscripts, bound volumes, maps, architectural drawings, photographs, to posters. 
 

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "A Foreign Policy Outlined: S Rajaratnam speaks at Singapore's admission to The U.N."
-date: 2016-10-21
-permalink: "/media/collections-and-research/Foreign-policy-outline"
+title: 'A Foreign Policy Outlined: S Rajaratnam speaks at Singapore''s admission to The U.N.'
+date: 2016-10-21T00:00:00.000Z
+permalink: /media/collections-and-research/Foreign-policy-outline
+
 ---
+
 
 # A Foreign Policy Outlined: S Rajaratnam Speaks at Singapore’s Admission to the U.N.
 

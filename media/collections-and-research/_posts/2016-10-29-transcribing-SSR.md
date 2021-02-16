@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Guide To Transcribing Straits Settlements Records"
-date: 2016-10-29
-permalink: "/media/collections-and-research/transcribing-SSR"
+title: 'Guide To Transcribing Straits Settlements Records'
+date: 2016-10-29T00:00:00.000Z
+permalink: /media/collections-and-research/transcribing-SSR
+
 ---
+
 
 # Guide to Transcribing Straits Settlements Records
 

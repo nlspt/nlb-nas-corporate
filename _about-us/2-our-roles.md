@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Our Roles
+title: 'Our Roles'
 permalink: /about-us/our-roles/
-breadcrumb: Our Roles
-collection_name: about-us
+breadcrumb: 'Our Roles'
+
 ---
+
 
 ## About the National Archives of Singapore
 The National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved. 

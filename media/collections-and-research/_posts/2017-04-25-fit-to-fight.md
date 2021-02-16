@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Fit to Fight: Reservists On The Frontline"
-date: 2017-04-25
-permalink: "/media/collections-and-research/fit-to-fight"
+title: 'Fit to Fight: Reservists On The Frontline'
+date: 2017-04-25T00:00:00.000Z
+permalink: /media/collections-and-research/fit-to-fight
+
 ---
+
 
 # Fit to fight: Reservists on the frontline
 

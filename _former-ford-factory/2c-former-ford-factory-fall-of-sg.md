@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Fall of Singapore
+title: 'Fall of Singapore'
 permalink: /former-ford-factory/whatson/exhibition-fall-of-sg/
-breadcrumb: Fall of Singapore
-collection_name: former-ford-factory
-second_nav_title: "What's On"
+breadcrumb: 'Fall of Singapore'
+third_nav_title: 'What''s On'
+
 ---
+
 
 ![Fall of Singapore](/images/formerford/yellowmap.png)
 

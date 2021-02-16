@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Oral History Interview with Dollah Kassim on 1977 Malaysia Cup Win, Recorded in 2003"
-date: 2015-05-15
-permalink: "/media/collections-and-research/dollahkassim"
+title: 'Oral History Interview with Dollah Kassim on 1977 Malaysia Cup Win, Recorded in 2003'
+date: 2015-05-15T00:00:00.000Z
+permalink: /media/collections-and-research/dollahkassim
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953302911&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=26&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fdollah-kassim%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F05%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

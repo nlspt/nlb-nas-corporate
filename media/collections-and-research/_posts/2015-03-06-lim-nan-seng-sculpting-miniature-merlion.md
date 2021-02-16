@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Mr Lim Nang Seng Sculpting a Miniature Merlion Statue, 1972"
-date: 2015-03-06
-permalink: "/media/collections-and-research/lim-nan-seng-sculpting-miniature-merlion"
+title: 'Mr Lim Nang Seng Sculpting a Miniature Merlion Statue, 1972'
+date: 2015-03-06T00:00:00.000Z
+permalink: /media/collections-and-research/lim-nan-seng-sculpting-miniature-merlion
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577952223359&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=54&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmr-lim-nang-seng-sculpting-a-miniature-merlion-statue-1972%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F03%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

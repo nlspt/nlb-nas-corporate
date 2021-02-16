@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Turbo-charging the Armed Forces"
-date: 2017-03-15
-permalink: "/media/collections-and-research/turbocharging-armed-forces"
+title: 'Turbo-charging the Armed Forces'
+date: 2017-03-15T00:00:00.000Z
+permalink: /media/collections-and-research/turbocharging-armed-forces
+
 ---
+
 
 # Turbo-charging the armed forces
 

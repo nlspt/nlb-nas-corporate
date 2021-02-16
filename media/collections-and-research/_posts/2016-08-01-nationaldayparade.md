@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "The National Day Parade Through The Years, 1966-2012"
-date: 2016-08-01
-permalink: "/media/collections-and-research/nationaldayparade"
+title: 'The National Day Parade Through The Years, 1966-2012'
+date: 2016-08-01T00:00:00.000Z
+permalink: /media/collections-and-research/nationaldayparade
+
 ---
+
 
 # The National Day Parade Through the Years, 1966-2012
 

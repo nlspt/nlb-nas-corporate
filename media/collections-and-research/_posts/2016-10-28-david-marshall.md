@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "David Marshall: Singapore's First Chief Minister"
-date: 2016-10-28
-permalink: "/media/collections-and-research/david-marshall"
+title: 'David Marshall: Singapore''s First Chief Minister'
+date: 2016-10-28T00:00:00.000Z
+permalink: /media/collections-and-research/david-marshall
+
 ---
+
 
 # David Marshall: Singapore’s First Chief Minister
 

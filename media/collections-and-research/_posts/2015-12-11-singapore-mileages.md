@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Singapore, Mileages along Roads, 1936"
-date: 2015-12-11
-permalink: "/media/collections-and-research/singapore-mileages"
+title: 'Singapore, Mileages along Roads, 1936'
+date: 2015-12-11T00:00:00.000Z
+permalink: /media/collections-and-research/singapore-mileages
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577949980158&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=53&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fmileages%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

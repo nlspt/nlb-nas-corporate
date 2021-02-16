@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Island Of Stories: Singapore Maps"
-date: 2015-07-01
-permalink: "/media/collections-and-research/islandofstories"
+title: 'Island Of Stories: Singapore Maps'
+date: 2015-07-01T00:00:00.000Z
+permalink: /media/collections-and-research/islandofstories
+
 ---
+
 
 # ISLAND OF STORIES: SINGAPORE MAPS
 

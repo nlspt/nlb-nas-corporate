@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Aerial Photomap of Singapore Town, 1950"
-date: 2015-01-30
-permalink: "/media/collections-and-research/aerial-photomap-singapore-town"
+title: 'Aerial Photomap of Singapore Town, 1950'
+date: 2015-01-30T00:00:00.000Z
+permalink: /media/collections-and-research/aerial-photomap-singapore-town
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577951276923&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=26&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Faerial-photomap-of-singapore-town-1950-2%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F01%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Support
 permalink: /former-ford-factory/support/
 breadcrumb: Support
-collection_name: former-ford-factory
+
 ---
+
 
 ### VOLUNTEER
 

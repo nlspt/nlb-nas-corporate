@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Surviving The Japanese Occupation: War and Its Legacies"
-date: 2016-02-02
-permalink: "/media/collections-and-research/survivingthejapaneseoccupation"
+title: 'Surviving The Japanese Occupation: War and Its Legacies'
+date: 2016-02-02T00:00:00.000Z
+permalink: /media/collections-and-research/survivingthejapaneseoccupation
+
 ---
+
 
 # SURVIVING THE JAPANESE OCCUPATION: WAR AND ITS LEGACIES
 

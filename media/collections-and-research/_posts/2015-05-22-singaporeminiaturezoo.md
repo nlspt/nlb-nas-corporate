@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Singapore Miniature Zoo, 1950s - 1960s"
-date: 2015-05-22
-permalink: "/media/collections-and-research/singaporeminiaturezoo"
+title: 'Singapore Miniature Zoo, 1950s - 1960s'
+date: 2015-05-22T00:00:00.000Z
+permalink: /media/collections-and-research/singaporeminiaturezoo
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577953121516&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=72&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fminiature-zoo%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F05%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Exhibitions
 permalink: /outreach/exhibitions/
 breadcrumb: Exhibitions
-collection_name: outreach 
+
 ---
+
 ## Law of the Land: Highlights of Singapore’s Constitutional Documents
 
 <img src="/images/exhibitions/Poster.jpg" alt="Law of the Land Exhibition" style="width:450px;"/>

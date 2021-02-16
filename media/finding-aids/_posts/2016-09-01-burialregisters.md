@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "The Bukit Brown Cemetery Burial Registers"
-date: 2016-09-01
-permalink: "/media/finding-aids/burialregisters"
+title: 'The Bukit Brown Cemetery Burial Registers'
+date: 2016-09-01T00:00:00.000Z
+permalink: /media/finding-aids/burialregisters
+
 ---
+
 
 # The Bukit Brown Cemetery Burial Registers 1922 – 1972
 

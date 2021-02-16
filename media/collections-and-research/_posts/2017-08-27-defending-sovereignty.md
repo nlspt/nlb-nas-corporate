@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Defending Our Sovereignty"
-date: 2017-08-27
-permalink: "/media/collections-and-research/defending-sovereignty"
+title: 'Defending Our Sovereignty'
+date: 2017-08-27T00:00:00.000Z
+permalink: /media/collections-and-research/defending-sovereignty
+
 ---
+
 
 # Defending Our Sovereignty
 

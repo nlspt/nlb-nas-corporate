@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Scene at Singapore Botanic Gardens During Hari Raya Puasa, 1965"
-date: 2015-07-17
-permalink: "/media/collections-and-research/harirayapuasabotanicgardens"
+title: 'Scene at Singapore Botanic Gardens During Hari Raya Puasa, 1965'
+date: 2015-07-17T00:00:00.000Z
+permalink: /media/collections-and-research/harirayapuasabotanicgardens
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16985&amp;cid=c010#rnd=1577955358692&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=163&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16985&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fhari-raya-puasa%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F07%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

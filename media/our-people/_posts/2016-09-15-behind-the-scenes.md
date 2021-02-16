@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Behind the Scenes with Abigail Huang Reference Archivist"
-date: 2016-09-15
-permalink: "/media/finding-aids/behind-the-scenes"
+title: 'Behind the Scenes with Abigail Huang Reference Archivist'
+date: 2016-09-15T00:00:00.000Z
+permalink: /media/finding-aids/behind-the-scenes
+
 ---
+
 
 # Behind-the-Scenes With Abigail Huang Reference Archivist!
 

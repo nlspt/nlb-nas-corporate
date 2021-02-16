@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Legacies of War
+title: 'Legacies of War'
 permalink: /former-ford-factory/whatson/exhibition-legacies/
-breadcrumb: Legacies of War
-collection_name: former-ford-factory
-second_nav_title: "What's On"
+breadcrumb: 'Legacies of War'
+third_nav_title: 'What''s On'
+
 ---
+
 
 ![Legacies of War](/images/formerford/bluemap.png)
 

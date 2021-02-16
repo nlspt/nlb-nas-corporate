@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Calendar Of Events
+title: 'Calendar Of Events'
 permalink: /outreach/calendar-of-events/
-breadcrumb: Calendar Of Events
-collection_name: outreach
+breadcrumb: 'Calendar Of Events'
+
 ---
+
 
 ## LATEST EVENTS
 

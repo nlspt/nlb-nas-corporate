@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "Personal Records of War and Occupation"
-date: 2015-10-25
-permalink: "/media/collections-and-research/personal-records"
+title: 'Personal Records of War and Occupation'
+date: 2015-10-25T00:00:00.000Z
+permalink: /media/collections-and-research/personal-records
+
 ---
+
 
 # Personal records of war and Occupation
 

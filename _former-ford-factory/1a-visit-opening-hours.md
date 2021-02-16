@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Opening Hours & Admission
+title: 'Opening Hours & Admission'
 permalink: /former-ford-factory/visit/opening-hours/
-breadcrumb: Opening Hours & Admission
-collection_name: former-ford-factory
-second_nav_title: "Visit"
+breadcrumb: 'Opening Hours & Admission'
+third_nav_title: Visit
+
 ---
+
 ### OPENING HOURS
 
 **Tuesday to Sunday:**<br>

@@ -1,9 +1,10 @@
 ---
-layout: post
-title: "The First Chingay Street Parade, 1973"
-date: 2015-02-20
-permalink: "/media/collections-and-research/first-chingay-street-parade"
+title: 'The First Chingay Street Parade, 1973'
+date: 2015-02-20T00:00:00.000Z
+permalink: /media/collections-and-research/first-chingay-street-parade
+
 ---
+
 
 <iframe id="pxcelframe" src="//t.sharethis.com/a/t_.htm?ver=0.345.16984&amp;cid=c010#rnd=1577951786837&amp;cid=c010&amp;dmn=www.nas.gov.sg&amp;tt=t.dhj&amp;dhjLcy=60&amp;lbl=pxcel&amp;flbl=pxcel&amp;ll=d&amp;ver=0.345.16984&amp;ell=d&amp;cck=__stid&amp;pn=%2Fblogs%2Farchivistpick%2Fthe-first-chingay-street-parade-1973%2F&amp;qs=na&amp;rdn=www.nas.gov.sg&amp;rpn=%2Fblogs%2Farchivistpick%2F2015%2F02%2F&amp;rqs=na&amp;cc=SG&amp;cont=AS&amp;ipaddr=" style="display: none;"></iframe>
 

@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Exhibition
 permalink: /former-ford-factory/whatson/exhibition/
 breadcrumb: Exhibition
-collection_name: former-ford-factory
-second_nav_title: "What's On"
+third_nav_title: 'What''s On'
+
 ---
+
 
 ![Former Ford Factory Mobile App](/images/formerford/NAS-FFF-QR.jpg)
 

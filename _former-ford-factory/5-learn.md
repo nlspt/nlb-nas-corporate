@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Learn
 permalink: /former-ford-factory/learn/
 breadcrumb: Learn
-collection_name: former-ford-factory
+
 ---
+
 
 ### RESOURCES
 

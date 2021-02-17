@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Tours
 permalink: /former-ford-factory/visit/tours/
 breadcrumb: Tours
-collection_name: former-ford-factory
-second_nav_title: "Visit"
+third_nav_title: Visit
+
 ---
+
 
 
 

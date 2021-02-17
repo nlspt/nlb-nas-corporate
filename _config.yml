@@ -1,60 +1,69 @@
-title: National Archives of Singapore
+title: 'National Archives of Singapore'
 title-abbreviated: NAS
-description:  The National Archives of Singapore (NAS) is the keeper of records of national or historical significance. 
-url: https://corporate.nas.gov.sg
-
-# Analytics
-google_analytics: UA-50447519-1
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: 'The National Archives of Singapore (NAS) is the keeper of records of national or historical significance.'
+url: 'https://corporate.nas.gov.sg'
+google_analytics: null
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 resources_name: media
 paginate: 12
-paginate_path: "/media/page:num"
-
-# Homepage sections
-homepage_hero_i_want_to: false # if i_want_to is true, there will be no key highlights
-homepage_resources: false
-
-# FAQ URL
-faq_url: http://www.ifaq.gov.sg/nlb/apps/fcd_faqmain.aspx#TOPIC_7250
-faq_url_external: true
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+paginate_path: '/media/page:num'
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  about-us:
-    output: true
-  discover-archives:
-    output: true
-  archives-reading-room:
-    output: true
-  conservation-and-preservation:
-    output: true
-  outreach:
-    output: true
-  off-the-record:
-    output: true
-  former-ford-factory:
-    output: true
-  asean-countries:
-    output: true
+    about-us:
+        output: true
+    discover-archives:
+        output: true
+    archives-reading-room:
+        output: true
+    conservation-and-preservation:
+        output: true
+    outreach:
+        output: true
+    off-the-record:
+        output: true
+    former-ford-factory:
+        output: true
+    asean-countries:
+        output: true
+favicon: /images/favicon-nas.ico
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
+colors:
+    primary-color: '#3A6222'
+    secondary-color: '#946F00'
+    media-colors:
+        - title: media-color-one
+          color: '#185E72'
+        - title: media-color-two
+          color: '#854266'
+        - title: media-color-three
+          color: '#9F2F1D'
+        - title: media-color-four
+          color: '#00838f'
+        - title: media-color-five
+          color: '#00838f'

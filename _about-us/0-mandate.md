@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Mandate
 permalink: /about-us/mandate/
 breadcrumb: Mandate
-collection_name: about-us
+
 ---
+
 
 The National Archives of Singapore (NAS) is an institution of the National Library Board (NLB). NAS is guided by the National Library Act to:
 

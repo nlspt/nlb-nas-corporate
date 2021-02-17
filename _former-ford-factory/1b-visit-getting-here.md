@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Getting Here
+title: 'Getting Here'
 permalink: /former-ford-factory/visit/getting-here/
-breadcrumb: Getting Here
-collection_name: former-ford-factory
-second_nav_title: "Visit"
+breadcrumb: 'Getting Here'
+third_nav_title: Visit
+
 ---
+
 
 #### BY BUS
 

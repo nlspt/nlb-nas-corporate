@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Publications
 permalink: /outreach/publications/
 breadcrumb: Publications
-collection_name: outreach
+
 ---
+
 
 NAS actively promotes awareness of our rich collection through research and publications. Over the years, NAS has produced many notable publications and interactive resources that are anchored on our archival holdings.
 

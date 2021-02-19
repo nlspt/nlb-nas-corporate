@@ -2,7 +2,7 @@ title: 'National Archives of Singapore'
 title-abbreviated: NAS
 description: 'The National Archives of Singapore (NAS) is the keeper of records of national or historical significance.'
 url: 'https://corporate.nas.gov.sg'
-google_analytics: null
+google_analytics: UA-50447519-1
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 plugins:

@@ -35,7 +35,7 @@ sections:
           subtitle: Features
           description: '“Blast from the Past” is a series that highlights some of Singapore’s shared experiences through the collections of the National Archives of Singapore.  Browse through our curated selection of photos, audiovisual content, declassified government files and oral history excerpts to find out more on Singapore’s past experiences.'
           url: 'http://www.nas.gov.sg/archivesonline/blastfromthepast/'
-          image: '/images/BFTP-11_image banner'
+          image: '/images/BFTP-11_image banner.jpg
           alt: 'Blast from the Past'
           button: 'View Blast from the Past'
     - infopic:

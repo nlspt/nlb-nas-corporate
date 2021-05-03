@@ -6,7 +6,7 @@ third_nav_title: Visit
 
 ---
 
-
+All our guided tours will remain temporarily unavailable until further notice.
 
 
 Join our walk in tours led by volunteer guides to learn more about war and its legacies, and discover the stories behind the rich collections on display! Tours are complimentary though [admission charges may apply](/former-ford-factory/visit/opening-hours/).
@@ -30,6 +30,8 @@ Stay tuned for updates on special curator tours.
 
 
 ### GROUP VISITS
+
+Large group visits are temporarily unavailable. 
 
 Please fill out the form below if you would like to request for a tour for your school or organisation. Charges may apply for the request of a guide. Please note that the last group visit is at 4.00pm.
 

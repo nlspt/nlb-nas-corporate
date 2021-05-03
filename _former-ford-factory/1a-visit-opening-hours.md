@@ -23,4 +23,4 @@ For foreign visitors : $3 per person
 Address: 351 Upper Bukit Timah Road, Singapore 588192<br>
 Email: [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg)
 
-All transactions at the Former Ford Factory are by CashCard, credit card (excluding Amex and Diners), EZ-Link or NETS. 
+All transactions at the Former Ford Factory are by credit card (excluding Amex and Diners) or NETS. 

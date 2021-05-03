@@ -20,7 +20,7 @@ To make a booking and for more information on online booking, please visit: go.g
 Open during Public Holidays except on the first day of Chinese New Year.
 
 **ADMISSION**<br>
-Free for Singapore citizens and PRs
+Free for Singapore citizens, PRs and Friends of the Museums (FOM)
 For foreign visitors : $3 per person
 
 ### CONTACT

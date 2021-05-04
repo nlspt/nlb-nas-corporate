@@ -1,0 +1,9 @@
+collections:
+  discover-archives:
+    output: true
+    order:
+      - archives-online.md
+      - citizen-archivist.md
+      - stories-of-yesteryear.md
+      - sounds-of-yesteryear.md
+      - singapore-policy-history-project.md

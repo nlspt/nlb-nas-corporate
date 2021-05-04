@@ -1,0 +1,19 @@
+collections:
+  former-ford-factory:
+    output: true
+    order:
+      - about-former-ford-factory.md
+      - visit/.keep
+      - visit/opening-hours-admission.md
+      - visit/getting-here.md
+      - visit/tours.md
+      - what-s-on/.keep
+      - what-s-on/exhibition.md
+      - what-s-on/intro.md
+      - what-s-on/fall-of-singapore.md
+      - what-s-on/becoming-syonan.md
+      - what-s-on/legacies-of-war.md
+      - former-ford-factory-mobile-app.md
+      - collection-highlights.md
+      - learn.md
+      - support.md

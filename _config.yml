@@ -5,65 +5,51 @@ url: 'https://corporate.nas.gov.sg'
 google_analytics: UA-50447519-1
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 resources_name: media
 paginate: 12
 paginate_path: '/media/page:num'
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
-collections:
-    about-us:
-        output: true
-    discover-archives:
-        output: true
-    archives-reading-room:
-        output: true
-    conservation-and-preservation:
-        output: true
-    outreach:
-        output: true
-    off-the-record:
-        output: true
-    former-ford-factory:
-        output: true
-    asean-countries:
-        output: true
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 favicon: /images/favicon-nas.ico
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
 colors:
-    primary-color: '#3A6222'
-    secondary-color: '#946F00'
-    media-colors:
-        - title: media-color-one
-          color: '#185E72'
-        - title: media-color-two
-          color: '#854266'
-        - title: media-color-three
-          color: '#9F2F1D'
-        - title: media-color-four
-          color: '#00838f'
-        - title: media-color-five
-          color: '#00838f'
+  primary-color: '#3A6222'
+  secondary-color: '#946F00'
+  media-colors:
+    - title: media-color-one
+      color: '#185E72'
+    - title: media-color-two
+      color: '#854266'
+    - title: media-color-three
+      color: '#9F2F1D'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
+staging: https://nas-corporate-staging.netlify.com
+prod: https://nas-corporate-prod.netlify.com
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme

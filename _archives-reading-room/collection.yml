@@ -1,0 +1,8 @@
+collections:
+  archives-reading-room:
+    output: true
+    order:
+      - about-archives-reading-room.md
+      - access-to-records.md
+      - what-services-we-offer.md
+      - policies-and-guidelines-for-archival-records.md

@@ -1,0 +1,8 @@
+collections:
+  outreach:
+    output: true
+    order:
+      - exhibitions.md
+      - public-programmes.md
+      - publications.md
+      - calendar-of-events.md

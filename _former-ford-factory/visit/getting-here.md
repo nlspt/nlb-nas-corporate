@@ -12,7 +12,7 @@ third_nav_title: Visit
 Bus Services to Upper Bukit Timah Road
 
 **Bus Service Number**<br>
-67, 75, 170, 171, 173, 178, 184, 961
+67, 75, 170, 171, 173, 178, 184, 961, 961M
 
 
 
@@ -29,10 +29,10 @@ Limited parking is available at the Former Ford Factory.
 **Nearest MRT Station**
 
 **Hillview MRT:**
-Take bus 67, 170, 171, 961 and alight opposite The Hillside
+Take bus 67, 170, 171, 961, 961M and alight opposite The Hillside
 
 **Beauty World MRT:**
-Take bus 67, 75, 170, 961 and alight after Old Jurong Road
+Take bus 67, 75, 170, 961, 961M and alight after Old Jurong Road
 
 **Bukit Batok MRT:**
 Take bus 173 and alight opposite The Hillside
